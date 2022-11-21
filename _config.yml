@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-template.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://land.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yourname # if you have an account you want to link to. Else comment this line out
 github_username:  yourname # if you have an account you want to link to. Else comment this line out
 

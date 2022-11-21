@@ -3,9 +3,10 @@ lang-ref: home
 layout: home
 title: Template headline
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/58912610/original.jpeg
+background: https://cdn.discordapp.com/attachments/1017143593351258192/1044260467109011566/Morten100_rorschach_insects_0fc28773-350b-4046-888f-db5d2ddef91b.png
 imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  Remember to write a description and a *license*
+height: 70vh
 cta:
   - text: Start exploring
     href: /occurrence/search
