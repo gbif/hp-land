@@ -1,0 +1,112 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+# You should also look at https://hp-theme.gbif-staging.org/documentation-intro for options
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Template # the title of your site should go here
+email: your-email@example.com
+description: >- # this means to ignore newlines (until baseurl:)
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hp-template.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: yourname # if you have an account you want to link to. Else comment this line out
+github_username:  yourname # if you have an account you want to link to. Else comment this line out
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: gbif/jekyll-hp-base-theme
+
+# For use by the 'standardPrivacy' layout
+privacy:
+  name: Your organisation name
+  domain: your-domain.org
+  contactEmail: info@your-domain.org
+  helpdeskEmail: helpdesk@your-domain.org
+
+# The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
+siteMeasurements:
+  enable: false # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
+  GA_ID: "G-XXXXXXXX" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
+  termsVersion: "2021-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
+
+
+algae:
+  rootLang: en
+  # latestPostLimit: 2
+  # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
+  # logoAndTitle: false           # include the title next to the logo
+  archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
+  style:
+    # square: false               # Should corners be square or rounded
+    colors:
+      primary: "#fa5e97"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
+    coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
+  navbar:                         # RELATED TO NAVIGATION BAR
+    # brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar
+    # color: "tomato"             # What color should the navbar be?
+    # hasWhiteText: true          # Should the text color be white?
+    # floating: true
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .LICENSE
+  - .netlify.toml
+  - .README.md
+
+permalink: pretty # will strip extensions like .html from urls
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "page" # So by default any page will use the layout "page"
+      lang: en # And have the default language english
+  - scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      layout: "post"
+      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  - scope:
+      path: "da/" # For anything in the "da" folder the default is to set the lang frontMatter property to "da" . this should be deleted or adapted to your site if you support other languages
+    values:
+      lang: da

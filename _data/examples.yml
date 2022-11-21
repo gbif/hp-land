@@ -1,0 +1,32 @@
+couldBeAnyName:
+  title: Checkout these cards!
+  description: |
+    This content in the yaml file could be used anywhere, right now it shows on the complex example page 
+  features:
+    - title: Pretty drawing # required
+      # preTitle: News  # optional
+      description: |      # required
+        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+      background: /assets/img/Haeckel_Caulerpa_racemosa.jpeg # img required
+      imageLicense: Kunstformen der Natur (1904) by Ernst Haeckel via [Wikimedia](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
+      href: /about
+      # categories: [drawings] # optional
+    - title: Other nice drawing
+      href: /about
+      description: |
+        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      background: /assets/img/Haeckel_Caulerpa_racemosa_(uvifera).jpeg
+      imageLicense: Kunstformen der Natur (1904) by Ernst Haeckel via [Wikimedia](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
+someOtherNameForSomeData: 
+  reverse: false # optional
+  title: Half and half
+  description: |      # required
+    Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+  # img required
+  background: /assets/img/Haeckel_Siphoneae.jpg
+  imageLicense: Kunstformen der Natur (1904) by Ernst Haeckel via [Wikimedia](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
+  href: /about
+  cta:
+  - text: Download report
+    href: http://example.com
+    isPrimary: true
