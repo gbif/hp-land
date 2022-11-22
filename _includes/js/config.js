@@ -22,7 +22,7 @@ var siteConfig = {
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
     rootPredicate: {type: 'in', key: 'datasetKey', values: ['6ac3f774-d9fb-4796-b3e9-92bf6c81c084', 'e6fab7b3-c733-40b9-8df3-2a03e49532c1', 'ad0d1a24-e952-11e2-961f-00145eb45e9a', '77ecd330-b09e-11e2-a01d-00145eb45e9a']},
-    // occurrenceSearchTabs: ['MAP', 'TABLE', 'DATASETS'] // what tabs should be shown
+    occurrenceSearchTabs: ['MAP', 'TABLE', 'DATASETS'], // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
     //excludedFilters: ['continent', 'basisOfRecord', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'samplingProtocol', 'dwcaExtension'],
     //highlightedFilters: ['q', 'taxonKey', 'typeStatus', 'recordedBy', 'recordNumber', 'locality', 'country', 'year'],
