@@ -19,7 +19,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Template # the title of your site should go here
+title: Atlas Lebendiger Natur Deutschlands # the title of your site should go here
 email: your-email@example.com
 description: >- # this means to ignore newlines (until baseurl:)
   Write an awesome description for your new site here. You can edit this
@@ -27,8 +27,8 @@ description: >- # this means to ignore newlines (until baseurl:)
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://land.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: yourname # if you have an account you want to link to. Else comment this line out
-github_username:  yourname # if you have an account you want to link to. Else comment this line out
+#twitter_username: yourname # if you have an account you want to link to. Else comment this line out
+#github_username:  yourname # if you have an account you want to link to. Else comment this line out
 
 # Build settings
 theme: minima
