@@ -28,6 +28,37 @@ var siteConfig = {
     //highlightedFilters: ['q', 'taxonKey', 'typeStatus', 'recordedBy', 'recordNumber', 'locality', 'country', 'year'],
     // defaultTableColumns: ['features', 'typeStatus', 'country', 'coordinates', 'year', 'basisOfRecord', 'dataset', 'publisher', 'catalogNumber', 'recordedBy', 'recordNumber', 'identifiedBy', collectionCode, institutionCode, locality]
   }
+  maps: {
+    locale: 'en', // what language should be used for GBIF base maps? See https://tile.gbif.org/ui/ for available languages in basemaps
+    defaultProjection: 'MERCATOR', // what is the default projection
+    defaultMapStyle: 'NATURAL', // what is the default style
+    // what options are avialable for which projections. Default styles are included, but you can also add your own if you are a carthography and style json expert. If not you probably need help.
+    mapStyles: {
+      ARCTIC: ['NATURAL', 'BRIGHT'],
+      PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
+      MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK'],
+      ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK']
+    },
+    // you can optionally add your own map styles or overwrite existing ones
+    addMapStyles: function ({ mapStyleServer, language, pixelRatio, apiKeys, mapComponents }) {
+      return {
+        BRIGHT_MERCATOR_TEST: { // the name of your style
+          component: mapComponents.OpenlayersMap, // what map component to use OpenlayersMap | OpenlayersMapbox
+          labelKey: 'My custom bright map', // the label in the select. Use a translation key
+          mapConfig: {
+            basemapStyle: `https://route.to.your.style.json`,
+            projection: 'EPSG_3857'// one of 4326 | 3031 | 3857 | 3575
+          }
+        }
+      }
+    },
+    // rewire style names to show a different style
+    styleLookup: {
+      MERCATOR: {
+        BRIGHT: 'BRIGHT_MERCATOR_TEST' // when showing the map type NATURAL in Mercator, then use the style 'BRIGHT_MERCATOR_TEST'.
+      }
+    }
+  }
 };
 
 // example of a language specific route overwrite
