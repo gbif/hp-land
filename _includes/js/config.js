@@ -27,7 +27,7 @@ var siteConfig = {
     //excludedFilters: ['continent', 'basisOfRecord', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'samplingProtocol', 'dwcaExtension'],
     //highlightedFilters: ['q', 'taxonKey', 'typeStatus', 'recordedBy', 'recordNumber', 'locality', 'country', 'year'],
     // defaultTableColumns: ['features', 'typeStatus', 'country', 'coordinates', 'year', 'basisOfRecord', 'dataset', 'publisher', 'catalogNumber', 'recordedBy', 'recordNumber', 'identifiedBy', collectionCode, institutionCode, locality]
-  }
+  },
   maps: {
     locale: 'en', // what language should be used for GBIF base maps? See https://tile.gbif.org/ui/ for available languages in basemaps
     // defaultProjection: 'MERCATOR', // what is the default projection
