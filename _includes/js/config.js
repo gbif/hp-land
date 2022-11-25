@@ -16,7 +16,7 @@ var siteConfig = {
     }
   },
   occurrence: {
-    mapSettings: {lat: 10, lng: 0, zoom: 4.9115440763665068},
+    mapSettings: {lat: 50, lng: 10, zoom: 4.9115440763665068},
     // You probably need help to configure the scope - so just ask
     // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
