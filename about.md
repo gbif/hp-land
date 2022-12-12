@@ -56,7 +56,7 @@ genitas trementi hoc bina tulisti! Tuae at aequor!
 
 ### Turbatque promittat memorque
 
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
+Ne arvis relinquit  deus. Superis et oppugnare suo armis? Adfata nec
 lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
 dum: fateor profugus renovatus exhalantem.
 
