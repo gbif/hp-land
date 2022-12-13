@@ -5,14 +5,14 @@
 columns:
   - name: Partners
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: Nationale Forschungsdateninfrastruktur für Biodiversität
+      href: https://www.nfdi4biodiversity.org
+    - text: Deutsches Zentrum für integrative Biodiversitätsforschung Halle-Jena-Leipzig (iDiv)
+      href: https://www.idiv.de/
 
   - name: Code
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+      This project is open source. 
   
   - name: Contact
     description: | # Can be Markdown
