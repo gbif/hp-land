@@ -5,18 +5,18 @@
 columns:
   - name: Partners
     links:
-    - text: Nationale Forschungsdateninfrastruktur für Biodiversität
+    - text: NFDI4Biodiversity
       href: https://www.nfdi4biodiversity.org
-    - text: Deutsches Zentrum für integrative Biodiversitätsforschung Halle-Jena-Leipzig (iDiv)
+    - text:  iDiv Halle-Jena-Leipzig
       href: https://www.idiv.de/
 
   - name: Code
     description: | # Can be Markdown
-      This project is open source. 
+      This project is [open source](https://github.com/gbif/hp-land). 
   
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
+      #Social icons links defined in `_config.yml`
       * Street name
       * 1234 postal code
       * Country
