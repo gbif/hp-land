@@ -6,4 +6,7 @@ vendor
 
 # Mac OS X
 .DS_Store
+.Rproj.user
 
+hp-land.Rproj
+.Rhistory
