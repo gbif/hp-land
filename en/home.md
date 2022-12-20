@@ -1,18 +1,18 @@
 ---
 lang-ref: home
 layout: home
-title: Skabelon overskrift
+title: English title here
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/58912610/original.jpeg
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
-  - text: Udforsk
-    href: /da/observationer/sog
+  - text: Discover biodiversity
+    href: /en/occurrence/search
     isPrimary: true
-  - text: Om
-    href: /da/om
-permalink: /da
+  - text: Lern more
+    href: /en/about
+permalink: /en
 ---
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
