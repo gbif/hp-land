@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: Über
+title: Über das Projekt
 description: 
 background: /assets/images/moss.jpg
 imageLicense: |
