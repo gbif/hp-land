@@ -1,6 +1,6 @@
 ---
 lang-ref: occurrence/search
-title: Occurrence search
-description: We publish open data
+title: Artensuche
+description: Suche von Beleg- und Observationsdaten in Deutschland
 layout: occurrence
 ---
