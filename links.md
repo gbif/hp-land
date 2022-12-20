@@ -2,9 +2,9 @@
 lang-ref: links
 title: Links
 description: Community, networks, standards & tools
-#background: /assets/images/Fucus_vesiculosus.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/248448048/original.jpeg
 imageLicense: |
- [*Fucus vesiculosus* L.](/data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbODIyMjU3NF19fQ&view=TABLE);  photo by [Thomas Dürbye](https://www.bgbm.org/en/staff/thomas-durbye) via [GBIF](https://www.gbif.org/occurrence/2960620323)
+ *Emberiza schoeniclus*. Photo by frankielee91 via [iNaturalist](https://www.inaturalist.org/observations/144718839)
 height: 50vh
 ---
 
