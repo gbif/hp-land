@@ -100,7 +100,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page" # So by default any page will use the layout "page"
-      lang: en # And have the default language english
+      lang: de # And have the default language english
   - scope:
       path: "_posts" # an empty string here means all files in the project
     values:
