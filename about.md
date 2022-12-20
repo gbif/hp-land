@@ -14,7 +14,7 @@ Dies ist der Pilot eines "Lebendigen Atlas" für Deutschland, einem Portal, das 
 
 Dieses Portal wird im Rahmen eines Use cases der [Nationalen Forschungsdateninfrastruktur für Biodiversität](https://www.nfdi4biodiversity.org) (NFDI4Biodiversity) entwickelt und geht zurück auf eine Machbarkeitsstudie des UFZ unter der Leitung von Prof. Aletta Bonn.
 
-Langfristig verfolgt der Lebendige Atlas 5 zentrale Visionen, die mit Vertretern von Verbänden, Fachgesellschaften, Fachbehörden und Wissenschaft im Rahmen der Machbarkeitstudie erarbeitet wurden:
+Langfristig verfolgt der Lebendige Atlas 5 zentrale Visionen, die mit Vertreter:innen von Verbänden, Fachgesellschaften, Fachbehörden und Wissenschaft im Rahmen der Machbarkeitstudie erarbeitet wurden:
 
 * Projekte für Natur und Umwelt in Deutschland vernetzen und unterstützen
 * Daten zu Natur und Umwelt zusammenführen, harmonisieren und visualisieren
