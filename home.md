@@ -3,9 +3,9 @@ lang-ref: home
 layout: home
 title: Lebendiger Atlas - Natur Deutschland (LAND)
 description: Ein Biodiversitätsportal für Deutschland
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/248448048/original.jpeg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/247342324/original.jpeg
 imageLicense: |
-  *Emberiza schoeniclus*. Photo by frankielee91 via [iNaturalist](https://www.inaturalist.org/observations/144718839)
+  *Neotinea ustulata*. Photo by staskanji via [iNaturalist](https://www.inaturalist.org/observations/144145779)
 height: 80vh
 cta:
   - text: Entdecke Artenvielfalt
