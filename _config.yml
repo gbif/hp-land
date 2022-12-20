@@ -100,13 +100,13 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page" # So by default any page will use the layout "page"
-      lang: en # And have the default language english
+      lang: de # And have the default language english
   - scope:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   - scope:
-      path: "da/" # For anything in the "da" folder the default is to set the lang frontMatter property to "da" . this should be deleted or adapted to your site if you support other languages
+      path: "en/" # For anything in the "da" folder the default is to set the lang frontMatter property to "da" . this should be deleted or adapted to your site if you support other languages
     values:
-      lang: da
+      lang: en
