@@ -3,7 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partnere
+  - name: Partners
     links:
     - text: Navn på projektpartner
       href: http://example.com
