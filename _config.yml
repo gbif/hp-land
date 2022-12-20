@@ -54,7 +54,7 @@ siteMeasurements:
 
 algae:
   hideHelper: true
-  rootLang: en
+  rootLang: de
   # latestPostLimit: 2
   # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
