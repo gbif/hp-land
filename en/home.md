@@ -10,7 +10,7 @@ cta:
   - text: Discover biodiversity
     href: /en/occurrence/search
     isPrimary: true
-  - text: Lern more
+  - text: Learn more
     href: /en/about
 permalink: /en
 ---
