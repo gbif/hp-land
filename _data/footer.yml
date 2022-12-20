@@ -7,6 +7,8 @@ columns:
     links:
     - text: NFDI4Biodiversity
       href: https://www.nfdi4biodiversity.org
+    - text: BGBM Berlin
+      href: https://www.bgbm.org/de
     - text:  iDiv Halle-Jena-Leipzig
       href: https://www.idiv.de/
 
@@ -14,12 +16,7 @@ columns:
     description: | # Can be Markdown
       This project is [open source](https://github.com/gbif/hp-land). 
   
-  - name: Contact
-    description: | # Can be Markdown
-      #Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+
     connectIcons: true
 
   # EXAMPLE
