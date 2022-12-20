@@ -3,7 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Partner
     links:
     - text: NFDI4Biodiversity
       href: https://www.nfdi4biodiversity.org
