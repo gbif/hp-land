@@ -17,4 +17,4 @@ permalink: /
 ---
 
 
-<a class="twitter-timeline" href="https://twitter.com/NFDI4BioDiv?ref_src=twsrc%5Etfw">Tweets by NFDI4BioDiv</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="600" data-height="600" href="https://twitter.com/NFDI4BioDiv?ref_src=twsrc%5Etfw">Tweets by NFDI4BioDiv</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
