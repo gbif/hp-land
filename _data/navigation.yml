@@ -1,9 +1,9 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+- text: Zum Atlas
+  href: /occurrence/search
 - text: Über das Projekt
   href: /about
-- text: Artensuche
-  href: /occurrence/search
 - text: Häufige Fragen
   href: /FAQ
 - text: Links
