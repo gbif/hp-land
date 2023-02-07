@@ -36,7 +36,7 @@ var siteConfig = {
     //excludedFilters: ['continent', 'basisOfRecord', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'samplingProtocol', 'dwcaExtension'],
 
     highlightedFilters: ['taxonKey','q', 'year','month', 'gadmGid', 'locality', 'occurrenceIssue'],
-    defaultTableColumns: ['features', 'typeStatus', 'coordinates', 'year',  'dataset', 'publisher']
+    defaultTableColumns: ['coordinates', 'year',  'dataset', 'publisher', 'features']
   },
   maps: {
     locale: 'en', // what language should be used for GBIF base maps? See https://tile.gbif.org/ui/ for available languages in basemaps
