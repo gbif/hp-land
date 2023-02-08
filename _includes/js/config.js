@@ -43,7 +43,7 @@ var siteConfig = {
         config: {
           std: {
             filterHandle: 'taxonKey',// if nothing else provided, then this is the filterName used
-            id2labelHandle: 'canonicalName',
+            id2labelHandle: 'taxonKey',
             translations: {
               count: 'filters.taxonKey.count', // translation path to display names with counts. e.g. "3 scientific names"
               name: 'filters.taxonKey.name',// translation path to a title for the popover and the button
