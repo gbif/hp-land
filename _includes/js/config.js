@@ -36,7 +36,27 @@ var siteConfig = {
     //excludedFilters: ['continent', 'basisOfRecord', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'samplingProtocol', 'dwcaExtension'],
 
     highlightedFilters: ['taxonKey','q', 'year','month', 'gadmGid', 'locality', 'occurrenceIssue'],
-    defaultTableColumns: ['coordinates', 'year',  'dataset', 'publisher', 'features']
+    defaultTableColumns: ['coordinates', 'year',  'dataset', 'publisher', 'features'],
+    filters: {
+      taxonKey: {
+        type: 'SUGGEST',
+        config: {
+          std: {
+            filterHandle: 'taxonKey',// if nothing else provided, then this is the filterName used
+            id2labelHandle: 'canonicalName',
+            translations: {
+              count: 'filters.taxonKey.count', // translation path to display names with counts. e.g. "3 scientific names"
+              name: 'filters.taxonKey.name',// translation path to a title for the popover and the button
+              description: 'filters.taxonKey.description', // translation path for the filter description
+            },
+          },
+          specific: {
+            suggestHandle: 'taxonKeyVernacular',
+            id2labelHandle: 'taxonKey'
+          }
+        }
+      }
+    }
   },
   maps: {
     locale: 'en', // what language should be used for GBIF base maps? See https://tile.gbif.org/ui/ for available languages in basemaps
