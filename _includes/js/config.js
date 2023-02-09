@@ -7,6 +7,24 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
   fontSize: '16px'
 }});
 
+function getSuggests({ client }) {
+  return {
+    gadmGid: {
+      getSuggestions: ({ q }) => {
+        const { promise, cancel } = client.v1Get(`/geocode/gadm/search?gadmGid=DEU&limit=100&q=${q}`); // this gadmGid=DEU is the new part, that means that the suggester will now only suggest things in Germany
+        return {
+          promise: promise.then(response => {
+            return {
+              data: response.data.results.map(x => ({ title: x.name, key: x.id, ...x }))
+            }
+          }),
+          cancel
+        }
+      }
+    }
+  }
+}
+
 var siteConfig = {
   routes: {
     occurrenceSearch: {
@@ -56,7 +74,8 @@ var siteConfig = {
           }
         }
       }
-    }
+    },
+    getSuggests: getSuggests
   },
   maps: {
     locale: 'en', // what language should be used for GBIF base maps? See https://tile.gbif.org/ui/ for available languages in basemaps
