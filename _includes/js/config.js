@@ -83,8 +83,8 @@ var siteConfig = {
   },
   maps: {
     locale: 'en', // what language should be used for GBIF base maps? See https://tile.gbif.org/ui/ for available languages in basemaps
-    // defaultProjection: 'MERCATOR', // what is the default projection
-    // defaultMapStyle: 'NATURAL', // what is the default style
+    defaultProjection: 'MERCATOR', // what is the default projection
+    defaultMapStyle: 'TEST', // what is the default style
     // what options are avialable for which projections. Default styles are included, but you can also add your own if you are a carthography and style json expert. If not you probably need help.
     mapStyles: {
       ARCTIC: ['NATURAL', 'BRIGHT'],
@@ -97,7 +97,7 @@ var siteConfig = {
       return {
         EXAMPLE_MAP: { // the name of your style
           component: mapComponents.OpenlayersMap, // what map component to use OpenlayersMap | OpenlayersMapbox
-          labelKey: 'My custom bright map', // the label in the select. Use a translation key
+          labelKey: 'I ❤️ GBIF', // the label in the select. Use a translation key
           mapConfig: {
             basemapStyle: '/assets/maps/example.json',
             projection: 'EPSG_3857'// one of 4326 | 3031 | 3857 | 3575
