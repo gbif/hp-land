@@ -85,13 +85,13 @@ var siteConfig = {
     mapStyles: {
       ARCTIC: ['NATURAL', 'BRIGHT'],
       PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
-      MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK', 'BRIGHT_MERCATOR_TEST'],
+      MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK', 'SATELLITE_MERCATOR_TEST'],
       ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK']
     },
     // you can optionally add your own map styles or overwrite existing ones
     addMapStyles: function ({ mapStyleServer, language, pixelRatio, apiKeys, mapComponents }) {
       return {
-        BRIGHT_MERCATOR_TEST: { // the name of your style
+        SATELLITE_MERCATOR_TEST: { // the name of your style
           component: mapComponents.OpenlayersMap, // what map component to use OpenlayersMap | OpenlayersMapbox
           labelKey: 'My custom bright map', // the label in the select. Use a translation key
           mapConfig: {
