@@ -85,22 +85,22 @@ var siteConfig = {
     mapStyles: {
       ARCTIC: ['NATURAL', 'BRIGHT'],
       PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
-      MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK'],
+      MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK', 'BRIGHT_MERCATOR_TEST'],
       ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK']
     },
     // you can optionally add your own map styles or overwrite existing ones
-    /*addMapStyles: function ({ mapStyleServer, language, pixelRatio, apiKeys, mapComponents }) {
+    addMapStyles: function ({ mapStyleServer, language, pixelRatio, apiKeys, mapComponents }) {
       return {
         BRIGHT_MERCATOR_TEST: { // the name of your style
           component: mapComponents.OpenlayersMap, // what map component to use OpenlayersMap | OpenlayersMapbox
           labelKey: 'My custom bright map', // the label in the select. Use a translation key
           mapConfig: {
-            basemapStyle: `https://route.to.your.style.json`,
+            basemapStyle: 'https://graphql.gbif-staging.org/unstable-api/map-styles/3857/satellite_maptiler?maptilerApiKey=your-maptiler-key',
             projection: 'EPSG_3857'// one of 4326 | 3031 | 3857 | 3575
           }
         }
       }
-    },*/
+    },
     // rewire style names to show a different style
     /*styleLookup: {
       MERCATOR: {
