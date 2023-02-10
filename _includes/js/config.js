@@ -85,7 +85,7 @@ var siteConfig = {
     mapStyles: {
       ARCTIC: ['NATURAL', 'BRIGHT'],
       PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
-      MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK', 'BRIGHT_MERCATOR_TEST'],
+      MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK'], //, 'BRIGHT_MERCATOR_TEST'
       ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK']
     },
     // you can optionally add your own map styles or overwrite existing ones
