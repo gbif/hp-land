@@ -2,7 +2,7 @@
 lang-ref: links
 title: Links
 description: Netzwerk und weiterführende Informationen
-background: /assets/images/inat_observation144718839.jpeg
+background: /assets/images/inat_observation_144718839.jpeg
 imageLicense: |
  *Emberiza schoeniclus*. Photo by frankielee91 via [iNaturalist](https://www.inaturalist.org/observations/144718839)
 height: 80vh
