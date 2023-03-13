@@ -10,11 +10,11 @@ height: 70vh
 
 ## Der Lebendige Atlas - Natur Deutschland (LAND)
 
-Dies ist der Pilot eines "Lebendigen Atlas" für Deutschland, einem Portal, das unterschiedliche Artenbeobachtungen in Deutschland an einer Stelle bündelt und der breiten Öffentlichkeit zur Verfügung stellt. Derzeit werden hier Artenvorkommen ausgewählter Datensätze angezeigt, die allesamt auf [GBIF](https://www.gbif.org/) (Global Biodiversity Information Facility) öffentlich zur Verfügung stehen. 
+Der “Lebendige Atlas Deutschland” bündelt Artbeobachtungen in Deutschland, um sie für Fachanwendungen und eine breite Öffentlichkeit zur Verfügung zu stellen. Derzeit werden Artenvorkommen ausgewählter Datensätze angezeigt, die über das Portal der [Global Biodiversity Information Facility (GBIF)](http://www.gbif.org) öffentlich zur Verfügung stehen.
 
-Dieses Portal wird im Rahmen eines Use cases der [Nationalen Forschungsdateninfrastruktur für Biodiversität](https://www.nfdi4biodiversity.org) (NFDI4Biodiversity) entwickelt und geht zurück auf eine Machbarkeitsstudie des UFZ unter der Leitung von Prof. Aletta Bonn.
+Das Portal wird im Rahmen eines Use Case der [Nationalen Forschungsdateninfrastruktur für Biodiversität (NFDI4Biodiversity)](https://www.nfdi4biodiversity.org) entwickelt.
 
-Langfristig verfolgt der Lebendige Atlas 5 zentrale Visionen, die mit Vertreter:innen von Verbänden, Fachgesellschaften, Fachbehörden und Wissenschaft im Rahmen der Machbarkeitstudie erarbeitet wurden:
+Langfristig verfolgt der Lebendige Atlas 5 zentrale Visionen, die mit Vertreter:innen von Verbänden, Fachgesellschaften, Fachbehörden und Wissenschaft, im Rahmen einerMachbarkeitsstudie des UFZ unter leitung von Prof. Aletta Bonn, erarbeitet wurden:
 
 * Projekte für Natur und Umwelt in Deutschland vernetzen und unterstützen
 * Daten zu Natur und Umwelt zusammenführen, harmonisieren und visualisieren
@@ -23,4 +23,5 @@ Langfristig verfolgt der Lebendige Atlas 5 zentrale Visionen, die mit Vertreter:
 * Gemeinsam Wissen schaffen – Zukunft gestalten
 
 ![image](/assets/images/LAND_logo.jpg)
+
 
