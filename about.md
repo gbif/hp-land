@@ -2,7 +2,7 @@
 lang-ref: about
 title: Über das Projekt
 description: 
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/247956183/original.jpeg
+background: /assets/images/inat_observation_144467642.jpeg
 imageLicense: |
   *Holopyga fervida*. Photo by Karsten Mody via [iNaturalist](https://www.inaturalist.org/observations/144467642)
 height: 70vh

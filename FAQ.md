@@ -2,7 +2,7 @@
 lang-ref: faq
 title: Häufige Fragen
 description: Eine Auswahl an Fragen und Antworten
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/248347898/original.jpg
+background: /assets/images/inat_observation_144669172.jpeg
 imageLicense: |
  *Phoca vitulina*. Photo by simarillon via [iNaturalist](https://www.inaturalist.org/observations/144669172)
 height: 70vh
