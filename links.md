@@ -2,7 +2,7 @@
 lang-ref: links
 title: Links
 description: Community, networks, standards & tools
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/248448048/original.jpeg
+background: assets/images/inat_observation144718839.jpeg
 imageLicense: |
  *Emberiza schoeniclus*. Photo by frankielee91 via [iNaturalist](https://www.inaturalist.org/observations/144718839)
 height: 80vh
