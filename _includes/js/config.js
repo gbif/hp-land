@@ -93,6 +93,10 @@ var siteConfig = {
       }
     }
   }
+  messages: {
+    "filters.taxonKey.name": "Art/ Taxonomische Gruppe",
+    "filters.taxonKey.count": "{num, plural, one {species or group} other {# species or groups}}"
+  },
 };
 
 // example of a language specific route overwrite
