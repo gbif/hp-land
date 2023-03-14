@@ -24,7 +24,7 @@ var siteConfig = {
     rootPredicate: {
 		type: "and",
 		predicates: [
-				{type: 'in', key: 'datasetKey', values: ['6ac3f774-d9fb-4796-b3e9-92bf6c81c084', 'e6fab7b3-c733-40b9-8df3-2a03e49532c1', 'ad0d1a24-e952-11e2-961f-00145eb45e9a', '77ecd330-b09e-11e2-a01d-00145eb45e9a']},
+				{type: 'in', key: 'datasetKey', values: ['6ac3f774-d9fb-4796-b3e9-92bf6c81c084', 'e6fab7b3-c733-40b9-8df3-2a03e49532c1', 'ad0d1a24-e952-11e2-961f-00145eb45e9a', '77ecd330-b09e-11e2-a01d-00145eb45e9a', '50c9509d-22c7-4a22-a47d-8c48425ef4a7']},
 				{type: 'equals', key: 'country', value: 'DE'},
 				{type: 'not', predicate:
 						{type: 'equals', key: 'hasGeospatialIssue', value: 'true'}
