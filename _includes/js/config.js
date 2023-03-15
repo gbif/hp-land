@@ -94,7 +94,7 @@ var siteConfig = {
     }
   },
   messages: {
-    "filters.taxonKey.name": "Art/Taxonomische Gruppe",
+    "filters.taxonKey.name": "Species/Taxonomic group",
     "filters.taxonKey.count": "{num, plural, one {species or group} other {# species or groups}}"
   },
 };
