@@ -101,6 +101,8 @@ var siteConfig = {
 
 // example of a language specific route overwrite
 if (pageLang === 'de')  {
-  siteConfig.messages.filters.taxonKey.name = "Art/Taxonomische Gruppe";
-  siteConfig.messages.filters.taxonKey.count = "{num, plural, one {Art/Taxongruppe} other {# Arten/Taxongruppen}}";
+  siteConfig.messages = {
+	  "filters.taxonKey.name": "Art/Taxonomische Gruppe",
+	  "filters.taxonKey.count": "{num, plural, one {Art/Taxongruppe} other {# Arten/Taxongruppen}}"
+  }
 }
