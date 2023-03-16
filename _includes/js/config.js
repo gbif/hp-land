@@ -31,7 +31,7 @@ var siteConfig = {
 				}
 		]
 	},
-    occurrenceSearchTabs: ['MAP', 'TABLE', 'DATASETS'], // what tabs should be shown
+    occurrenceSearchTabs: ['MAP', 'TABLE', 'DATASETS', 'GALLERY', // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
     //excludedFilters: ['continent', 'basisOfRecord', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'samplingProtocol', 'dwcaExtension'],
 
