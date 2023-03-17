@@ -12,9 +12,9 @@ columns:
     - text:  iDiv Halle-Jena-Leipzig
       href: https://www.idiv.de/
 
-  - name: Code
+  - name: Entwicklung
     description: | # Can be Markdown
-      This project is [open source](https://github.com/gbif/hp-land). 
+     Dieses Projekt ist [open source](https://github.com/gbif/hp-land) und befindet sich derzeit noch in der Entwicklung.
   
 
     connectIcons: true
