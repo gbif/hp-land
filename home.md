@@ -16,7 +16,11 @@ cta:
 permalink: /
 ---
 
-Willkommen zum GBIF-Portal des "Lebendigen Atlas - Natur Deutschland (LAND)". Diese Seite befindet sich noch im Aufbau, aber es gibt schon viel zu entdecken. Viel Spaß!
+### Hinweis zur Entwicklung
+
+Willkommen auf dem GBIF-Portal des "Lebendigen Atlas - Natur Deutschland (LAND)". Das Portal und diese Webseite befinden sich noch in der Entwicklung und sollten daher nicht als stabil betrachtet werden. Auch die URL wird sich für die offizielle Veröffentlichung noch ändern. Für Fragen und Anregungen stehen wir gerne zur Verfügung.
+
+
 
 ### Neues vom NFDI4Biodiversity-Konsortium auf Twitter
 
