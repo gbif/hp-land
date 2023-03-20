@@ -16,6 +16,17 @@ columns:
     description: | # Can be Markdown
      Dieses Projekt ist [open source](https://github.com/gbif/hp-land) und befindet sich derzeit noch in der Entwicklung.
   
+  - name: Ansprechpartner
+    links:
+    - text: Jörg Holetschek (BGBM)
+      href: J.Holetschek@bo.berlin
+    
+    - text: Thore Engel (iDiv)
+      href: thore.engel@idiv.de
+    - text: Impressum
+
+    
+       
 
     connectIcons: true
 
