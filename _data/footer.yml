@@ -20,11 +20,10 @@ columns:
     links:
     - text: Jörg Holetschek (BGBM)
       href: "mailto:J.Holetschek@bo.berlin"
-    
     - text: Thore Engel (iDiv)
       href: "mailto:thore.engel@idiv.de"
     - text: Impressum
-    - href: https://www.bo.berlin/en/imprint
+      href: https://www.bo.berlin/en/imprint
 
     
        
