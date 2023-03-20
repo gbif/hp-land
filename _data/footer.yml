@@ -19,10 +19,10 @@ columns:
   - name: Ansprechpartner
     links:
     - text: Jörg Holetschek (BGBM)
-      href: J.Holetschek@bo.berlin
+      href: "mailto:J.Holetschek@bo.berlin"
     
     - text: Thore Engel (iDiv)
-      href: thore.engel@idiv.de
+      href: "mailto:thore.engel@idiv.de"
     - text: Impressum
 
     
