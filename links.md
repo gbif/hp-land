@@ -14,4 +14,6 @@ height: 80vh
 * [Machbarkeitsstudie von 2016](https://www.ufz.de/index.php?de=40360)
 
 
+![image](/assets/images/211211_NFDI4Bio_LogoTapete.png)
+
 
