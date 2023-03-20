@@ -10,10 +10,13 @@ height: 80vh
 
 
 * [NFDI4Biodiversity](https://www.nfdi4biodiversity.org/) 
-* [Global Biodiversity Information Facility - GBIF](https://www.gbif.org/)
-* [Machbarkeitsstudie von 2016](https://www.ufz.de/index.php?de=40360)
 
 
+### Partner im [NFDI4Biodiversity-Konsortium](https://www.nfdi4biodiversity.org/):
 ![image](/assets/images/211211_NFDI4Bio_LogoTapete.png)
+
+### Weiterführende Informationen
+* [Global Biodiversity Information Facility - GBIF](https://www.gbif.org/)
+* [LAND Machbarkeitsstudie von 2016](https://www.ufz.de/index.php?de=40360)
 
 
