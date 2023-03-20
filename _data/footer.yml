@@ -16,7 +16,7 @@ columns:
     description: | # Can be Markdown
      Dieses Projekt ist [open source](https://github.com/gbif/hp-land) und befindet sich derzeit noch in der Entwicklung.
   
-  - name: Ansprechpartner
+  - name: Ansprechpersonen und Impressum
     links:
     - text: Jörg Holetschek (BGBM)
       href: "mailto:J.Holetschek@bo.berlin"
