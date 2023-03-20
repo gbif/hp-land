@@ -106,7 +106,3 @@ defaults:
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-  - scope:
-      path: "en/" # For anything in the "da" folder the default is to set the lang frontMatter property to "da" . this should be deleted or adapted to your site if you support other languages
-    values:
-      lang: en
