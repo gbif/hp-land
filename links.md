@@ -16,8 +16,7 @@ height: 80vh
 - [iNaturalist Research-Grade Observations](https://doi.org/10.15468/ab3s5x)
 - [Hamonisierte Fischmonitoringdaten von 12 Bundesländern](https://doi.org/10.15468/c75fky)
 
-![image](/assets/images/Logos_Datensätze/logos_datenpartner.jpg)
-
+![image](/assets/images/logos_datenpartner.jpg)
 
 ###  [Das NFDI4Biodiversity-Konsortium](https://www.nfdi4biodiversity.org/):
 ![image](/assets/images/211211_NFDI4Bio_LogoTapete.png)
