@@ -1,4 +1,5 @@
 ---
+layout: post 
 title: Hamonisierte Fischmonitoringdaten von 12 Bundesländern
 
 background: /assets/images/elbe-g06d81b88e_1920.jpg
@@ -8,12 +9,14 @@ imageLicense: |
 height: 70vh
 ---
 
-## Beschreibung
+## Über diesen Datensatz
 
 Zum harmonisierten Fischmonitoringdatensatz haben insgesamt 12 Bundesländer (Berlin, Brandenburg, Bremen, Hessen, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Niedersachsen, Nordrhein-Westfalen, Thüringen) beigetragen. 
 
 Der so entstandene Datensatz enthält Abundanzdaten für 72 heimische und nicht-heimische Süßwasserfischarten, die an mehr als 12.000 Probestellen gesammelt wurden. Ein Großteil der Daten wurde im Rahmen von Wasserrahmenrichtlinie oder Flora-Fauna-Habitat-Richtlinie Monitorings erhoben. Das heißt, die Daten wurden standardisiert erhoben und durch ExpertInnen bestimmt. Der gesamte Datensatz deckt einen Zeitraum von 1985 bis 2020 ab, wobei der Zeitraum von 2004 bis 2020 als Kernzeitraum betrachtet werden kann.
-Dieser Datensatz ist nicht „abgeschlossen“, sondern kann im Gegenteil jederzeit ergänzt und aktualisiert werden. Falls Sie Daten haben, die diesen Datensatz sinnvoll ergänzen können und diese Daten gerne einer breiten Öffentlichkeit zur Verfügung stellen möchten, kontaktieren Sie uns gerne.
+Dieser Datensatz ist nicht „abgeschlossen“, sondern kann im Gegenteil jederzeit ergänzt und aktualisiert werden. Falls Sie Daten haben, die diesen Datensatz sinnvoll ergänzen können und diese Daten gerne einer breiten Öffentlichkeit zur Verfügung stellen möchten, kontaktieren Sie gerne [Martin Friedrichs-Manthey](mailto:martin.friedrichs-manthey@idiv.de).
+
+[Hier](https://doi.org/10.15468/c75fky) geht es zum Datensatz auf GBIF.
 
 ![image](/assets/images/fischmonitoring.jpg)
 *Abbildung 1: Räumliche Abdeckung der Daten (links). Circa 50% der Messstellen wurden nur einmalig beprobt, alle anderen Messstellen wurden mindestens 2 mal beprobt. Die Anzahl der Messtellen und die Häufigkeit ihrer Beprobung (2 oder mehr Jahre) ist im rechten Bild gezeit.*
@@ -36,6 +39,7 @@ Dieser Datensatz ist nicht „abgeschlossen“, sondern kann im Gegenteil jederz
 |Thüringen|Fischdatenbank Thüringen|621|
 
 ![image](/assets/images/landeswappen.jpg)
+
 
 ## Danksagung
 Wir möchten uns gerne bei allen DatenlieferantInnen für die Bereitstellung der Daten und der Mitarbeit bei der Publikation dieser Daten bedanken.
