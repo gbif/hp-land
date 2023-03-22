@@ -1,12 +1,14 @@
 ---
 lang-ref: links
-title: Links
-description: Netzwerk und weiterführende Informationen
+title: Netzwerk und Datenpartner
+description: Entdecke unsere Community und weiterführende Informationen
 background: /assets/images/inat_observation_144718839.jpeg
 imageLicense: |
  *Emberiza schoeniclus*. Photo by frankielee91 via [iNaturalist](https://www.inaturalist.org/observations/144718839)
 height: 80vh
 ---
+
+
 
 ### Partner im [NFDI4Biodiversity-Konsortium](https://www.nfdi4biodiversity.org/):
 ![image](/assets/images/211211_NFDI4Bio_LogoTapete.png)
