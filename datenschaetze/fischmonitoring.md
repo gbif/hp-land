@@ -32,11 +32,8 @@ Dieser Datensatz ist nicht „abgeschlossen“, sondern kann im Gegenteil jederz
 |Niedersachsen|Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit (LAVES), Dezernat Binnenfischerei|530|
 |Saarland|Landesamt für Umwelt und Arbeitsschutz Saarland, Fachbereich|63|
 |Sachsen|LfULG (2021): Auszug aus der Fischdatenbank SaFiDB|3735|
-|Sachsen-Anhalt|Landesverwaltungsamt Sachsen-Anhalt Halle (Saale) & Institut für Binnenfischerei 
-Potsdam-Sacrow e.V.: Fischartenkataster des Landes Sachsen-Anhalt 1992-2021
-|436|
-|Schleswig-Holstein|Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein
-|1881|
+|Sachsen-Anhalt|Landesverwaltungsamt Sachsen-Anhalt Halle (Saale) & Institut für Binnenfischerei Potsdam-Sacrow e.V.: Fischartenkataster des Landes Sachsen-Anhalt 1992-2021 |436|
+|Schleswig-Holstein|Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein |1881|
 |Thüringen|Fischdatenbank Thüringen|621|
 
 
