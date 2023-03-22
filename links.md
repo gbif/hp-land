@@ -1,6 +1,6 @@
 ---
 lang-ref: links
-title: Netzwerk und Datenpartner
+title: Datenpartner und Netzwerk
 description: Entdecke unsere Community und weiterführende Informationen
 background: /assets/images/inat_observation_144718839.jpeg
 imageLicense: |
