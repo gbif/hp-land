@@ -14,9 +14,9 @@ height: 70vh
 Zum harmonisierten Fischmonitoringdatensatz haben insgesamt 12 Bundesländer (Berlin, Brandenburg, Bremen, Hessen, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Niedersachsen, Nordrhein-Westfalen, Thüringen) beigetragen. 
 
 Der so entstandene Datensatz enthält Abundanzdaten für 72 heimische und nicht-heimische Süßwasserfischarten, die an mehr als 12.000 Probestellen gesammelt wurden. Ein Großteil der Daten wurde im Rahmen von Wasserrahmenrichtlinie oder Flora-Fauna-Habitat-Richtlinie Monitorings erhoben. Das heißt, die Daten wurden standardisiert erhoben und durch ExpertInnen bestimmt. Der gesamte Datensatz deckt einen Zeitraum von 1985 bis 2020 ab, wobei der Zeitraum von 2004 bis 2020 als Kernzeitraum betrachtet werden kann.
-Dieser Datensatz ist nicht „abgeschlossen“, sondern kann im Gegenteil jederzeit ergänzt und aktualisiert werden. Falls Sie Daten haben, die diesen Datensatz sinnvoll ergänzen können und diese Daten gerne einer breiten Öffentlichkeit zur Verfügung stellen möchten, kontaktieren Sie gerne [Martin Friedrichs-Manthey](mailto:martin.friedrichs-manthey@idiv.de).
+Dieser Datensatz ist nicht „abgeschlossen“, sondern kann im Gegenteil jederzeit ergänzt und aktualisiert werden. Falls Sie Daten haben, die diesen Datensatz sinnvoll ergänzen können und diese Daten gerne einer breiten Öffentlichkeit zur Verfügung stellen möchten, kontaktieren Sie gerne die Autoren [Martin Friedrichs-Manthey](mailto:martin.friedrichs-manthey@idiv.de) und/oder [Jörg Freyhof](mailto:Joerg.Freyhof@mfn.berlin).
 
-[Hier](https://doi.org/10.15468/c75fky) geht es zum Datensatz auf GBIF.
+[Hier geht es zum Datensatz auf GBIF.](https://doi.org/10.15468/c75fky) 
 
 ![image](/assets/images/fischmonitoring.jpg)
 *Abbildung 1: Räumliche Abdeckung der Daten (links). Circa 50% der Messstellen wurden nur einmalig beprobt, alle anderen Messstellen wurden mindestens 2 mal beprobt. Die Anzahl der Messtellen und die Häufigkeit ihrer Beprobung (2 oder mehr Jahre) ist im rechten Bild gezeit.*
