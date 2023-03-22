@@ -4,14 +4,14 @@
   href: /occurrence/search
 - text: Über das Projekt
   href: /about
-- text: Datens(ch)ätze
+- text: Ausgewählte Datens(ch)ätze
   menu: 
   - text: Hamonisierte Fischmonitoringdaten
     href: /datenschätze/fischmonitoring
   
 - text: Häufige Fragen
   href: /FAQ
-- text: Links
+- text: Netzwerk und Datenpartner
   href: /links
 # - text: Example pages
 #  menu: # Dropdown menu (one level deep only)
