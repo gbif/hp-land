@@ -12,12 +12,14 @@ height: 80vh
 
 ![image](/assets/images/logos_datenpartner.jpg)
 
-- [Naturgucker, NABU](https://www.naturgucker.info)
-- [Flora von Deutschland (Phanerogamen), BfN](https://doi.org/10.15468/0fxsox)
+
 - [VegetWeb - Repositorium von Vegetationsaufnahmen](https://doi.org/10.15468/v7d0bk)
+- [Tereno](https://www.tereno.net/)
+- [Naturgucker, NABU](https://www.naturgucker.info)
 - [Insekten Sachsen](https://www.insekten-sachsen.de/)
-- [iNaturalist Research-Grade Observations](https://doi.org/10.15468/ab3s5x)
-- [Hamonisierte Fischmonitoringdaten von 12 Bundesländern](https://doi.org/10.15468/c75fky)
+- [Gesellschaft für Ichthyologie](https://www.ichthyologie.de/)
+
+
 
 
 
