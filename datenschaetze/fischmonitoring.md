@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: Hamonisierte Fischmonitoringdaten von 12 Bundesländern
 
 background: /assets/images/elbe-g06d81b88e_1920.jpg
@@ -22,7 +21,7 @@ Dieser Datensatz ist nicht „abgeschlossen“, sondern kann im Gegenteil jederz
 ## Datenquellen im Detail
 
 |Bundesland|Datenquelle|Anzahl der Messstellen|
-|:---|:---|:---|
+|:---:|:---:|:---:|
 |Berlin|Fischereiamt Berlin|159|
 |Brandenburg|Landesamt für Umwelt Brandenburg, Referat W14 (Oberflächengewässergüte)|1179|
 |Bremen|Die Senatorin für Klimaschutz, Umwelt, Mobilität, Stadtentwicklung und Wohnungsbau|37|
@@ -36,6 +35,7 @@ Dieser Datensatz ist nicht „abgeschlossen“, sondern kann im Gegenteil jederz
 |Schleswig-Holstein|Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein |1881|
 |Thüringen|Fischdatenbank Thüringen|621|
 
+![image](/assets/images/landeswappen.jpg)
 
 ## Danksagung
 Wir möchten uns gerne bei allen DatenlieferantInnen für die Bereitstellung der Daten und der Mitarbeit bei der Publikation dieser Daten bedanken.
