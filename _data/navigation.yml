@@ -4,6 +4,11 @@
   href: /occurrence/search
 - text: Über das Projekt
   href: /about
+- text: Datens(ch)ätze
+  menu: 
+  - text: Hamonisierte Fischmonitoringdaten
+    href: /datenschätze/fischmonitoring
+  
 - text: Häufige Fragen
   href: /FAQ
 - text: Links
