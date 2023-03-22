@@ -32,7 +32,7 @@ Bitte überprüfen Sie, welche Lizenzen bei den heruntergeladenen Daten Anwendun
 
 #### Kann ich mir sicher sein, dass Arten richtig bestimmt sind?
 
-Nein. Bestimmungen werden im Portal so angezeigt, wie sie in der ursprünglichen Datenquelle gespeichert sind und können somit Fehler enthalten. Die Datenpublikation im Portal trägt aber dazu bei, dass Fehler gefunden und behoben werden können.
+Nein. Bestimmungen werden im Portal so angezeigt, wie sie in der ursprünglichen Datenquelle gespeichert sind und können somit Fehler enthalten. Die Datenpublikation im Portal trägt aber dazu bei, dass Fehler gefunden und behoben werden können. Wir arbeiten an einer Filtermöglichkeit um nur "validierte" Datensätze anzeigen zu lassen.
 
 #### Kann ich die Daten auch herunterladen?
 
