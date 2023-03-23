@@ -20,7 +20,7 @@ Derzeit werden hier Artennachweise von folgenden Datensätzen angezeigt:
 
 In Zukunft sollen noch weitere Datensätze hinzugefügt werden. Zum einen Datensätze, die bereits in GBIF verfügbar sind, zum anderen neue Datensätze, die von NFDI4Biodiversity für GBIF mobilisiert werden.
 
-#### Was sind was hat es mit der Rubrik "Ausgewählte Datens(ch)ätze" auf sich?
+#### Was hat es mit der Rubrik "Ausgewählte Datens(ch)ätze" auf sich?
 
 Unter "Ausgewählte Datens(ch)ätze" stellen wir einzelne Datensätze detaillierter vor, um die Sichtbarkeit für unsere Partner zu erhöhen. Wenn Sie möchten, dass Ihr Datensatz hier in Form eines Blogpostes präsentiert wird, sprechen Sie uns gerne an.
 
@@ -29,14 +29,17 @@ Unter "Ausgewählte Datens(ch)ätze" stellen wir einzelne Datensätze detaillier
 
 Nein. Bestimmungen werden im Portal so angezeigt, wie sie in der ursprünglichen Datenquelle gespeichert sind und können somit Fehler enthalten. Die Datenpublikation im Portal trägt aber dazu bei, dass Fehler gefunden und behoben werden können. Wir arbeiten an einer Filtermöglichkeit um nur "validierte" Datensätze anzeigen zu lassen.
 
+#### Spiegeln die angezeigten Beobachtungen das Verbreitungsgebiet der jeweiligen Arten wider?
+
+Nein. Oder zumindest nur sehr begrenzt. Denn die Verbreitung der angezeigten Beobachtungen ist vor allem abhängig von der Verbreitung der Beobachter! Wir arbeiten darauf hin, in Zukunft neben Beobachtungsdaten, auch von Fachleuten erstellte Verbreitungskarten einbinden zu können. Mit der derzeitigen Implementierung ist das leider nicht möglich.
 
 #### Kann ich die Daten auch herunterladen?
 
 Ja. Klicken Sie in der Artensuche auf den Download-Reiter und melden Sie sich kostenlos über GBIF an. Beachten Sie die Nutzungsbedingungen der heruntergeladenen Daten und zitieren Sie die jeweiligen DOIs.
 
-#### Was sind die Datennutzungsrechte?
+#### Wie sind die Datennutzungsrechte?
 
-GBIF-Daten haben im Allgemeinen Creative-Commons-Lizenzen (https://creativecommons.org/). Dabei gibt es drei Abstufungen der Nutzungsbedingungen, die sich zwischen Datensätzen unterscheiden können:
+GBIF-Daten haben im Allgemeinen [Creative-Commons-Lizenzen](https://creativecommons.org/). Dabei gibt es drei Abstufungen der Nutzungsbedingungen, die sich zwischen Datensätzen unterscheiden können:
 
 - CC0
 - CC BY
@@ -46,7 +49,7 @@ Bitte überprüfen Sie, welche Lizenzen bei den heruntergeladenen Daten Anwendun
 
 #### Ich möchte einen Datensatz beitragen. Wie gehe ich vor?
 
-Super! Wir arbeiten noch an der Pipeline zum Beitragen von Daten. Bis dahin melden Sie sich bei uns oder bei einem der deutschen GBIF-Knoten (http://www.gbif.de/).
+Super! Wir arbeiten noch an der Pipeline zum Beitragen von Daten. Bis dahin melden Sie sich bei uns oder bei einem der deutschen [GBIF-Knoten](http://www.gbif.de/).
 
 
 
