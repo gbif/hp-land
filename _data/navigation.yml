@@ -2,16 +2,16 @@
 
 - text: Zum Atlas
   href: /occurrence/search
-- text: Über das Projekt
+- text: Über
   href: /about
 - text: Ausgewählte Datens(ch)ätze
   menu: 
   - text: Harmonisierte Fischmonitoringdaten
     href: /datenschaetze/fischmonitoring
   
-- text: Häufige Fragen
+- text: FAQ
   href: /FAQ
-- text: Datenpartner und Netzwerk
+- text: Datenpartner & Netzwerk
   href: /links
 # - text: Example pages
 #  menu: # Dropdown menu (one level deep only)
