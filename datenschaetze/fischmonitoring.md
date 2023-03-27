@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Harmonisierte Fischmonitoringdaten von 12 Bundesländern
+title: Hamonisierte Fischmonitoringdaten von 12 Bundesländern
 
 background: /assets/images/elbe-g06d81b88e_1920.jpg
 imageLicense: |
