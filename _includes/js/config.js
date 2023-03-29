@@ -62,7 +62,7 @@ var siteConfig = {
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
     //excludedFilters: ['continent', 'basisOfRecord', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'samplingProtocol', 'dwcaExtension'],
 
-    highlightedFilters: ['taxonKey','q', 'year','month', 'gadmGid', 'locality', 'occurrenceIssue'],
+    highlightedFilters: ['taxonKey','q', 'year','month', 'gadmGid', 'locality','datasetKey', 'occurrenceIssue'],
     defaultTableColumns: ['coordinates', 'year',  'dataset', 'publisher', 'features'],
     filters: {
       taxonKey: {
