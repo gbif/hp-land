@@ -5,7 +5,7 @@ title: Community Workshop - Lebendiger Atlas Natur Deutschland (30.-31.03.23)
 background: /assets/images/Gruppenfotos_Lebendiger_Atlas.JPG
 imageLicense: |
   Photo by Doreen Brückner
-  
+height: 200vh 
 ---
 
 ## Reger Austausch beim Community Workshop am iDiv 
