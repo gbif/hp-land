@@ -6,14 +6,16 @@ background: /assets/images/Gruppenfotos_Lebendiger_Atlas.JPG
 imageLicense: |
   Photo by Doreen Brückner
   
-height: 70vh
+height: 90vh
 ---
 
-## Austausch beim Community Workshop am iDiv 
+## Reger Austausch beim Community Workshop am iDiv 
 
-Ende März 2023 haben wir einen Comunity Workshop am iDiv abgehalten. Mit ca 50. Personen aus behördlichem und ehrenamtlichen Naturschutz, aus Fachgesellschaften und Museen, sowie aus der Wissenschaft wurde die Arbeit am Portal vorrangetrieben. Hier finden Sie einige der Ergebnisse.
+Ende März 2023 haben wir einen zweitägigen Community Workshop am iDiv in Leipzig abgehalten. Mit ca 50 Teilnehmenden aus dem behördlichem und ehrenamtlichen Naturschutz, aus Fachgesellschaften, Museen und der Wissenschaft wurde die Arbeit am Portal vorangetrieben. Neben der Vorstellung des Portals und der Mobilisierung neuer Datensätze ging es  auch darum, relavente Akteure aus der deutschen Naturschutzlandschaft miteinander zu vernetzen. Wir bedanken uns bei allen Teilnehmenden für die wertvollen Impulse.
 
-Hier gibt es das [Programm][1]
+### Ressourcen zum Download
+- [Workshop-programm][1]
+- 
 
 [1]:{{ site.url }}/assets/files/230330 Agenda_Workshop.pdf
 
