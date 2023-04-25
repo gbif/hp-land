@@ -2,7 +2,7 @@
 layout: post 
 title: Community Workshop - Lebendiger Atlas Natur Deutschland (30.-31.03.23)
 
-background: /assets/images/Gruppenfotos_Lebendiger_Atlas.JPG
+background: /assets/images/Gruppenfoto_Lebendiger_Atlas.JPG
 imageLicense: |
   Photo by Doreen Brückner
 height: 200vh 
