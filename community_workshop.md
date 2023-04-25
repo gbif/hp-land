@@ -6,7 +6,6 @@ background: /assets/images/Gruppenfotos_Lebendiger_Atlas.JPG
 imageLicense: |
   Photo by Doreen Brückner
   
-height: 120vh
 ---
 
 ## Reger Austausch beim Community Workshop am iDiv 
