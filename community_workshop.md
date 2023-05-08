@@ -23,4 +23,4 @@ Botanischer Garten & Botanisches Museum Berlin, BUND, Bundesamt für Naturschutz
 
 
 [1]:{{ site.url }}/assets/files/230330 Agenda_Workshop.pdf
-[2]:{{ site.url }}/assets/files/230330 Vortrag_Aletta_Bonn.pdf
+[2]:{{ site.url }}/assets/files/Vortrag_Aletta_Bonn.pdf
