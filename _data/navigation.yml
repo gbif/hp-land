@@ -11,8 +11,13 @@
   
 - text: FAQ
   href: /FAQ
-- text: Datenpartner & Netzwerk
-  href: /links
+- text: Community und Events
+  menu: 
+  - text: Datenpartner und Netzwerk
+    href: /community_und_events/links
+  - text: LAND Community Workshop 2023
+    href: /community_und_events/community_workshop
+    
 # - text: Example pages
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Simple
