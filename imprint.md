@@ -20,7 +20,7 @@ Puschstraße 4
 #### Botanischer Garten und Botanisches Museum Berlin (BGBM)  
 Zentraleinrichtung der Freien Universität Berlin  
 vertreten durch den Präsidenten  
-Königin-Luise-Str. 6-8, 14195 Berlin
+Königin-Luise-Str. 6-8, 14195 Berlin  
 [Impressum](https://www.bo.berlin/en/imprint)
 
 Dieses Projekt wird gemeinsam entwickelt im Rahmen von [NFDI4Biodiversity](https://www.nfdi4biodiversity.org/).
