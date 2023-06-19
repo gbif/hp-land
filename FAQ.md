@@ -10,7 +10,7 @@ height: 70vh
 #### Welche Datensätze sind im Moment im LAND-Portal zu finden?
 
  
-[Hier]({{ site.url/occurrence/search/?view=DATASETS }}) gibt es eine komplette Liste der im Moment im Portal verfügbaren Datensätze.
+[Hier]({{ site.url}}occurrence/search/?view=DATASETS ) gibt es eine komplette Liste der im Moment im Portal verfügbaren Datensätze.
 
 In Zukunft sollen noch weitere Datensätze hinzugefügt werden. Zum einen Datensätze, die bereits in GBIF verfügbar sind, zum anderen neue Datensätze, die von NFDI4Biodiversity für GBIF mobilisiert werden.
 
