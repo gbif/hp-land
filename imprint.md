@@ -13,18 +13,28 @@ height: 70vh
 ### Gemeinsame Herausgeber
 
 Friedrich-Schiller-Universität Jena
+
 Institut für Biodiversität
+
 Friedrich-Schiller-Universität Jena
+
 Deutsches Zentrum für Integrative Biodiversitätsforschung (iDiv) Halle-Jena Leipzig
+
 Puschstraße 4
+
 04103 Leipzig
+
 https://www.uni-jena.de/impressum
 
 
 Botanischer Garten und Botanisches Museum Berlin (BGBM)
+
 Zentraleinrichtung der Freien Universität Berlin
-- vertreten durch den Präsidenten -
+
+vertreten durch den Präsidenten
+
 Königin-Luise-Str. 6-8, 14195 Berlin
+
 https://www.bo.berlin/en/imprint
 
 ### Redaktionelle Betreuung 
