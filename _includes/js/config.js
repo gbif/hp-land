@@ -44,13 +44,16 @@ var siteConfig = {
 		predicates: [
 				{type: 'in', key: 'datasetKey',
 				values: [
-				    '6ac3f774-d9fb-4796-b3e9-92bf6c81c084',
-				    'e6fab7b3-c733-40b9-8df3-2a03e49532c1',
-				    'ad0d1a24-e952-11e2-961f-00145eb45e9a', 
-				    '77ecd330-b09e-11e2-a01d-00145eb45e9a',
-				    '50c9509d-22c7-4a22-a47d-8c48425ef4a7',
-				    'e0908eee-ad49-4e91-b4d0-1f05dd17b291', 
-				    '82a421d4-f762-11e1-a439-00145eb45e9a' //Edaphobase
+				    '6ac3f774-d9fb-4796-b3e9-92bf6c81c084', //naturgucker
+				    'e6fab7b3-c733-40b9-8df3-2a03e49532c1', //Flora von Deutschland (Phanerogamen)
+				    'ad0d1a24-e952-11e2-961f-00145eb45e9a', //VegetWeb - Repositorium von Vegetationsaufnahmen
+				    '77ecd330-b09e-11e2-a01d-00145eb45e9a', //Insekten Sachsen
+				    '50c9509d-22c7-4a22-a47d-8c48425ef4a7', //iNaturalist Research-grade Observations
+				    'e0908eee-ad49-4e91-b4d0-1f05dd17b291', //Harmonised freshwater fish data
+				    '82a421d4-f762-11e1-a439-00145eb45e9a', //Edaphobase
+				    '8a863029-f435-446a-821e-275f4f641165', // Observation org
+				    '4fa7b334-ce0d-4e88-aaae-2e0c138d049e', //eBird
+				    '8277b324-f762-11e1-a439-00145eb45e9a' // The Spider Collection SMNK
 				    ]},
 				{type: 'equals', key: 'country', value: 'DE'},
 				{type: 'not', predicate:
