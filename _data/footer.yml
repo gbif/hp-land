@@ -14,7 +14,7 @@ columns:
 
   - name: Entwicklung
     description: | # Can be Markdown
-     Dieses Projekt ist [open source](https://github.com/gbif/hp-land) und befindet sich derzeit noch in der Entwicklung.
+     Dieses Projekt ist [open source](https://github.com/gbif/hp-land) und wird kontinuierlich weiterentwickelt.
   
   - name: Ansprechpersonen und Impressum
     links:
