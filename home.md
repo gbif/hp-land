@@ -1,6 +1,6 @@
 ---
 lang-ref: home
-layout: home
+layout: compose
 title: Lebendiger Atlas - Natur Deutschland (LAND)
 description: Ein Biodiversitätsportal für Deutschland
 background: /assets/images/inat_observation_144145779.jpeg
@@ -14,12 +14,14 @@ cta:
   - text: Erfahre mehr
     href: /about
 permalink: /
+composition: 
+- type: heroImage
+- type: pageMarkdown # This block will render the markdown in this file so no data property needed
 ---
 
-### Hinweis zur Entwicklung
+### Willkommen
 
-Willkommen auf dem GBIF-Portal des "Lebendigen Atlas - Natur Deutschland (LAND)". Das Portal und diese Webseite befinden sich noch in der Entwicklung und sollten daher nicht als stabil betrachtet werden. Auch die URL wird sich für die offizielle Veröffentlichung noch ändern. Für Fragen und Anregungen stehen wir gerne zur Verfügung.
-
+here is some text
 
 
 ### Neues vom NFDI4Biodiversity-Konsortium auf Twitter
