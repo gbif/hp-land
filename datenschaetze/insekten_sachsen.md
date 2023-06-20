@@ -22,3 +22,7 @@ Da Beobachtungsdaten auch personenbezogene Informationen enthalten, hat "Insekte
 "Insekten Sachsen" hat sich auch mit anderen relevanten Organisationen und Projekten vernetzt. So ist das Projekt zum Beispiel einer der Usecases bei der Nationalen Forschungsdateninfrastruktur für Biodiversität (NFDI4Biodiversity). Außerdem liefert "Insekten Sachsen" Beobachtungsdaten an GBIF, um sie für Naturschutz und Wissenschaft zur Verfügung zu stellen. [Hier ist der Datensatz im LAND portal]({{ site.url}}occurrence/search/?datasetKey=77ecd330-b09e-11e2-a01d-00145eb45e9a&view=MAP)
 
 Wenn Sie mehr über das Projekt erfahren oder mitmachen wollen, finden Sie weitere Informationen auf der [Webseite](https://www.insekten-sachsen.de/).
+
+Oder laden Sie sich die "Insekten Sachsen" App auf smartphone - verfügbar für [iOS](https://itunes.apple.com/de/app/tagfalter-sachsen/id1116939101?mt=8) und [Android](https://play.google.com/store/apps/details?id=com.telerik.KBSInsectFinder&hl=de).
+
+![image](/assets/images/Logos_Datensätze/logo_insekten-sachsen.jpg)
