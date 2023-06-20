@@ -1,13 +1,13 @@
 cards_on_home:
   title: Willkommen auf dem neuen LAND-Portal
   description: |
-    Hier gibt es Biodiversitätsdaten für Deutschland - zusammengestellt von NFDI4Biodiversity und gehostet von GBIF. 
+    Hier gibt es Biodiversitätsdaten für Deutschland - zusammengestellt von NFDI4Biodiversity und gehostet von GBIF. Viel Spaß beim Entdecken!
   features:
     - title: LAND community workshop 2023 # required
       preTitle: Event  # optional
       description: |      # required
        Bei einem zweitägen Workshop mit rund 50 Personen haben wir das LAND-Portal erstmalig vorgestellt und gemeinsam weiterentwickelt.
-      background: /assets/images/IMG_20230417_100235427.jpg # img required
+      background: /assets/images/FskWScGWYBc0V1S.jpg # img required
       imageLicense: Photo by Thore Engel
       href: /community_und_events/community_workshop
       # categories: [drawings] # optional
@@ -16,5 +16,5 @@ cards_on_home:
       href: /FAQ
       description: |
        Hier gibt es Antworten auf einige häufig gestellte Fragen.
-      background: /assets/images/FskWScGWYBc0V1S.jpg
+      background: /assets/images/IMG_20230417_100235427.jpg
       imageLicense: Photo by NDFDI4Biodiversity.
