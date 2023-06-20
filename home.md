@@ -16,13 +16,10 @@ cta:
 permalink: /
 composition: 
 - type: heroImage
+- type: features
+  data: home.cards_on_home 
 - type: pageMarkdown # This block will render the markdown in this file so no data property needed
 ---
-
-### Willkommen
-
-here is some text
-
 
 ### Neues vom NFDI4Biodiversity-Konsortium auf Twitter
 

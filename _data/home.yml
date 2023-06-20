@@ -1,0 +1,19 @@
+cards_on_home:
+  title: Willkommen 
+  description: |
+    This content in the yaml file could be used anywhere, right now it shows on the complex example page 
+  features:
+    - title: LAND community workshop # required
+      preTitle: Event  # optional
+      description: |      # required
+       Bei einem Workshop mit rund 50 Personen haben wir das LAND-Portal vorgestellt und gemeinsam weiterentwickelt.
+      background: /assets/imgages/IMG_20230417_100235427.jpg # img required
+      imageLicense: Photo by Thore Engel
+      href: /community_und_events/community_workshop
+      # categories: [drawings] # optional
+    - title: Häufig gestellte Fragen
+      href: /FAQ
+      description: |
+       Hier gibt es weiterführende Informationen.
+      background: /assets/img/Haeckel_Caulerpa_racemosa_(uvifera).jpeg
+      imageLicense: Kunstformen der Natur (1904) by Ernst Haeckel via [Wikimedia](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
