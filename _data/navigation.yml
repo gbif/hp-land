@@ -8,7 +8,8 @@
   menu: 
   - text: Harmonisierte Fischmonitoringdaten
     href: /datenschaetze/fischmonitoring
-  
+  - text: Insekten Sachsen
+    href: /datenschaetze/insekten_sachsen  
 - text: FAQ
   href: /FAQ
 - text: Community und Events
