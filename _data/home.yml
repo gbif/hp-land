@@ -1,19 +1,20 @@
 cards_on_home:
-  title: Willkommen 
+  title: Willkommen auf dem neuen LAND-Portal
   description: |
-    This content in the yaml file could be used anywhere, right now it shows on the complex example page 
+    Hier gibt es Biodiversitätsdaten für Deutschland - zusammengestellt von NFDI4Biodiversity und gehostet von GBIF. 
   features:
-    - title: LAND community workshop # required
+    - title: LAND community workshop 2023 # required
       preTitle: Event  # optional
       description: |      # required
-       Bei einem Workshop mit rund 50 Personen haben wir das LAND-Portal vorgestellt und gemeinsam weiterentwickelt.
+       Bei einem zweitägen Workshop mit rund 50 Personen haben wir das LAND-Portal erstmalig vorgestellt und gemeinsam weiterentwickelt.
       background: /assets/images/IMG_20230417_100235427.jpg # img required
       imageLicense: Photo by Thore Engel
       href: /community_und_events/community_workshop
       # categories: [drawings] # optional
     - title: Häufig gestellte Fragen
+      preTitle: FAQ
       href: /FAQ
       description: |
-       Hier gibt es weiterführende Informationen.
-      background: /assets/img/Haeckel_Caulerpa_racemosa_(uvifera).jpeg
-      imageLicense: Kunstformen der Natur (1904) by Ernst Haeckel via [Wikimedia](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
+       Hier gibt es Antworten auf einige häufig gestellte Fragen.
+      background: /assets/images/FskWScGWYBc0V1S.jpg
+      imageLicense: Photo by NDFDI4Biodiversity.
