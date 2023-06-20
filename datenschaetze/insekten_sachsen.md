@@ -19,7 +19,9 @@ Ein weiterer Höhepunkt des Projekts sind die regelmäßigen Workshops und Exkur
 
 Da Beobachtungsdaten auch personenbezogene Informationen enthalten, hat "Insekten Sachsen" strenge Regeln für die Datenweitergabe aufgestellt. Jeder Teilnehmer kann in den eigenen Profileinstellungen festlegen, ob und in welchem Umfang die eigenen Daten weitergegeben werden dürfen. Dies gewährleistet die Einhaltung der DSchGVO-Richtlinien. Die Datenschutzthematik wurde in der Community intensiv diskutiert, um sicherzustellen, dass die Privatsphäre der Teilnehmer geschützt bleibt.
 
-"Insekten Sachsen" hat sich auch mit anderen relevanten Organisationen und Projekten vernetzt. So ist das Projekt zum Beispiel einer der Usecases bei der Nationalen Forschungsdateninfrastruktur für Biodiversität (NFDI4Biodiversity). Außerdem liefert "Insekten Sachsen" Beobachtungsdaten an GBIF, um sie für Naturschutz und Wissenschaft zur Verfügung zu stellen. [Hier ist der Datensatz im LAND portal]({{ site.url}}occurrence/search/?datasetKey=77ecd330-b09e-11e2-a01d-00145eb45e9a&view=MAP)
+"Insekten Sachsen" hat sich auch mit anderen relevanten Organisationen und Projekten vernetzt. So ist das Projekt zum Beispiel einer der Usecases bei der Nationalen Forschungsdateninfrastruktur für Biodiversität (NFDI4Biodiversity). Außerdem liefert "Insekten Sachsen" Beobachtungsdaten an GBIF, um sie für Naturschutz und Wissenschaft zur Verfügung zu stellen.
+
+[Hier geht's zum Datensatz im LAND-Portal]({{ site.url}}occurrence/search/?datasetKey=77ecd330-b09e-11e2-a01d-00145eb45e9a&view=MAP)
 
 Wenn Sie mehr über das Projekt erfahren oder mitmachen wollen, finden Sie weitere Informationen auf der [Webseite](https://www.insekten-sachsen.de/).
 
