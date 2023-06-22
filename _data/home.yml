@@ -32,6 +32,7 @@ blog_insektensachen:
   cta:
   - text: Erfahre mehr
     href: /datenschaetze/insekten_sachsen 
+    isPrimary: true
     
 blog_fische:
   reverse: true
@@ -47,4 +48,5 @@ blog_fische:
   cta:
   - text: Erfahre mehr
     href: /datenschaetze/fischmonitoring/
+    isPrimary: true
       
