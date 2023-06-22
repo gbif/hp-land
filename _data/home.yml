@@ -8,7 +8,7 @@ cards_on_home:
       description: |      # required
        Bei einem zweitägen Workshop mit rund 50 Personen haben wir das LAND-Portal erstmalig vorgestellt und gemeinsam weiterentwickelt.
       background: /assets/images/FskWScGWYBc0V1S.jpg # img required
-      imageLicense: Photo by Thore Engel
+      imageLicense: Photo by NDFDI4Biodiversity.
       href: /community_und_events/community_workshop
       # categories: [drawings] # optional
     - title: Häufig gestellte Fragen
@@ -17,13 +17,14 @@ cards_on_home:
       description: |
        Hier gibt es Antworten auf einige häufig gestellte Fragen.
       background: /assets/images/IMG_20230417_100235427.jpg
-      imageLicense: Photo by NDFDI4Biodiversity.
+      imageLicense: Photo by Thore Engel.
       
 blog_insektensachen:
   reverse: false
-  title: "Insekten Sachsen"
+  title: "Datens(ch)atz Insekten Sachsen"
+  preTitle: Datens(ch)atz
   description: |      # required
-    Das Citizen Science Projekt "Insektsen Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und drüber hinaus. Mehr über die erfolgreiche Zusammenarbeit zwischen Experten und Laien gibt es in unserem Artikel zum Datens(ch)atz.  # img required
+    Das Citizen Science Projekt "Insektsen Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und darüber hinaus. Mehr über die erfolgreiche Zusammenarbeit zwischen Experten und Laien gibt es in unserem Artikel zum Datens(ch)atz.
   background: /assets/images/insekten_sachsen/photo3.jpg
   imageLicense: |
     Erfassung der biologischen Vielfalt mit den Neuen Medien. Insekten¬Sachsen¬Sommertreffen 2018. Foto: Tilmann Adler. 
