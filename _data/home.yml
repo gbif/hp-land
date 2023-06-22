@@ -43,6 +43,7 @@ blog_fische:
   imageLicense: |
     Figure by Martin Friedrichs-Manthey.
   href: /datenschaetze/fischmonitoring/
+  ratio: 55
   cta:
   - text: Erfahre mehr
     href: /datenschaetze/fischmonitoring/
