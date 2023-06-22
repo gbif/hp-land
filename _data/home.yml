@@ -40,11 +40,10 @@ blog_fische:
   preTitle: Datens(ch)atz
   description: |
     Dieser Datens(ch)atz über Fischvorkommen und -Abundanzen in Deutschland wurde für die Erstellung der Roten Liste der Süßwasserfische gehoben. Zwölf Bundesländer haben dazu beigetragen 
-  background: /assets/images/fischmonitoring.jpg
+  background: /assets/images/elbe-g06d81b88e_1920.jpg
   imageLicense: |
-    Figure by Martin Friedrichs-Manthey.
+    Photo by Sven Lachmann via [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2105096)
   href: /datenschaetze/fischmonitoring/
-  ratio: 55
   cta:
   - text: Erfahre mehr
     href: /datenschaetze/fischmonitoring/
