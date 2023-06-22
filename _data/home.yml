@@ -24,7 +24,7 @@ blog_insektensachen:
   title: "Insekten Sachsen"
   preTitle: Datens(ch)atz
   description: |      # required
-    Das Citizen Science Projekt "Insektsen Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und darüber hinaus. Mehr über die erfolgreiche Zusammenarbeit professionellen und freiwilligen Insektenforschern gibt es in unserem Artikel zum Datens(ch)atz.
+    Das Citizen Science Projekt "Insektsen Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und darüber hinaus. Mehr über die erfolgreiche Zusammenarbeit zwischen professionellen und freiwilligen Insektenforschern gibt es in unserem Artikel zum Datens(ch)atz.
   background: /assets/images/insekten_sachsen/photo3.jpg
   imageLicense: |
     Erfassung der biologischen Vielfalt mit den Neuen Medien. Insekten¬Sachsen¬Sommertreffen 2018. Foto: Tilmann Adler. 
@@ -33,18 +33,16 @@ blog_insektensachen:
   - text: Erfahre mehr
     href: /datenschaetze/insekten_sachsen 
     
-split2:
+blog_fische:
   reverse: true
-  title: "type: split"
-  description: |      # required
-    See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L27) for the content structure.
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
-  # img required
-  background: /assets/img/Haeckel_Siphoneae.jpg
+  title: "Harmonisierte Fischmonitoringdaten von 12 Bundesländern "
+  description: |
+    Dieser Datens(ch)atz über Fischvorkommen und -Abundanzen in Deutschland wurde für die Erstellung der Roten Liste der Süßwasserfische gehoben. Zwölf Bundesländer haben dazu beigetragen 
+  background: /assets/images/fischmonitoring.jpg
   imageLicense: |
-    *Cladophora aegagropila* (Linnaeus) Rabenhorst. Photo by  Оlga Сhernyagina. Via [gbif.org](https://www.gbif.org/occurrence/2862552277)
-  href: /about
+    Figure by Martin Friedrichs-Manthey.
+  href: /datenschaetze/fischmonitoring/
   cta:
-  - text: Learn more
-    href: /about  
+  - text: Erfahre mehr
+    href: /datenschaetze/fischmonitoring/
       

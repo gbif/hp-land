@@ -20,6 +20,8 @@ composition:
   data: home.cards_on_home 
 - type: split
   data: home.blog_insektensachen
+- type: split
+  data: home.blog_fische
 - type: pageMarkdown # This block will render the markdown in this file so no data property needed
 ---
 
