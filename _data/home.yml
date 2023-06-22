@@ -18,3 +18,32 @@ cards_on_home:
        Hier gibt es Antworten auf einige häufig gestellte Fragen.
       background: /assets/images/IMG_20230417_100235427.jpg
       imageLicense: Photo by NDFDI4Biodiversity.
+      
+blog_insektensachen:
+  reverse: false
+  title: "Insekten Sachsen"
+  description: |      # required
+    Das Citizen Science Projekt "Insektsen Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und drüber hinaus. Mehr über die erfolgreiche Zusammenarbeit zwischen Experten und Laien gibt es in unserem Artikel zum Datens(ch)atz.  # img required
+  background: /assets/images/insekten_sachsen/photo3.jpg
+  imageLicense: |
+    Erfassung der biologischen Vielfalt mit den Neuen Medien. Insekten¬Sachsen¬Sommertreffen 2018. Foto: Tilmann Adler. 
+  href: /datenschaetze/insekten_sachsen 
+  cta:
+  - text: Erfahre mehr
+    href: /datenschaetze/insekten_sachsen 
+    
+split2:
+  reverse: true
+  title: "type: split"
+  description: |      # required
+    See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L27) for the content structure.
+    Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
+  # img required
+  background: /assets/img/Haeckel_Siphoneae.jpg
+  imageLicense: |
+    *Cladophora aegagropila* (Linnaeus) Rabenhorst. Photo by  Оlga Сhernyagina. Via [gbif.org](https://www.gbif.org/occurrence/2862552277)
+  href: /about
+  cta:
+  - text: Learn more
+    href: /about  
+      

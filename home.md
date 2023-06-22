@@ -18,8 +18,11 @@ composition:
 - type: heroImage
 - type: features
   data: home.cards_on_home 
+- type: split
+  data: home.blog_insektensachen
 - type: pageMarkdown # This block will render the markdown in this file so no data property needed
 ---
+
 
 ### Neues vom NFDI4Biodiversity-Konsortium auf Twitter
 
