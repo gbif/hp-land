@@ -36,6 +36,7 @@ blog_insektensachen:
 blog_fische:
   reverse: true
   title: "Harmonisierte Fischmonitoringdaten von 12 Bundesländern "
+  preTitle: Datens(ch)atz
   description: |
     Dieser Datens(ch)atz über Fischvorkommen und -Abundanzen in Deutschland wurde für die Erstellung der Roten Liste der Süßwasserfische gehoben. Zwölf Bundesländer haben dazu beigetragen 
   background: /assets/images/fischmonitoring.jpg
