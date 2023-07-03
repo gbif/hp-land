@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "Insekten Sachsen: Ein Citizen Science Projekt für Insektenliebhaber und Nachwuchsforscher"
+title: "Das Citizen-Science-Projekt "Insekten Sachsen"" liefert qualitätsgeprüfte Daten zu Insektenvorkommen in Sachsen und darüber hinaus"
 
 background: /assets/images/insekten_sachsen/photo1.jpg
 imageLicense: |
@@ -9,7 +9,7 @@ imageLicense: |
 height: 70vh
 ---
 
-Insekten Sachsen
+## Über das Projekt
 
 Die faszinierende Welt der Insekten bietet eine endlose Quelle an Wundern und Entdeckungen. Mit dem Projekt "Insekten Sachsen" haben Entomologen  der NABU Landesgruppe Sachsen und der Senckenberggesellschaft für Naturforschung eine Plattform geschaffen, auf der Insektenbeobachtungen gesammelt, geteilt und erforscht werden können. Seit dem Online-Start im Frühjahr 2011 hat das Projekt stetig an Popularität gewonnen und spielt eine wichtige Rolle beim Aufbau einer umfangreichen Informationsbasis über die sächsischen Insekten. Doch das Projekt geht über das Sammeln von Daten hinaus – es zielt auch darauf ab, den Nachwuchs für die faszinierende Welt der Insekten zu begeistern.
 
