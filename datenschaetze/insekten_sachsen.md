@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "Das Citizen-Science-Projekt "Insekten Sachsen"" liefert qualitätsgeprüfte Daten zu Insektenvorkommen in Sachsen und darüber hinaus"
+title: "Das Citizen-Science-Projekt Insekten Sachsen liefert qualitätsgeprüfte Daten zu Insektenvorkommen in Sachsen und darüber hinaus"
 
 background: /assets/images/insekten_sachsen/photo1.jpg
 imageLicense: |
