@@ -24,6 +24,8 @@ Botanischer Garten & Botanisches Museum Berlin, BUND, Bundesamt für Naturschutz
 - [Impulsvortrag Freshwater Information Platform (Vanessa Bremerich)][4]
 - [Impulsvortrag Dachverband Deutscher Avifaunisten (Tobias Reiners)][5]
 - [Impulsvortrag Naturgucker/NABU (Stefan Munzinger)][6]
+
+
 [1]:{{ site.url }}/assets/files/230330 Agenda_Workshop.pdf
 [2]:{{ site.url }}/assets/files/Vortrag_Aletta_Bonn.pdf
 [3]:{{ site.url }}/assets/files/1_RLZ_Datenportale_SC_20230330.pptx
