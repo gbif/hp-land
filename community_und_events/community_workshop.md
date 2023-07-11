@@ -20,7 +20,13 @@ Botanischer Garten & Botanisches Museum Berlin, BUND, Bundesamt für Naturschutz
 ### Ressourcen zum Download
 - [Workshopprogramm][1]
 - [Einführungsvortrag (Aletta Bonn)][2]
-
-
+- [Impulsvortrag Rote Liste Zentrum (Steffen Caspari)][3]
+- [Impulsvortrag Freshwater Information Platform (Vanessa Bremerich)][4]
+- [Impulsvortrag Dachverband Deutscher Avifaunisten (Tobias Reiners)][5]
+- [Impulsvortrag Naturgucker/NABU (Stefan Munzinger)][6]
 [1]:{{ site.url }}/assets/files/230330 Agenda_Workshop.pdf
 [2]:{{ site.url }}/assets/files/Vortrag_Aletta_Bonn.pdf
+[3]:{{ site.url }}/assets/files/1_RLZ_Datenportale_SC_20230330.pptx
+[4]:{{ site.url }}/assets/files/N4Bio_LAND_Workshop_Impulsvortrag_FIP_VBremerich.pptx
+[5]:{{ site.url }}/assets/files/LAND_Workshop_Impulsvortrag_20230330.pptx
+[6]:{{ site.url }}/assets/files/NABU_naturgucker-230324-LAND-sm.pdf
