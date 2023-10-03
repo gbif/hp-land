@@ -69,21 +69,19 @@ var siteConfig = {
     highlightedFilters: ['taxonKey', 'q', 'year', 'month', 'gadmGid', 'locality', 'datasetKey', 'occurrenceIssue'],
     defaultTableColumns: ['coordinates', 'year', 'dataset', 'publisher', 'features'],
     filters: {
-      taxonKey: {
-        type: 'SUGGEST',
+      datasetKey: {
+        merge: true,
         config: {
-          std: {
-            filterHandle: 'taxonKey',// if nothing else provided, then this is the filterName used
-            id2labelHandle: 'taxonKey',
-            translations: {
-              count: 'filters.taxonKey.count', // translation path to display names with counts. e.g. "3 scientific names"
-              name: 'filters.taxonKey.name',// translation path to a title for the popover and the button
-              description: 'filters.taxonKey.description', // translation path for the filter description
-            },
-          },
           specific: {
-            suggestHandle: 'taxonKeyVernacular',
-            id2labelHandle: 'taxonKey'
+            supportsNegation: true
+          }
+        }
+      },
+      taxonKey: {
+        merge: true,
+        config: {
+          specific: {
+            suggestHandle: 'taxonKeyVernacular'
           }
         }
       }
