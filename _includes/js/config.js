@@ -1,11 +1,9 @@
-var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', extendWith: {
-  primary: themeStyle.colors.primary
-}});
-
-var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', extendWith: {
-  primary: themeStyle.colors.primary,
-  fontSize: '16px'
-}});
+var siteTheme = gbifReactComponents.themeBuilder.extend({
+  baseTheme: 'light', extendWith: {
+    primary: themeStyle.colors.primary,
+    fontSize: '16px'
+  }
+});
 
 function getSuggests({ client }) {
   return {
@@ -34,39 +32,42 @@ var siteConfig = {
     }
   },
   occurrence: {
-    mapSettings: {lat: 50, lng: 10, zoom: 4.9115440763665068, userLocationEnabled: true},
+    mapSettings: { lat: 50, lng: 10, zoom: 4.9115440763665068, userLocationEnabled: true },
     // You probably need help to configure the scope - so just ask
     // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
     rootPredicate: {
-		type: "and",
-		predicates: [
-				{type: 'in', key: 'datasetKey',
-				values: [
-				    '6ac3f774-d9fb-4796-b3e9-92bf6c81c084', //naturgucker
-				    'e6fab7b3-c733-40b9-8df3-2a03e49532c1', //Flora von Deutschland (Phanerogamen)
-				    'ad0d1a24-e952-11e2-961f-00145eb45e9a', //VegetWeb - Repositorium von Vegetationsaufnahmen
-				    '77ecd330-b09e-11e2-a01d-00145eb45e9a', //Insekten Sachsen
-				    '50c9509d-22c7-4a22-a47d-8c48425ef4a7', //iNaturalist Research-grade Observations
-				    'e0908eee-ad49-4e91-b4d0-1f05dd17b291', //Harmonised freshwater fish data
-				    '82a421d4-f762-11e1-a439-00145eb45e9a', //Edaphobase
-				    '8a863029-f435-446a-821e-275f4f641165', // Observation org
-				    '4fa7b334-ce0d-4e88-aaae-2e0c138d049e', //eBird
-				    '8277b324-f762-11e1-a439-00145eb45e9a' // The Spider Collection SMNK
-				    ]},
-				{type: 'equals', key: 'country', value: 'DE'},
-				{type: 'not', predicate:
-						{type: 'equals', key: 'hasGeospatialIssue', value: 'true'}
-				}
-		]
-	},
-    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY','DATASETS'], // what tabs should be shown
+      type: "and",
+      predicates: [
+        {
+          type: 'in', key: 'datasetKey',
+          values: [
+            '6ac3f774-d9fb-4796-b3e9-92bf6c81c084', //naturgucker
+            'e6fab7b3-c733-40b9-8df3-2a03e49532c1', //Flora von Deutschland (Phanerogamen)
+            'ad0d1a24-e952-11e2-961f-00145eb45e9a', //VegetWeb - Repositorium von Vegetationsaufnahmen
+            '77ecd330-b09e-11e2-a01d-00145eb45e9a', //Insekten Sachsen
+            '50c9509d-22c7-4a22-a47d-8c48425ef4a7', //iNaturalist Research-grade Observations
+            'e0908eee-ad49-4e91-b4d0-1f05dd17b291', //Harmonised freshwater fish data
+            '82a421d4-f762-11e1-a439-00145eb45e9a', //Edaphobase
+            '8a863029-f435-446a-821e-275f4f641165', // Observation org
+            '4fa7b334-ce0d-4e88-aaae-2e0c138d049e', //eBird
+            '8277b324-f762-11e1-a439-00145eb45e9a' // The Spider Collection SMNK
+          ]
+        },
+        { type: 'equals', key: 'country', value: 'DE' },
+        {
+          type: 'not', predicate:
+            { type: 'equals', key: 'hasGeospatialIssue', value: 'true' }
+        }
+      ]
+    },
+    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'], // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
     //excludedFilters: ['continent', 'basisOfRecord', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'samplingProtocol', 'dwcaExtension'],
 
-    highlightedFilters: ['taxonKey','q', 'year','month', 'gadmGid', 'locality','datasetKey', 'occurrenceIssue'],
-    defaultTableColumns: ['coordinates', 'year',  'dataset', 'publisher', 'features'],
+    highlightedFilters: ['taxonKey', 'q', 'year', 'month', 'gadmGid', 'locality', 'datasetKey', 'occurrenceIssue'],
+    defaultTableColumns: ['coordinates', 'year', 'dataset', 'publisher', 'features'],
     filters: {
       taxonKey: {
         type: 'SUGGEST',
@@ -131,9 +132,9 @@ var siteConfig = {
 };
 
 // example of a language specific route overwrite
-if (pageLang === 'de')  {
+if (pageLang === 'de') {
   siteConfig.messages = {
-	  "filters.taxonKey.name": "Art/Taxonomische Gruppe",
-	  "filters.taxonKey.count": "{num, plural, one {Art/Taxongruppe} other {# Arten/Taxongruppen}}"
+    "filters.taxonKey.name": "Art/Taxonomische Gruppe",
+    "filters.taxonKey.count": "{num, plural, one {Art/Taxongruppe} other {# Arten/Taxongruppen}}"
   }
 }
