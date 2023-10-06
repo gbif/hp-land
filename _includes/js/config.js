@@ -67,7 +67,7 @@ var siteConfig = {
     //excludedFilters: ['continent', 'basisOfRecord', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'samplingProtocol', 'dwcaExtension'],
 
     highlightedFilters: ['taxonKey', 'q', 'year', 'month', 'gadmGid', 'locality', 'datasetKey', 'occurrenceIssue'],
-    defaultTableColumns: ['coordinates', 'year', 'dataset', 'publisher', 'features'],
+    availableTableColumns: ['coordinates', 'year', 'dataset', 'publisher', 'features'],
     filters: {
       datasetKey: {
         merge: true,
