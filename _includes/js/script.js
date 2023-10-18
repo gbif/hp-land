@@ -3,19 +3,24 @@ document.addEventListener("DOMContentLoaded", function () {
   function fetchLocationAndRedirect(event) {
     event.preventDefault(); // Prevent the default link behavior
 
+    const link = event.target;
+
     // Check if Geolocation is supported by the browser
     if ("geolocation" in navigator) {
+      link.classList.add("is-loading"); // Add loading class to the link
       navigator.geolocation.getCurrentPosition(function (position) {
         // Store the user's location in session storage
-        sessionStorage.setItem("mapLat", JSON.stringify(position.coords.latitude));
-        sessionStorage.setItem("mapLng", JSON.stringify(position.coords.longitude));
+        sessionStorage.setItem("mapLat", position.coords.latitude);
+        sessionStorage.setItem("mapLng", position.coords.longitude);
         sessionStorage.setItem("mapZoom", 12);
 
         // Redirect to the href of the link
-        window.location.href = event.target.href;
+        window.location.href = link.href;
       }, function (error) {
         // Handle any errors here
         console.error("Error getting user location:", error);
+      }).finally(function() {
+        link.classList.remove("is-loading"); // Remove loading class
       });
     } else {
       // Geolocation is not supported by the browser
