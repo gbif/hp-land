@@ -42,7 +42,7 @@ Bitte überprüfen Sie, welche Lizenzen bei den heruntergeladenen Daten Anwendun
 
 #### Ich möchte einen Datensatz beitragen. Wie gehe ich vor?
 
-Super! Wir arbeiten noch an der Pipeline zum Beitragen von Daten. Bis dahin melden Sie sich bei uns oder bei einem der deutschen [GBIF-Knoten](http://www.gbif.de/).
+Super. Wir arbeiten noch an der Pipeline zum Beitragen von Daten. Bis dahin melden Sie sich bei uns oder bei einem der deutschen [GBIF-Knoten](http://www.gbif.de/).
 
 
 
