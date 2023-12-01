@@ -8,16 +8,18 @@ imageLicense: |
 height: 200vh 
 ---
 
+Im Januar 2024 veranstalten wir einen gemeinsamen Cross-community workshop zwischen NFDI4Bidiversity/LAND und sMon. Mit vielfältigen Vorträgen und interaktiven Workshops wollen wir die Vernetzung unserer Communities stärken. Inhaltlich geht es um die Weiterentwicklung des Lebendigen Atlas (LAND) und die bessere Vernetzung von Menschen und Daten, um naturschutzrelevante Analysen von Biodiversitätstrends zu ermöglichen. Unten finden Sie das detaillierte Programm. Beachten Sie, dass für die meisten Teilnehmenden nur die ersten beiden Workshop-Tage relevant sind. Der dritte Tag ist spezifischen Arbeitstreffen vorbehalten, zu denen wir gesondert eingeladen haben.
+
 
 ### Zeit
 
-- 22.01. - 23.01. 2024 (offen für alle) 
-- 24.01.24 (Teilnahme auf Einladung)
+- 22.01. - 23.01. 2024 (offen für alle Teilnehmenden) 
+- 24.01.24 (kleinere Arbeitstreffen in taxonspezifischen Fachgruppen)
 
 ### Ort
 
 iDiv, Puschstrase 4, 04103 Leipzig
 
-## Programm (Entwurf)
+### Programm (Entwurf)
 
-<object data="/assets/files/Cross-community_Workshop_2024.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="/assets/files/Cross-community_Workshop_2024.pdf" width="1400" height="1000" type='application/pdf'/>
