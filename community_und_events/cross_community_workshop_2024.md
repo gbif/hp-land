@@ -10,7 +10,6 @@ height: 200vh
 
 # Programm (Entwurf)
 
-
 <table>
   <tr>
    <td colspan="2" >
@@ -34,7 +33,8 @@ height: 200vh
   <tr>
    <td>13:00 
    </td>
-   <td><strong>Begrüßung durch sMon und NFDI4Biodiversity</strong>  \
+   <td><strong>Begrüßung durch sMon und NFDI4Biodiversity</strong>
+<p>
 sMon & NFDI4Bio Team
    </td>
   </tr>
@@ -43,7 +43,7 @@ sMon & NFDI4Bio Team
    </td>
    <td><strong>Vorstellung Lebendiger Atlas - Natur Deutschland (LAND) Portal</strong>
 <p>
-Thore Engel, FSU Jena / iDiv
+Thore Engel ( FSU Jena, iDiv)
    </td>
   </tr>
   <tr>
@@ -51,29 +51,30 @@ Thore Engel, FSU Jena / iDiv
    </td>
    <td><strong>Kurze Vorstellung auf Englisch mit GBIF Entwickler \
 GBIF hosted portals and national nodes - opportunities and outlook</strong> \
-Morten Hofft, GBIF
+Morten Hofft (GBIF)
    </td>
   </tr>
   <tr>
    <td>14:00
    </td>
-   <td><strong>Impulse zu Daten Mobilisierung & Kuration (10 + 3 min)</strong>
-<p>
-<strong>Perspektive einer Landesbehörde (MultibaseCS) zu Datenmobilisierung und Verknüpfung mit NFDI4Bio/ Lebendiger Atlas</strong> \
-Marcel Seyring, LAU  \
+   <td>
+<h4>Impulse zu Daten Mobilisierung & Kuration (10 + 3 min)</h4>
+
+<strong>Perspektive einer Landesbehörde (MultibaseCS) zu Datenmobilisierung und Verknüpfung mit NFDI4Bio und Lebendiger Atlas</strong> \
+Marcel Seyring  (LAU)  \
 
 <p>
-<strong>Perspektive einer Fachgesellschaft zu Datenmobilisierung und Verknüpfung mit NFDI4Bio/ Lebendiger Atlas</strong> \
-Klaus Jürgen Conze, GdO \
+<strong>Perspektive einer Fachgesellschaft zu Datenmobilisierung und Verknüpfung mit NFDI4Bio und Lebendiger Atlas</strong> \
+Klaus Jürgen Conze (GdO) \
 
 <p>
 <strong>Perspektive eines Artenportals mit Anbindung an Landesbehörden  - Artenfinder</strong> \
-Yannick Brenz, Stiftung Naturschutz Berlin (angefragt) \
+Yannick Brenz (Stiftung Naturschutz Berlin) - angefragt \
 
 <p>
 <strong>Rechtliche Aspekte zur Datenmobilisierung aus diversen Quellen am Beispiel des GfI Fischartenatlas</strong>
 <p>
-Tom Witschas, UfU – Independent Institute for Environmental Issues
+Tom Witschas (UfU – Independent Institute for Environmental Issues)
    </td>
   </tr>
   <tr>
@@ -85,15 +86,17 @@ Tom Witschas, UfU – Independent Institute for Environmental Issues
   <tr>
    <td>15:30 
    </td>
-   <td><strong>Workshops “Land und Leute” \
-</strong>(je 2 Sessions @1 Stunde)<strong> \
-</strong>
-<p>
-→ <strong>Datenmobilisierung und Stakeholder - was benötigen die verschiedenen Akteure von dem LAND Portal  \
-</strong>Birgitta König-Ries, FSU Jena & Thore Engel, FSU Jena \
+   <td>
+<h4><strong>Workshops “Land und Leute”</strong></h4>
+
+(je 2 Sessions @1 Stunde) \
 
 <p>
-→ <strong>LAND Portal  Funktionen weiterentwickeln/Bedarfe aufnehmen + Priorisierung der nächsten Schritte & strategische Entwicklung</strong>         \
+→ <strong>Datenmobilisierung und Stakeholder - was benötigen die verschiedenen Akteure von dem LAND Portal  \
+</strong>Birgitta König-Ries & Thore Engel \
+
+<p>
+→ <strong>LAND Portal  Funktionen weiterentwickeln, Bedarfe aufnehmen + Priorisierung der nächsten Schritte & strategische Entwicklung</strong>         \
 Anton Güntsch, Martin Friedrichs-Manthey, Jörg Holetschek \
 
 <p>
@@ -102,7 +105,7 @@ Marcel Seyring & Jakob Fahr (angefragt), Aletta Bonn \
 
 <p>
 → <strong>DatenS(ch)ätze Geschichten und Visualisierung \
-</strong>Robert Köpke, Jana Moser IFL (angefragt)
+</strong>Robert Köpke, Jana Moser (angefragt)
    </td>
   </tr>
   <tr>
@@ -114,7 +117,7 @@ Marcel Seyring & Jakob Fahr (angefragt), Aletta Bonn \
   <tr>
    <td>18:00 
    </td>
-   <td><em>Freizeit/ Pause/ Hotel check-in</em>
+   <td><em>Freizeit, Pause, Hotel check-in</em>
    </td>
   </tr>
   <tr>
@@ -127,10 +130,7 @@ Marcel Seyring & Jakob Fahr (angefragt), Aletta Bonn \
    <td colspan="2" >
 <h2>Dienstag 23.01.2024 </h2>
 
-
-<h3>Tag 2: Kuration und Integration (NFDI4Biodiversity und sMon)</h3>
-
-
+<strong>Tag 2: Kuration und Integration (NFDI4Biodiversity und sMon)</strong>
    </td>
   </tr>
   <tr>
@@ -151,34 +151,35 @@ Zusammenfassung gestriger Tag und Ausblick auf heutigen Tag</strong>
    </td>
    <td><strong>10 Essenzielle Funktionen von Nationalen Biodiversitätsinfrastrukturen</strong>
 <p>
-Anton Güntsch, Botanischer Garten und Botanisches Museum, FU Berlin
+Anton Güntsch (Botanischer Garten und Botanisches Museum, FU Berlin)
    </td>
   </tr>
   <tr>
    <td>9:30 
    </td>
-   <td><strong>Impulsvorträge Datenharmonisierung, -Integration, -Archivierung & - Publikation und Möglichkeiten für Analyse \
+   <td>
+<h4>Impulsvorträge Datenharmonisierung, -Integration, -Archivierung & - Publikation und Möglichkeiten für Analyse \
  \
-Rote Liste Zentrum - Zusammenarbeit mit NFDI4Bio und Neuroptera</strong>
-<p>
-→ Steffen Caspari, Rote Liste Zentrum 
+Rote Liste Zentrum - Zusammenarbeit mit NFDI4Bio und Neuroptera</h4>
+
+→ Steffen Caspari (Rote Liste Zentrum)
 <p>
 <strong>NMZB  - TBA</strong>                     
 <p>
-→ Petra Dieker, NMZB (angefragt)
+→ Petra Dieker (NMZB) - angefragt
 <p>
 <strong>BfN - TBA</strong>
 <p>
-Wiebke Züghard / Christian Schneider (angefragt) \
+Wiebke Züghard o. Christian Schneider (BfN) - angefragt \
  \
 <strong>NABU Naturgucker - neue Entwicklungen</strong>
 <p>
-→ Stefan Munzinger, NaBu Naturgucker \
+→ Stefan Munzinger (NABU, Naturgucker) \
 
 <p>
 <strong>NetPhyD - Deutschlandflora  - Anbindung an NFDI4Bio</strong>
 <p>
-→ Florian Jansen, Universität Rostock
+→ Florian Jansen (Universität Rostock)
 <p>
 <strong>Überblick zu Werkzeugen für Datenkuration und -Management</strong>
 <p>
@@ -203,16 +204,16 @@ Birgitta König-Ries, FSU Jena, David Fichtmüller, Botanischer Garten und Botan
 <p>
 →<strong> RightField - Semantische Daten-Annotation</strong>
 <p>
-Wolfgang Müller, Heidelberger Institut für Theoretische Studien (HITS) \
+Wolfgang Müller (Heidelberger Institut für Theoretische Studien, HITS) \
 
 <p>
 → <strong>BfN Checklist API </strong>
 <p>
-Elisabeth Hüllbusch, BfN
+Elisabeth Hüllbusch (BfN)
 <p>
 → <strong>Support-Runde BioCASe Provider Software</strong>
 <p>
-Jörg Holetschek, Botanischer Garten und Botanisches Museum, Berlin
+Jörg Holetschek (Botanischer Garten und Botanisches Museum, Berlin)
    </td>
   </tr>
   <tr>
@@ -224,16 +225,17 @@ Jörg Holetschek, Botanischer Garten und Botanisches Museum, Berlin
   <tr>
    <td>13:30
    </td>
-   <td><strong>sMon - Kernvorträge - Blitzlichter zu ausgewählten Taxa mit Fokus auf Programme wo Zeitreihen ausgewertet werden könnten (15min Redezeit + 5min Diskussion) - 2h </strong>
-<p>
-<strong>Ausgewählte sMon Ergebnisse und dazu in Bezug stehende Ergebnisse anderer Projekte</strong>
+   <td>
+<h4>sMon - Kernvorträge - Blitzlichter zu ausgewählten Taxa mit Fokus auf Programme wo Zeitreihen ausgewertet werden könnten</h4>
+
+(15min Redezeit + 5min Diskussion) - 2h 
 <p>
 <strong>Zeitliche Trends von Biotoptypen und Pflanzenarten in drei Bundesländern</strong> \
-Lina Lüttgert, MLU Halle / iDiv \
+Lina Lüttgert (MLU Halle, iDiv) \
 
 <p>
-<strong>Trendanalyses of Carabids in Germany / Outlook to analysis of effectiveness of protected areas in Germany \
-</strong>Shawan Chowdhury, FSU Jena/ iDiv
+<strong>Trendanalyses of Carabids in Germany - Outlook to analysis of effectiveness of protected areas in Germany \
+</strong>Shawan Chowdhury (FSU Jena, iDiv)
 <p>
 <strong>Räumliche und zeitliche Trends in Wiederfundverteilungen des Großen Mausohrs in Ostdeutschland</strong>
 <p>
@@ -251,10 +253,10 @@ Juliane Trebstein, Ulrich Zöphel, Reinhard Klenke
    </td>
    <td><strong>Benthische Invertebraten & eDNA</strong>
 <p>
-Florian Leese, Universität Duisburg/Essen 
+Florian Leese (Universität Duisburg, Essen) 
 <p>
 <strong>MEROS - Monitoring der Greifvöglel und Eulen Europas - Einige Trends & Stand des Monitoring & des Datenmanagement</strong> \
-Ubbo Mammen, Meros/Ökotop Büro Halle
+Ubbo Mammen (Meros, Ökotop Büro Halle)
 <p>
 <strong>Pflanzen-Monitoringdaten der Schweiz</strong>
 <p>
