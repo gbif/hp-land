@@ -9,12 +9,17 @@ height: 200vh
 ---
 
 
-### Zeit: 22.01. - 23.01. 2024 (offen für alle) & 24.01.24 (Teilnahme auf Einladung)
+### Zeit
 
-### Ort: iDiv, Puschstrase 4, 04103 Leipzig
+- 22.01. - 23.01. 2024 (offen für alle) 
+- 24.01.24 (Teilnahme auf Einladung)
+
+### Ort
+
+iDiv, Puschstrase 4, 04103 Leipzig
 
 ## Programm (Entwurf)
 
-<object data="/assets/files/Cross-community_Workshop_2024.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="assets/files/Cross-community_Workshop_2024.pdf" width="1000" height="1000" type='application/pdf'/>
 
 
