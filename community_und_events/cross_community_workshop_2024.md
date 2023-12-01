@@ -8,7 +8,7 @@ imageLicense: |
 height: 200vh 
 ---
 
-# Programm (Entwurf)
+
 
 <table>
   <tr>
@@ -312,6 +312,3 @@ Michael Rzanny
 </table>
 
 
-
-### Ressourcen zum Download
-- [Workshopprogramm][1]
