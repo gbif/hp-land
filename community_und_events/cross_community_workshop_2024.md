@@ -4,7 +4,7 @@ title: Gemeinsamer Cross-community workshop von NFDI4Biodiversity und sMon
 
 background: /assets/images/iDivBuilding-Flowers.jpg
 imageLicense: |
-  Photo by Doreen Brückner
+  Photo by iDiv
 height: 200vh 
 ---
 
@@ -20,6 +20,6 @@ Im Januar 2024 veranstalten wir einen gemeinsamen Cross-community workshop zwisc
 
 iDiv, Puschstrase 4, 04103 Leipzig
 
-### Programm (Entwurf)
+### Programm (Entwurf, Stand: 04.12.23)
 
 <object data="/assets/files/Cross-community_Workshop_2024.pdf" width="1400" height="1000" type='application/pdf'/>
