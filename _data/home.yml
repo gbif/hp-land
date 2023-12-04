@@ -6,7 +6,7 @@ cards_on_home:
     - title: Cross-community workshop 2024 (22.-24.01.)# required
       preTitle: Event  # optional
       description: |      # required
-      Für den Januar 2024 laden wir wieder zu einem Community workshop am iDiv. Diesmal ist es ein "Cross-community workshop" mit unseren Freunden vom sMOn Projekt.
+      Für den Januar 2024 laden wir wieder zu einem Community workshop am iDiv. Diesmal ist es ein Cross-community workshop mit unseren Freunden vom sMOn Projekt.
       background: /assets/images/iDivBuilding-Flowers.jpg # img required
       imageLicense: Photo by iDiv.
       href: /community_und_events/cross_community_workshop_2024
