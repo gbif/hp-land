@@ -13,9 +13,6 @@ cta:
     isPrimary: true
   - text: Erfahre mehr
     href: /about
-  - text: Erkunden Sie meine Gegend
-    href: /occurrence/search/?view=MAP
-    klass: gbifExploreMyAreaLink
 permalink: /
 composition: 
 - type: heroImage
