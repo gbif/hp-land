@@ -15,12 +15,12 @@ Im Januar 2024 veranstalten wir einen gemeinsamen Cross-community workshop zwisc
 ### Zeit
 
 - 22.01. - 23.01. 2024 (offen für alle Teilnehmenden) 
-- 24.01.24 (kleinere Arbeitstreffen in taxonspezifischen Fachgruppen)
+- 24.01.2024 (kleinere Arbeitstreffen in taxonspezifischen Fachgruppen)
 
 ### Ort
 
 iDiv, Puschstrase 4, 04103 Leipzig
 
-### Programm (Entwurf, Stand: 04.12.23)
+### Programm
 
 <object data="/assets/files/Cross-community_Workshop_2024.pdf" width="1400" height="1000" type='application/pdf'/>
