@@ -25,6 +25,9 @@ iDiv, Puschstrase 4, 04103 Leipzig
 
 <object data="/assets/files/Cross-community_Workshop_2024.pdf" width="1000" height="1000" type='application/pdf'/>
 
-[Download Workshopprogramm][1]
+
+### Download
+- [Workshopprogramm][1]
+
 
 [1]:{{ site.url }}/assets/files/Cross-community_Workshop_2024.pdf
