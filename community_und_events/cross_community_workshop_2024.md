@@ -21,13 +21,10 @@ Im Januar 2024 veranstalten wir einen gemeinsamen Cross-community workshop zwisc
 
 iDiv, Puschstrase 4, 04103 Leipzig
 
-### Programm
+### Programm ([Download hier][1])
 
 <object data="/assets/files/Cross-community_Workshop_2024.pdf" width="1000" height="1000" type='application/pdf'/>
 
-
-### Download
-- [Workshopprogramm][1]
 
 
 [1]:{{ site.url }}/assets/files/Cross-community_Workshop_2024.pdf
