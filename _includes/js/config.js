@@ -53,6 +53,7 @@ var siteConfig = {
             '8a863029-f435-446a-821e-275f4f641165', // Observation org
             '4fa7b334-ce0d-4e88-aaae-2e0c138d049e', //eBird
             '8277b324-f762-11e1-a439-00145eb45e9a' // The Spider Collection SMNK
+            'fb2ad96e-71d0-4735-815a-32371fec99f7' //RLZ Neuropteren
           ]
         },
         { type: 'equals', key: 'country', value: 'DE' },
