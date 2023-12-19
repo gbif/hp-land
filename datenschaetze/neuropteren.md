@@ -2,7 +2,7 @@
 layout: post 
 title: Neuropteren Deutschlands
 
-background: /assets/images/insects-4438099_1920.jpg
+background: /assets/images/insects-4438099_1920-cropped.jpg
 imageLicense: |
   Photo by [Francisco Corado Rivera](https://pixabay.com/de/users/franciscojaviercorador-1727916/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4438099) via [Pixabay](https://pixabay.com/de/photos/insekten-crisopa-crisopa-gr%C3%BCn-4438099/)
   
