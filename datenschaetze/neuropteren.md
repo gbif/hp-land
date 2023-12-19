@@ -11,7 +11,7 @@ height: 70vh
 
 ## Netzflüglern auf der Spur
 
-Dieser Datens(ch)atz enthält die über das Datenportal [Neuropteren Deutschlands](https://neuropteren.rotelistezentrum.de/) gemeldeten Netzflüglernachweise auf Artniveau aus dem gesamten Bundesgebiet. Das Portal “Neuropteren Deutschlands” wurde vom [Rote-Liste-Zentrum](https://www.rote-liste-zentrum.de/) entwickelt und wird ebenfalls dort betrieben. Mithilfe von NFDI4Biodiversity wurde der Datensatz nun auch an GBIF und das LAND-Portal angebunden.
+Dieser Datens(ch)atz enthält die über das Datenportal ["Neuropteren Deutschlands"](https://neuropteren.rotelistezentrum.de/) gemeldeten Netzflüglernachweise auf Artniveau aus dem gesamten Bundesgebiet. Das Portal “Neuropteren Deutschlands” wurde vom [Rote-Liste-Zentrum](https://www.rote-liste-zentrum.de/) entwickelt und wird ebenfalls dort betrieben. Mithilfe von NFDI4Biodiversity wurde der Datensatz nun auch an GBIF und das LAND-Portal angebunden.
 
 Mit dem Portal “Neuropteren Deutschlands” verfolgt das Rote-Liste-Zentrum das Ziel, eine umfassende Datengrundlage für die Erstellung der Roten Liste bedrohter Neuropterida (Netzflüglerartige) Deutschlands zu generieren. Denn aktuell gibt es für mehr als 90 % der in Deutschland lebendenen Netzflüglerartigen aufgrund schlechter Datenlage keine Gefährdungseinschätzung oder Verbreitungskarten - und das obwohl diese Artengruppe im gesamten Bundesgebiet und in fast allen Lebensräumen vorkommt. 
 
