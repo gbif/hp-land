@@ -54,7 +54,7 @@ var siteConfig = {
             '4fa7b334-ce0d-4e88-aaae-2e0c138d049e', //eBird
             '8277b324-f762-11e1-a439-00145eb45e9a', // The Spider Collection SMNK
             'fb2ad96e-71d0-4735-815a-32371fec99f7', //RLZ Neuropteren
-			'f815728b-139e-4963-b10b-8094c6d0430d'  // Artenfinder
+			'aa6c5ee6-d4d7-4a65-a04f-379cffbf4842'  // Artenfinder
           ]
         },
         { type: 'equals', key: 'country', value: 'DE' },
