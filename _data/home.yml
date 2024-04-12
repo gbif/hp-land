@@ -3,10 +3,10 @@ cards_on_home:
   description: |
     Hier gibt es Biodiversitätsdaten für Deutschland - zusammengestellt von NFDI4Biodiversity und gehostet von GBIF. Viel Spaß beim Entdecken!
   features:
-    - title: Cross-community workshop 2024 (22.-24.01.) # required
+    - title: Cross-community workshop 2024 # required
       preTitle: Event  # optional
       description: |      # required
-       Für den Januar 2024 laden wir gemeinsam mit unseren Freunden vom sMon Projekt zu einem Cross-community workshop am iDiv.
+       Für den Januar 2024 haben wir gemeinsam mit unseren Freunden vom sMon Projekt zu einem Cross-community workshop am iDiv eingeladen.
       background: /assets/images/iDivBuilding-Flowers.jpg # img required
       imageLicense: Photo by iDiv.
       href: /community_und_events/cross_community_workshop_2024
