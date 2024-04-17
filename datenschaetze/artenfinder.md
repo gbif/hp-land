@@ -2,7 +2,7 @@
 layout: post 
 title: ArtenFinder
 
-background: /assets/images/igel.jpeg
+background: /assets/images/igel.jpg
 imageLicense: |
   Photo by doro64 via [iNaturalist](https://www.inaturalist.org/photos/319977725/)
   

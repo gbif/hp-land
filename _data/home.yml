@@ -31,9 +31,9 @@ blog_artenfinder:
   reverse: true
   title: "ArtenFinder"
   preTitle: Datens(ch)atz
-  description: |      # required
+  description: |
     Das ArtenFinder Projekt liefert geprüfte Biodiversitätsdaten aus Reinland-Pfalz und Berlin. Diese Daten sind ab sofort auch bei uns im LAND-Portal.
-  background: /assets/images/igel.jpeg
+  background: /assets/images/igel.jpg
   imageLicense: |
     Photo by doro64 via [iNaturalist](https://www.inaturalist.org/photos/319977725/)
   href: /datenschaetze/artenfinder 
@@ -44,7 +44,7 @@ blog_artenfinder:
 
 blog_insektensachen:
   reverse: false
-  title: "Insekten Sachsen2"
+  title: "Insekten Sachsen"
   preTitle: Datens(ch)atz
   description: |      # required
     Das Citizen Science Projekt "Insektsen Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und darüber hinaus. Mehr über die erfolgreiche Zusammenarbeit zwischen professionellen und freiwilligen Insektenforschern gibt es in unserem Artikel zum Datens(ch)atz.
