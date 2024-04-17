@@ -48,7 +48,7 @@ blog_insektensachen:
   preTitle: Datens(ch)atz
   description: |      # required
     Das Citizen Science Projekt "Insektsen Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und darüber hinaus. Mehr über die erfolgreiche Zusammenarbeit zwischen professionellen und freiwilligen Insektenforschern gibt es in unserem Artikel zum Datens(ch)atz.
-  background: /assets/images/insekten_sachsen/photo3.jpg
+  background: /assets/images/igel.jpg
   imageLicense: |
     Erfassung der biologischen Vielfalt mit den Neuen Medien. Insekten¬Sachsen¬Sommertreffen 2018. Foto: Tilmann Adler. 
   href: /datenschaetze/insekten_sachsen 
