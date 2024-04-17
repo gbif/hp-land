@@ -27,6 +27,7 @@ cards_on_home:
       background: /assets/images/IMG_20230417_100235427.jpg
       imageLicense: Photo by Thore Engel.
 
+
 blog_artenfinder:
   reverse: false
   title: "ArtenFinder"
