@@ -30,8 +30,6 @@ cards_datenschaetze:
 
 cards_on_home:
   title: Aus der Community
-  description: |
-    Hier gibt es Biodiversitätsdaten für Deutschland - zusammengestellt von NFDI4Biodiversity und gehostet von GBIF. Viel Spaß beim Entdecken!
   features:
     - title: Cross-community workshop 2024 # required
       preTitle: Event  # optional
