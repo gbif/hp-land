@@ -64,10 +64,8 @@ cards_on_home:
       imageLicense: Photo by Thore Engel.
       
 dashboard_on_home:
-  title: "Dashboard zu den verfügbaren Daten"
-  description: |
-   Das wichtigste zu unseren Datensätzen auf einen Blick.
+  title: "Liste der verfügbaren Datensätze"
   config: 
-    charts: [datasetKey, taxa, year]
+    charts: [datasetKey]
 
       
