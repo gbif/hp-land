@@ -62,5 +62,10 @@ cards_on_home:
        Hier gibt es Antworten auf einige häufig gestellte Fragen.
       background: /assets/images/IMG_20230417_100235427.jpg
       imageLicense: Photo by Thore Engel.
+      
+dashboard_on_home:
+  title: "Vollständige Liste der verfügbaren Datensätze"
+  config: 
+    charts: [datasetKey]
 
       
