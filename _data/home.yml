@@ -71,4 +71,19 @@ blog_fische:
   - text: Erfahre mehr
     href: /datenschaetze/fischmonitoring/
     isPrimary: true
+    
+    
+cards_datenschaetze:
+  title: Ausgewählte Datens(ch)ätze
+  description: |
+    Hier stellen wir einige der Datens(ch)ätze vor, die im LAND-Portal zu finden sind.
+  features:
+  - title: "ArtenFinder"
+    preTitle: Datens(ch)atz
+    description: |      # required
+     Das ArtenFinder Projekt liefert geprüfte Biodiversitätsdaten aus Rheinland-Pfalz und Berlin. Diese Daten sind ab sofort auch bei uns im LAND-Portal.
+    background: /assets/images/igel.jpg
+    imageLicense: |
+     Photo by doro64 via [iNaturalist](https://www.inaturalist.org/photos/319977725/)
+    href: /datenschaetze/artenfinder
       

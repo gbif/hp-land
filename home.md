@@ -2,7 +2,7 @@
 lang-ref: home
 layout: compose
 title: Lebendiger Atlas - Natur Deutschland (LAND)
-description: Ein Biodiversitätsportal für Deutschland
+description: Ein Biodiversitätsportal für Deutschland - zusammengestellt von NFDI4Biodiversity und gehostet von GBIF.
 background: /assets/images/inat_observation_144145779.jpeg
 imageLicense: |
   *Neotinea ustulata*. Photo by staskanji via [iNaturalist](https://www.inaturalist.org/observations/144145779)
@@ -16,6 +16,8 @@ cta:
 permalink: /
 composition: 
 - type: heroImage
+- type: features
+  data: home.cards_datenschaetze
 - type: features
   data: home.cards_on_home 
 - type: split
