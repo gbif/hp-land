@@ -28,18 +28,18 @@ cards_on_home:
       imageLicense: Photo by Thore Engel.
 
 blog_artenfinder:
-  reverse: false
-  title: "Insekten Sachsen"
+  reverse: true
+  title: "ArtenFinder"
   preTitle: Datens(ch)atz
   description: |      # required
-    Das Citizen Science Projekt "Insektsen Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und darüber hinaus. Mehr über die erfolgreiche Zusammenarbeit zwischen professionellen und freiwilligen Insektenforschern gibt es in unserem Artikel zum Datens(ch)atz.
+    Das ArtenFinder Projekt liefert geprüfte Biodiversitätsdaten aus Rheinland-Pfalz und Berlin. Diese Daten sind ab sofort auch bei uns im LAND-Portal.
   background: /assets/images/igel.jpg
   imageLicense: |
-    Erfassung der biologischen Vielfalt mit den Neuen Medien. Insekten¬Sachsen¬Sommertreffen 2018. Foto: Tilmann Adler. 
-  href: /datenschaetze/insekten_sachsen 
+    Photo by doro64 via [iNaturalist](https://www.inaturalist.org/photos/319977725/)
+  href: /datenschaetze/artenfinder 
   cta:
   - text: Erfahre mehr
-    href: /datenschaetze/insekten_sachsen 
+    href: /datenschaetze/artenfinder 
     isPrimary: true
     
 blog_insektensachsen:

@@ -19,7 +19,9 @@ composition:
 - type: features
   data: home.cards_on_home 
 - type: split
-  data: home.blog_insektensachen
+  data: home.blog_artenfinder
+- type: split
+  data: home.blog_insektensachsen
 - type: split
   data: home.blog_fische
 - type: pageMarkdown # This block will render the markdown in this file so no data property needed
