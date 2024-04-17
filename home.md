@@ -20,7 +20,5 @@ composition:
   data: home.cards_datenschaetze
 - type: features
   data: home.cards_on_home
-- type: dashboard
-  data: home.dashboard_on_home
 - type: pageMarkdown # This block will render the markdown in this file so no data property needed
 ---
