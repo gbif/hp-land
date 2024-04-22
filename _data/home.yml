@@ -67,10 +67,20 @@ cards_on_home:
 stats:
   features:
       # Hard coded value
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">787,000</span>
+    - title: >34.000.000
       description: Artennachweise
       background: /assets/img/icons/validity.png
       href: /occurrence/search
       blankTarget: true
+    - title: 12
+      description: Datensätze
+      href: /occurrence/search
+      blankTarget: true
+    - title: > 4.500.000
+      description: Fotos
+      background: /assets/img/icons/validity.png
+      href: /occurrence/search
+      blankTarget: true
+    
 
       
