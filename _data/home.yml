@@ -63,5 +63,14 @@ cards_on_home:
       background: /assets/images/IMG_20230417_100235427.jpg
       imageLicense: Photo by Thore Engel.
       
+      
+stats:
+  features:
+      # Hard coded value
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0">787,000</span>
+      description: Artennachweise
+      background: /assets/img/icons/validity.png
+      href: /occurrence/search
+      blankTarget: true
 
       

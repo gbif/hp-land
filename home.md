@@ -14,8 +14,10 @@ cta:
   - text: Erfahre mehr
     href: /about
 permalink: /
-composition: 
+composition:
 - type: heroImage
+- type: stats
+  data: home.stats
 - type: features
   data: home.cards_datenschaetze
 - type: features
