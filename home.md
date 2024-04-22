@@ -7,6 +7,7 @@ background: /assets/images/inat_observation_144145779.jpeg
 imageLicense: |
   *Neotinea ustulata*. Photo by staskanji via [iNaturalist](https://www.inaturalist.org/observations/144145779)
 height: 80vh
+hasTextShadow: true
 cta:
   - text: Entdecke Artenvielfalt
     href: /occurrence/search
@@ -14,6 +15,7 @@ cta:
   - text: Erfahre mehr
     href: /about
 permalink: /
+
 composition:
 - type: heroImage
 - type: stats
