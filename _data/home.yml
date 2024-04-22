@@ -66,7 +66,7 @@ cards_on_home:
       
 stats:
   features:
-      # Hard coded value
+      # Hard coded values
     - title: 34.000.000
       description: Artennachweise
       background: /assets/img/icons/validity.png
@@ -74,12 +74,13 @@ stats:
       blankTarget: true
     - title: 12
       description: Datensätze
-      href: /occurrence/search
+      background: /assets/img/icons/validity.png
+      href: /occurrence/search/?view=DATASETS
       blankTarget: true
     - title: 4.500.000
       description: Fotos
       background: /assets/img/icons/validity.png
-      href: /occurrence/search
+      href: /occurrence/search/?view=GALLERY
       blankTarget: true
     
 
