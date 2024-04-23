@@ -77,6 +77,6 @@ stats:
       href: /occurrence/search/?view=DATASETS
     - title: 4.500.000
       description: Nachweise mit Fotos
-      background: /assets/img/icons/validity.png
+      background: /assets/icons/photos.png
       href: /occurrence/search/?view=GALLERY
       
