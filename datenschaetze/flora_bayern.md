@@ -10,7 +10,7 @@ height: 70vh
 ---
 
 ## Hintergrund
-Bayern beherbergt rund 85% der in Deutschland vorkommenden Pflanzenarten und spielt daher spielt das Bundesland eine herausragende Rolle für den Artenschutz. Die faszinierende bayrische Pflanzenwelt wird von 2 spannenden Datens(ch)ätzen zur "Flora von Bayern" dokumentiert, die sich jetzt auch im LAND-Portal entdecken lassen. 
+Bayern beherbergt rund 85% der in Deutschland vorkommenden Pflanzenarten und daher spielt das Bundesland eine herausragende Rolle für den Artenschutz. Die faszinierende bayrische Pflanzenwelt wird von 2 spannenden Datens(ch)ätzen zur "Flora von Bayern" dokumentiert, die sich jetzt auch im LAND-Portal entdecken lassen. 
  
 ## Die Flora von Bayern
 
