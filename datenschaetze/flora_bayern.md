@@ -4,13 +4,13 @@ title: Entdecke die floristische Vielfalt Bayerns im LAND-Portal
 
 background: /assets/images/Flora_von_Bayern.jpg
 imageLicense: |
-  Photo  [Francisco Corado Rivera](https://pixabay.com/de/users/franciscojaviercorador-1727916/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4438099) via [Pixabay](https://pixabay.com/de/photos/insekten-crisopa-crisopa-gr%C3%BCn-4438099/)
+  Photo:  Flora Bayern)
   
 height: 70vh
 ---
 
 ## Hintergrund
-Bayern beherbergt rund 85% der in Deutschland vorkommenden Pflanzenarten und spielt daher eine herausragende Rolle für den Artenschutz. Diese reiche und faszinierende Flora von Bayern wird von 2 spannenden Datens(ch)ätzen dokumentiert, die sich jetzt auch im LAND-Portal entdecken lassen. 
+Bayern beherbergt rund 85% der in Deutschland vorkommenden Pflanzenarten und spielt daher spielt das Bundesland eine herausragende Rolle für den Artenschutz. Die faszinierende bayrische Pflanzenwelt wird von 2 spannenden Datens(ch)ätzen zur "Flora von Bayern" dokumentiert, die sich jetzt auch im LAND-Portal entdecken lassen. 
  
 ## Die Flora von Bayern
 
@@ -20,7 +20,7 @@ Hinter der [Arbeitsgemeinschaft Flora von Bayern](https://web.archive.org/web/20
 
 Auch das behördliche Pflanzenmonitoring vom Bayrischen Landesamt für Umwelt (LfU) trägt zur „Flora von Bayern“ bei, wird aber als gesonderter Datensatz publiziert. Die vom Landesamt seit Anfang der 1970er Jahre im Sinne des Biotop- und Artenschutzes erhobenen Datenbestände zu den Gefäßpflanzen in Bayern stammen überwiegend aus der Biotopkartierung wie Flachland- und Alpenbiotopkartierung, sowie der Artenschutzkartierung. Mehr als 7 Millionen Pfllanzennachweise werden über diesen Datensatz bereitgestellt.
 
-Beide Datensätze werden am SNSB im Datenmanagementsystem Diversity Workbench verwaltet, archiviert und veröffentlicht. Die Anbidung an das LAND-Portal wurde durch NFDI4Biodversity ermöglicht.
+Beide Datensätze werden am SNSB im Datenmanagementsystem Diversity Workbench verwaltet, archiviert und veröffentlicht. Die Anbindung an das LAND-Portal wurde durch NFDI4Biodiversity ermöglicht.
 
 [Hier geht es zu beiden Datensätzen im LAND-Portal.]({{site.url}}occurrence/search/?datasetKey=64dabd3c-4f34-4520-b9dd-d227a0bf1582&datasetKey=8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4) 
 
