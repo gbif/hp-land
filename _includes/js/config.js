@@ -54,7 +54,9 @@ var siteConfig = {
             '4fa7b334-ce0d-4e88-aaae-2e0c138d049e', //eBird
             '8277b324-f762-11e1-a439-00145eb45e9a', // The Spider Collection SMNK
             'fb2ad96e-71d0-4735-815a-32371fec99f7', //RLZ Neuropteren
-			'aa6c5ee6-d4d7-4a65-a04f-379cffbf4842'  // Artenfinder
+			      'aa6c5ee6-d4d7-4a65-a04f-379cffbf4842', // Artenfinder
+			      '64dabd3c-4f34-4520-b9dd-d227a0bf1582', // Flora von Bayern
+			      '8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4'  //Bayerisches Landesamt für Umwelt (LfU) Pflanzen
           ]
         },
         { type: 'equals', key: 'country', value: 'DE' },
