@@ -25,9 +25,8 @@ Beide Datensätze werden am SNSB im Datenmanagementsystem Diversity Workbench ve
 
 [Hier geht es zu beiden Datensätzen im LAND-Portal.]({{site.url}}occurrence/search/?datasetKey=64dabd3c-4f34-4520-b9dd-d227a0bf1582&datasetKey=8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4)
 
-![image](/assets/images/floravonbayern_Kollage2.jpg)
-*Abbildung 1: Die Flora von Bayern enthält sowohl Feldbeobachtungen (rechts: (c) Andreas Zehm, Leontopodium alpinum Cass, Edelweiss) als auch Herbarbelege (links: (c) SNSB - Botanische Staatssammlung München, Hieracium murorus L. ssp. pseudodaiphanoides Gerstl. & Zahn)
-*
+![image](/assets/images/floravonbayern_Kollages.jpg)
+*Abbildung 1: Die Flora von Bayern enthält enthält Daten aus wertvollen Pflanzenhabitaten (oben: Niedermoor, (c) Marcel Ruff) und umfasst sowohl Feldbeobachtungen (unten links: Leontopodium alpinum Cass, Edelweiss, (c) Andreas Zehm) als auch Herbarbelege (unten rechts: Hieracium murorus L. ssp. pseudodaiphanoides Gerstl. & Zahn, (c) SNSB - Botanische Staatssammlung München)*
 
 
 
