@@ -4,7 +4,7 @@ title: Entdecke die floristische Vielfalt Bayerns im LAND-Portal
 
 background: /assets/images/floravonbayern_Kollage.png
 imageLicense: |
-  Collage:  Flora von  Bayern (Photos: Butomus umbellatus by [Wolfgang Ahlmer](https://www.gbif.org/occurrence/2811466337), Linum viscosum L.  by [Andreas Zehm](https://www.gbif.org/occurrence/2809908448), Pulsatilla vulgaris Mill. by [Burkhard Biel](https://www.gbif.org/occurrence/2811322414), Gentiana asclepiadea L.  by [Sebastian Hollinger](https://www.gbif.org/occurrence/2811314413), Drosera rotundifolia L. by [Burkhard Biel](https://www.gbif.org/occurrence/2811319390), Tulipa sylvestris subsp. sylvestris by [Burkhard Biel] (https://www.gbif.org/occurrence/2811466550)
+  Collage "Flora von Bayern" (Photos: Butomus umbellatus by [Wolfgang Ahlmer](https://www.gbif.org/occurrence/2811466337), Linum viscosum L.  by [Andreas Zehm](https://www.gbif.org/occurrence/2809908448), Pulsatilla vulgaris Mill. by [Burkhard Biel](https://www.gbif.org/occurrence/2811322414), Gentiana asclepiadea L.  by [Sebastian Hollinger](https://www.gbif.org/occurrence/2811314413), Drosera rotundifolia L. by [Burkhard Biel](https://www.gbif.org/occurrence/2811319390), Tulipa sylvestris subsp. sylvestris by [Burkhard Biel](https://www.gbif.org/occurrence/2811466550))
 
  
 height: 70vh
@@ -25,7 +25,9 @@ Beide Datensätze werden am SNSB im Datenmanagementsystem Diversity Workbench ve
 
 [Hier geht es zu beiden Datensätzen im LAND-Portal.]({{site.url}}occurrence/search/?datasetKey=64dabd3c-4f34-4520-b9dd-d227a0bf1582&datasetKey=8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4)
 
-![image](/assets/images/Logos_Datensätze/Flora_von_Bayern.jpg)
+![image](/assets/images/floravonbayern_Kollage2.jpg)
+*Abbildung 1: Die Flora von Bayern enthält sowohl Feldbeobachtungen (rechts: (c) Andreas Zehm, Leontopodium alpinum Cass, Edelweiss) als auch Herbarbelege (links: (c) SNSB - Botanische Staatssammlung München, Hieracium murorus L. ssp. pseudodaiphanoides Gerstl. & Zahn)
+*
 
 
 
