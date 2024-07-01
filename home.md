@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: compose
-title: Lebendiger Atlas - Natur Deutschland (LAND)
+title: Lebendiger Atlas der Natur Deutschlands (LAND)
 description: Ein Biodiversitätsportal für Deutschland - zusammengestellt von NFDI4Biodiversity und gehostet von GBIF.
 background: /assets/images/inat_observation_144145779.jpeg
 imageLicense: |

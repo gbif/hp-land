@@ -8,9 +8,9 @@ imageLicense: |
 height: 70vh
 ---
 
-## Der Lebendige Atlas - Natur Deutschland (LAND)
+## Der Lebendige Atlas der Natur Deutschlands (LAND)
 
-Der “Lebendige Atlas Deutschland” bündelt Artbeobachtungen in Deutschland, um sie für Fachanwendungen und eine breite Öffentlichkeit zur Verfügung zu stellen. Derzeit werden Artenvorkommen ausgewählter Datensätze angezeigt, die über das Portal der [Global Biodiversity Information Facility (GBIF)](http://www.gbif.org) öffentlich zur Verfügung stehen.
+Der “Lebendige Atlas der Deutschlands” bündelt Artbeobachtungen in Deutschland, um sie für Fachanwendungen und eine breite Öffentlichkeit zur Verfügung zu stellen. Derzeit werden Artenvorkommen ausgewählter Datensätze angezeigt, die über das Portal der [Global Biodiversity Information Facility (GBIF)](http://www.gbif.org) öffentlich zur Verfügung stehen.
 
 Das Portal wird im Rahmen eines Use Case der [Nationalen Forschungsdateninfrastruktur für Biodiversität (NFDI4Biodiversity)](https://www.nfdi4biodiversity.org) entwickelt.
 

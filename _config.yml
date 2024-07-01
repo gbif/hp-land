@@ -19,11 +19,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lebendiger Atlas - Natur Deutschland # the title of your site should go here
+title: Lebendiger Atlas der Natur Deutschlands # the title of your site should go here
 email: thore.engel@idiv.de
 description: >- # this means to ignore newlines (until baseurl:)
-  Der Lebendige Atlas - Natur Deutschland (LAND) ist ein Biodiversitätsportal für Deutschland, das Naturbeobachtungen aus unterschiedlichen Quellen zusammenführt und verfügbar macht.
-  Das LAND-Portal wird betrieben von der Nationalen Forschungsdateninfrastruktur für Biodiversität (NFDI4Biodiversity), einem interdisziplinären Konsortium aus Organisationen der deutschen Biodiversitätslandschaft.
+  Der Lebendige Atlas der Natur Deutschlands (LAND) ist ein Biodiversitätsportal für Deutschland, das Naturbeobachtungen aus unterschiedlichen Quellen zusammenführt und verfügbar macht.
+  Der lebendige Atlas wird betrieben von der Nationalen Forschungsdateninfrastruktur für Biodiversität (NFDI4Biodiversity), einem interdisziplinären Konsortium aus Organisationen der deutschen Biodiversitätslandschaft.
   Das LAND-Portal wird gehostet von GBIF.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://land.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
