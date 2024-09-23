@@ -67,15 +67,15 @@ cards_on_home:
 stats:
   features:
       # Hard coded values
-    - title: 34.000.000
+    - title: 51.000.000
       description: Artennachweise
       background: /assets/icons/occurrences.png
       href: /occurrence/search
-    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7B%0A%20%20%20%20type%3A%20and%2C%20%0A%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%7Btype%3A%20in%2C%20key%3A%20%22datasetKey%22%2C%20values%3A%20%5B%0A%20%20%20%20%20%20%20%20%226ac3f774-d9fb-4796-b3e9-92bf6c81c084%22%2C%0A%20%20%20%20%20%20%20%20%22e6fab7b3-c733-40b9-8df3-2a03e49532c1%22%2C%0A%20%20%20%20%20%20%20%20%22ad0d1a24-e952-11e2-961f-00145eb45e9a%22%2C%0A%20%20%20%20%20%20%20%20%2277ecd330-b09e-11e2-a01d-00145eb45e9a%22%2C%0A%20%20%20%20%20%20%20%20%2250c9509d-22c7-4a22-a47d-8c48425ef4a7%22%2C%0A%20%20%20%20%20%20%20%20%22e0908eee-ad49-4e91-b4d0-1f05dd17b291%22%2C%0A%20%20%20%20%20%20%20%20%2282a421d4-f762-11e1-a439-00145eb45e9a%22%2C%0A%20%20%20%20%20%20%20%20%228a863029-f435-446a-821e-275f4f641165%22%2C%0A%20%20%20%20%20%20%20%20%224fa7b334-ce0d-4e88-aaae-2e0c138d049e%22%2C%0A%20%20%20%20%20%20%20%20%228277b324-f762-11e1-a439-00145eb45e9a%22%2C%0A%20%20%20%20%20%20%20%20%22fb2ad96e-71d0-4735-815a-32371fec99f7%22%2C%0A%20%20%20%20%20%20%20%20%22aa6c5ee6-d4d7-4a65-a04f-379cffbf4842%22%0A%20%20%20%20%20%20%5D%7D%2C%20%0A%20%20%20%20%20%20%7Btype%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22DE%22%7D%2C%0A%20%20%20%20%20%20%7Btype%3A%20not%2C%20predicate%3A%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20equals%2C%0A%20%20%20%20%20%20%20%20key%3A%20%22hasGeospatialIssue%22%2C%0A%20%20%20%20%20%20%20%20value%3A%20true%0A%20%20%20%20%20%20%7D%7D%0A%20%20%20%20%5D%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20cardinality%20%7B%0A%20%20%20%20%20%20publishingOrg%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">100,000</span>
+    - title: 14
       description: Datensätze
       background: /assets/icons/datasets.png
       href: /occurrence/search/?view=DATASETS
-    - title: 4.500.000
+    - title: 5.800.000
       description: Nachweise mit Fotos
       background: /assets/icons/photos.png
       href: /occurrence/search/?view=GALLERY
