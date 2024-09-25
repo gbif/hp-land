@@ -22,6 +22,6 @@ Langfristig verfolgt der Lebendige Atlas 5 zentrale Visionen, die mit Vertreter:
 * Menschen für Natur begeistern und Engagement ermöglichen
 * Gemeinsam Wissen schaffen – Zukunft gestalten
 
-![image](/assets/images/LAND_logo.jpg)
+![image](/assets/logos/LAND_logo.png)
 
 
