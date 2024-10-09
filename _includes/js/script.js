@@ -55,6 +55,8 @@ function updateElementText(selector, value) {
   }
 }
 
+{% assign graphqlEndpoint = site.graphqlEndpoint | default: "https://graphql.gbif.org/graphql" %}
+
 document.addEventListener('DOMContentLoaded', () => {
   const predicate = siteConfig.occurrence.rootPredicate;
   const query = `query ($predicate: Predicate) {
@@ -73,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
   }`;
-  const url = `https://graphql.gbif-staging.org/graphql?query=${encodeURIComponent(query)}&variables=${encodeURIComponent(JSON.stringify({ predicate }))}`;
+  const url = `{{ graphqlEndpoint }}?query=${encodeURIComponent(query)}&variables=${encodeURIComponent(JSON.stringify({ predicate }))}`;
 
   fetch(url)
     .then(function (response) {
