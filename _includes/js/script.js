@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }, function (error) {
         // Handle any errors here
         console.error("Error getting user location:", error);
-      }).finally(function() {
+      }).finally(function () {
         link.classList.remove("is-loading"); // Remove loading class
       });
     } else {
@@ -34,7 +34,62 @@ document.addEventListener("DOMContentLoaded", function () {
   const locationLinks = document.querySelectorAll("a.gbifExploreMyAreaLink");
 
   // Attach the click event handler to each matching link
-  locationLinks.forEach(function(link) {
+  locationLinks.forEach(function (link) {
     link.addEventListener("click", fetchLocationAndRedirect);
   });
+});
+
+
+function updateElementText(selector, value) {
+  const $el = document.querySelector(selector);
+  if (!$el) return;
+
+  if (typeof value !== 'undefined') {
+    var text = value;
+    if (typeof value === 'number') {
+      text = value.toLocaleString(currentLocale);
+    }
+    $el.textContent = text;
+    $el.classList.remove('ajax-is-loading');
+    $el.classList.add('ajax-is-loaded');
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const predicate = siteConfig.occurrence.rootPredicate;
+  const query = `query ($predicate: Predicate) {
+    occurrenceSearch(predicate: $predicate, size: 10) {
+      documents {
+        total
+      }
+      facet {
+        mediaType {
+          key
+          count
+        }
+      }
+      cardinality {
+        datasetKey
+      }
+    }
+  }`;
+  const url = `https://graphql.gbif-staging.org/graphql?query=${encodeURIComponent(query)}&variables=${encodeURIComponent(JSON.stringify({ predicate }))}`;
+
+  fetch(url)
+    .then(function (response) {
+      return response.json();
+    })
+    .then(function (jsonResponse) {
+      var occurrenceCount = jsonResponse.data.occurrenceSearch.documents.total;
+      updateElementText('#occurrenceCount', occurrenceCount);
+
+      var imageCount = jsonResponse.data.occurrenceSearch.facet.mediaType.filter(facet => facet.key === 'StillImage')[0].count;
+      updateElementText('#imageCount', imageCount);
+
+      var datasetCount = jsonResponse.data.occurrenceSearch.cardinality.datasetKey;
+      updateElementText('#datasetCount', datasetCount);
+    })
+    .catch(function (err) {
+      console.error('Error fetching occurrence count:', err);
+    });
 });

@@ -67,15 +67,15 @@ cards_on_home:
 stats:
   features:
       # Hard coded values
-    - title: 51.000.000
+    - title: <span id="occurrenceCount" class="ajax-is-loading">Loading</span>
       description: Artennachweise
       background: /assets/icons/occurrences.png
       href: /occurrence/search
-    - title: 14
+    - title: <span id="datasetCount" class="ajax-is-loading">Loading</span>
       description: Datensätze
       background: /assets/icons/datasets.png
       href: /occurrence/search/?view=DATASETS
-    - title: 5.800.000
+    - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
       description: Nachweise mit Fotos
       background: /assets/icons/photos.png
       href: /occurrence/search/?view=GALLERY
