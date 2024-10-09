@@ -17,11 +17,11 @@ cta:
 permalink: /
 
 composition:
+- type: stats
+  data: home.stats
 - type: heroImage
 - type: split
   data: home.announcement
-- type: stats
-  data: home.stats
 - type: features
   data: home.cards_datenschaetze
 - type: features
