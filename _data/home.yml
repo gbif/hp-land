@@ -80,12 +80,12 @@ stats:
       background: /assets/icons/photos.png
       href: /occurrence/search/?view=GALLERY
       
-text:
+announcement:
+  reverse: true
   title: "SAVE THE DATE: 20.-21.01.25 LAND community workshop 2025"
   description: |      # required
     Wir laden wieder herzlich ein zu unserem jährlichen Community workshop in Leipzig.
     [Weitere Informationen hier.]({{site.url}}/community_und_events/community_workshop_2025) 
   background: /assets/images/FskWScGWYBc0V1S.jpg
-  overlayColor: "#ffffff55"
   hasWhiteText: false
       
