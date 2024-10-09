@@ -67,7 +67,7 @@ cards_on_home:
 stats:
   features:
       # Hard coded values
-    - title: <span id="occurrenceCount" class="ajax-is-loading">Loading</span>
+    - title: <span id="mapCount" class="ajax-is-loading">Loading</span>
       description: Artennachweise
       background: /assets/icons/occurrences.png
       href: /occurrence/search

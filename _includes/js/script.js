@@ -27,6 +27,10 @@ document.addEventListener('DOMContentLoaded', () => {
           key
           count
         }
+        hasCoordinate {
+          key
+          count
+        }
       }
       cardinality {
         datasetKey
@@ -46,8 +50,14 @@ document.addEventListener('DOMContentLoaded', () => {
       var imageCount = jsonResponse.data.occurrenceSearch.facet.mediaType.filter(facet => facet.key === 'StillImage')[0].count;
       updateElementText('#imageCount', imageCount);
 
+      var occurrenceMapCount = jsonResponse.data.occurrenceSearch.facet.hasCoordinate.filter(facet => facet.key === true)[0].count;
+      updateElementText('#mapCount', occurrenceMapCount);
+
       var datasetCount = jsonResponse.data.occurrenceSearch.cardinality.datasetKey;
       updateElementText('#datasetCount', datasetCount);
+
+      var publisherCount = jsonResponse.data.occurrenceSearch.cardinality.publishingOrg;
+      updateElementText('#publisherCount', publisherCount);
     })
     .catch(function (err) {
       console.error('Error fetching occurrence count:', err);
