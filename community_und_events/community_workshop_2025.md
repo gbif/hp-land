@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: LAND community workshop 2025
+title: LAND Community Workshop 2025
 
 background: /assets/images/iDivBuilding-Flowers.jpg
 imageLicense: |

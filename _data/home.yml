@@ -82,12 +82,14 @@ stats:
       
 announcement:
   reverse: true
-  title: "SAVE THE DATE: 20.-21.01.25 LAND community workshop 2025"
+  preTitle: Event 
+  title: "SAVE THE DATE: 20.-21.01.25 LAND Community Workshop 2025"
   description: |      # required
-    Wir laden wieder herzlich ein zu unserem jährlichen Community workshop in Leipzig.
+    Wir laden wieder herzlich ein zu unserem jährlichen Community Workshop in Leipzig.
   background: /assets/images/PXL_20240123_093111173_crop.jpg
   href: /community_und_events/community_workshop_2025
   cta:
   - text: Weitere Informationen
     href: /community_und_events/community_workshop_2025
+    isPrimary: true
       
