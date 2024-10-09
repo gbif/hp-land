@@ -86,7 +86,7 @@ announcement:
   description: |      # required
     Wir laden wieder herzlich ein zu unserem jährlichen Community workshop in Leipzig.
   background: /assets/images/PXL_20240123_093111173_crop.jpg
-   href: /community_und_events/community_workshop_2025
+  href: /community_und_events/community_workshop_2025
   cta:
   - text: Weitere Informationen
     href: /community_und_events/community_workshop_2025
