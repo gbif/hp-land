@@ -18,7 +18,7 @@ permalink: /
 
 composition:
 - type: heroImage
-- type: text
+- type: floatingText
   data: home.text
 - type: stats
   data: home.stats
