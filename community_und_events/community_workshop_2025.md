@@ -18,7 +18,7 @@ Wir laden wieder herzlich ein zu unserem alljährlichen LAND Community Workshop.
 
 ### Ort
 
-iDiv, Puschstrase 4, 04103 Leipzig
+iDiv, Puschstraße 4, 04103 Leipzig
 
 ### Programm und weitere Informationen
 
