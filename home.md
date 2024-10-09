@@ -18,6 +18,8 @@ permalink: /
 
 composition:
 - type: heroImage
+- type: text
+  data: home.text
 - type: stats
   data: home.stats
 - type: features
