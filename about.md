@@ -28,6 +28,6 @@ In diesem Video stellen Martin-Friedrichs-Manthey und Jörg Holetschek das LAND 
 
 <iframe width="696" height = "391" src="https://www.youtube.com/embed/nIAbQ1b1h9A?si=EvEEwN51fRodKhzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Auf dem [Youtube-Kanal von NFDI4Biodiversity](https://www.youtube.com/@NFDI4Biodiv) gibt es viele weitere Beiträge aus dem "BiodiversiTea"-Austauschformat, sowie eine Vielzahl von Videos zum Thema Forschungsdatenmanagement und Biodiversitätsdaten.
+Übrigens: Auf dem [Youtube-Kanal von NFDI4Biodiversity](https://www.youtube.com/@NFDI4Biodiv) gibt es noch viele weitere interessante Beiträge aus dem "BiodiversiTea"-Austauschformat und eine Menge spannende Videos zum Thema Forschungsdatenmanagement und Biodiversitätsdaten.
 
 
