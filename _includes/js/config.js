@@ -69,6 +69,10 @@ var siteConfig = {
         {
           type: 'not', predicate:
             { type: 'equals', key: 'hasGeospatialIssue', value: 'true' }
+        },
+        {
+          type: 'not', predicate:
+            { type: 'equals', key: 'datasetKey', value: '85703434-f762-11e1-a439-00145eb45e9a' }
         }
       ]
     },
