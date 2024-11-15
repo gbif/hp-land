@@ -59,7 +59,8 @@ var siteConfig = {
                     'fb2ad96e-71d0-4735-815a-32371fec99f7', //RLZ Neuropteren
                     'aa6c5ee6-d4d7-4a65-a04f-379cffbf4842', // Artenfinder
                     '64dabd3c-4f34-4520-b9dd-d227a0bf1582', // Flora von Bayern
-                    '8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4'  //Bayerisches Landesamt für Umwelt (LfU) Pflanzen
+                    '8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4',  //Bayerisches Landesamt für Umwelt (LfU) Pflanzen
+                    '11c5c7f0-08cf-4a8b-a0e2-dfbc9ad768e3',  // Forstamtsdaten
                   ]
                 },
                 {type: 'equals', key: 'publishingOrg', value: '57254bd0-8256-11d8-b7ed-b8a03c50a862' }
