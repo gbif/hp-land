@@ -41,29 +41,40 @@ var siteConfig = {
       type: "and",
       predicates: [
         {
-          type: 'in', key: 'datasetKey',
-          values: [
-            '6ac3f774-d9fb-4796-b3e9-92bf6c81c084', //naturgucker
-            'e6fab7b3-c733-40b9-8df3-2a03e49532c1', //Flora von Deutschland (Phanerogamen)
-            'ad0d1a24-e952-11e2-961f-00145eb45e9a', //VegetWeb - Repositorium von Vegetationsaufnahmen
-            '77ecd330-b09e-11e2-a01d-00145eb45e9a', //Insekten Sachsen
-            '50c9509d-22c7-4a22-a47d-8c48425ef4a7', //iNaturalist Research-grade Observations
-            'e0908eee-ad49-4e91-b4d0-1f05dd17b291', //Harmonised freshwater fish data
-            '82a421d4-f762-11e1-a439-00145eb45e9a', //Edaphobase
-            '8a863029-f435-446a-821e-275f4f641165', // Observation org
-            '4fa7b334-ce0d-4e88-aaae-2e0c138d049e', //eBird
-            '8277b324-f762-11e1-a439-00145eb45e9a', // The Spider Collection SMNK
-            'fb2ad96e-71d0-4735-815a-32371fec99f7', //RLZ Neuropteren
-			      'aa6c5ee6-d4d7-4a65-a04f-379cffbf4842', // Artenfinder
-			      '64dabd3c-4f34-4520-b9dd-d227a0bf1582', // Flora von Bayern
-			      '8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4'  //Bayerisches Landesamt für Umwelt (LfU) Pflanzen
-          ]
+            type: "or",
+            predicates: [
+                {
+                  type: 'in', key: 'datasetKey',
+                  values: [
+                    '6ac3f774-d9fb-4796-b3e9-92bf6c81c084', //naturgucker
+                    'e6fab7b3-c733-40b9-8df3-2a03e49532c1', //Flora von Deutschland (Phanerogamen)
+                    'ad0d1a24-e952-11e2-961f-00145eb45e9a', //VegetWeb - Repositorium von Vegetationsaufnahmen
+                    '77ecd330-b09e-11e2-a01d-00145eb45e9a', //Insekten Sachsen
+                    '50c9509d-22c7-4a22-a47d-8c48425ef4a7', //iNaturalist Research-grade Observations
+                    'e0908eee-ad49-4e91-b4d0-1f05dd17b291', //Harmonised freshwater fish data
+                    '82a421d4-f762-11e1-a439-00145eb45e9a', //Edaphobase
+                    '8a863029-f435-446a-821e-275f4f641165', // Observation org
+                    '4fa7b334-ce0d-4e88-aaae-2e0c138d049e', //eBird
+                    '8277b324-f762-11e1-a439-00145eb45e9a', // The Spider Collection SMNK
+                    'fb2ad96e-71d0-4735-815a-32371fec99f7', //RLZ Neuropteren
+                    'aa6c5ee6-d4d7-4a65-a04f-379cffbf4842', // Artenfinder
+                    '64dabd3c-4f34-4520-b9dd-d227a0bf1582', // Flora von Bayern
+                    '8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4',  //Bayerisches Landesamt für Umwelt (LfU) Pflanzen
+                    '11c5c7f0-08cf-4a8b-a0e2-dfbc9ad768e3',  // Forstamtsdaten
+                  ]
+                },
+                {type: 'equals', key: 'publishingOrg', value: '57254bd0-8256-11d8-b7ed-b8a03c50a862' }
+            ]
         },
         { type: 'equals', key: 'country', value: 'DE' },
         {
           type: 'not', predicate:
             { type: 'equals', key: 'hasGeospatialIssue', value: 'true' }
-        }
+        },
+        //{
+        //  type: 'not', predicate:
+        //    { type: 'equals', key: 'datasetKey', value: '85703434-f762-11e1-a439-00145eb45e9a' }
+        //}
       ]
     },
     occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'], // what tabs should be shown
