@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "Bemerkenswerter Datenschatz: 180 Jahre alte Erhebungen für Biodiversitätsforschung mobilisiert"
+title: "Bemerkenswerter Datens(ch)atz: 180 Jahre alte Erhebungen für Biodiversitätsforschung mobilisiert"
 
 background: /assets/images/AOD_1845.png
 imageLicense: |
@@ -25,9 +25,12 @@ Erstmals wurden diese historischen Aufzeichnungen nun digitalisiert und die von 
 
 Die Digitalisierung und Aufbereitung der Daten war das Ergebnis einer engen Kooperation zwischen dem Lehrstuhl für Computational Humanities der Universität Passau, der Generaldirektion der Staatlichen Archive Bayerns, dem Deutschen Zentrum für integrative Biodiversitätsforschung (iDiv) sowie dem NFDI4Biodiversity-Konsortium.
 
-Vertiefende Informationen zum Thema bot Malte Rehbein von der Universität Passau in seinem Beitrag im NFDI4Biodiversity-Austauschformat BiodiversiTea. Neben der Genese des Datensatzes zeigt er exemplarisch dessen analytische Potenziale auf und schildert, wie in intensiver Zusammenarbeit von Wissenschaftler:innen aus dem Archivwesen, der Geschichtswissenschaft und der Ökologie die Mobilisierung möglich wurde.
+Vertiefende Informationen zum Thema bot Malte Rehbein von der Universität Passau in seinem [Beitrag im NFDI4Biodiversity-Austauschformat BiodiversiTea](https://www.youtube.com/watch?v=83279DmxVYo). Neben der Genese des Datensatzes zeigt er exemplarisch dessen analytische Potenziale auf und schildert, wie in intensiver Zusammenarbeit von Wissenschaftler:innen aus dem Archivwesen, der Geschichtswissenschaft und der Ökologie die Mobilisierung möglich wurde.
 
-[Hier geht es zum Datensatz im LAND-Portal.]({{site.url}}occurrence/search/?datasetKey=11c5c7f0-08cf-4a8b-a0e2-dfbc9ad768e3) 
+Weiterführende Links
+ - [Der Datensatz im LAND-Portal.]({{site.url}}occurrence/search/?datasetKey=11c5c7f0-08cf-4a8b-a0e2-dfbc9ad768e3) 
+ - [Zenodo Publikation](https://zenodo.org/records/13899541)
+ - [Digitalisate in der Findmitteldatenbank der Staatlichen Archive Bayerns](https://www.gda.bayern.de/service/findmitteldatenbank/Kapitel/0ea38d12-d425-4b3e-a497-7b6830f439e1)
 
 
 
