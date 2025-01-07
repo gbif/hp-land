@@ -4,7 +4,7 @@ title: "Bemerkenswerter Datenschatz: 180 Jahre alte Erhebungen f√ºr Biodiversit√
 
 background: /assets/images/AOD_1845.png
 imageLicense: |
-Bayerisches Hauptstaatsarchiv (BayHStA, Zoologische Staatssammlung 208-217)
+  Bayerisches Hauptstaatsarchiv (BayHStA, Zoologische Staatssammlung 208-217)
   
 height: 70vh
 ---
