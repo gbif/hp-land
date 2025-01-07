@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Bemerkenswerter Datenschatz: 180 Jahre alte Erhebungen für Biodiversitätsforschung mobilisiert
+title: "Bemerkenswerter Datenschatz: 180 Jahre alte Erhebungen für Biodiversitätsforschung mobilisiert"
 
 background: /assets/images/insects-4438099_1920-cropped.jpg
 imageLicense: |
