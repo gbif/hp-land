@@ -11,6 +11,8 @@ height: 70vh
 
 ### Dank der Zusammenarbeit mehrerer Partner des NFDI4Biodiversity-Netzwerks konnte ein Datensatz mit 5.467 georeferenzierten Tierbeobachtungen aus Bayerischen Forstämtern digitalisiert und für die wissenschaftliche Nutzung aufbereitet werden.
 
+#### Autorin: Giada Matheisen
+
 Die Biodiversitätsforschung lebt von Daten, die Entwicklungen über Zeiträume hinweg sichtbar machen. Doch historische Daten zu Artenvorkommen sind rar. Ein einzigartiges Beispiel aus Bayern bietet jedoch einen wertvollen Einblick in die Artenvielfalt des 19. Jahrhunderts: die systematische Erfassung von Tierarten durch bayerische Forstämter im Jahr 1845.
 
 ### Der Auftrag im Jahre 1845: Erhebung der Artenvielfalt Bayerns
