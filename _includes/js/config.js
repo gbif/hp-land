@@ -61,9 +61,16 @@ var siteConfig = {
                     '64dabd3c-4f34-4520-b9dd-d227a0bf1582', // Flora von Bayern
                     '8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4',  //Bayerisches Landesamt für Umwelt (LfU) Pflanzen
                     '11c5c7f0-08cf-4a8b-a0e2-dfbc9ad768e3',  // Forstamtsdaten
+                    'd446193a-7bbd-4c76-b90a-2546fcafa85c',  // Herbarium Dresden (Jacq)
                   ]
                 },
-                {type: 'equals', key: 'publishingOrg', value: '57254bd0-8256-11d8-b7ed-b8a03c50a862' }
+                {
+                  type: 'in', key: 'publishingOrg', 
+                  values: [
+                    '57254bd0-8256-11d8-b7ed-b8a03c50a862', // BGBM
+                    '0674aea0-a7e1-11d8-9534-b8a03c50a862', // SNSB
+                  ]
+                }
             ]
         },
         { type: 'equals', key: 'country', value: 'DE' },
