@@ -52,7 +52,6 @@ var siteConfig = {
                     '77ecd330-b09e-11e2-a01d-00145eb45e9a', //Insekten Sachsen
                     '50c9509d-22c7-4a22-a47d-8c48425ef4a7', //iNaturalist Research-grade Observations
                     'e0908eee-ad49-4e91-b4d0-1f05dd17b291', //Harmonised freshwater fish data
-                    '82a421d4-f762-11e1-a439-00145eb45e9a', //Edaphobase
                     '8a863029-f435-446a-821e-275f4f641165', // Observation org
                     '4fa7b334-ce0d-4e88-aaae-2e0c138d049e', //eBird
                     '8277b324-f762-11e1-a439-00145eb45e9a', // The Spider Collection SMNK
@@ -75,6 +74,7 @@ var siteConfig = {
                     '6e1cad80-bdf5-11d8-84ea-b8a03c50a862', // LIB/ZFMK
                     'c76cf030-2a95-11da-9cc1-b8a03c50a862', // Senckenberg
                     '48490260-8fc0-11dd-be72-b8a03c50a862', // Senckenberg CeDAMar
+                    '98dbab03-09e5-4ceb-988e-04f3e803decb', // Edaphobase
                     
                     
                   ]
