@@ -69,6 +69,14 @@ var siteConfig = {
                   values: [
                     '57254bd0-8256-11d8-b7ed-b8a03c50a862', // BGBM
                     '0674aea0-a7e1-11d8-9534-b8a03c50a862', // SNSB
+                    '10980920-6dad-11da-ad13-b8a03c50a862', // MfN
+                    '99ea0c90-61e5-11dc-a64c-b8a03c50a862', // SMNS
+                    '463555b0-d081-11da-ae8f-b8a03c50a862', // DSMZ
+                    '6e1cad80-bdf5-11d8-84ea-b8a03c50a862', // LIB/ZFMK
+                    'c76cf030-2a95-11da-9cc1-b8a03c50a862', // Senckenberg
+                    '48490260-8fc0-11dd-be72-b8a03c50a862', // Senckenberg CeDAMar
+                    
+                    
                   ]
                 },
                 {
