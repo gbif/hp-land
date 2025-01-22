@@ -117,6 +117,12 @@ var siteConfig = {
     },
     getSuggests: getSuggests
   },
+  suggest: { // this is part of the new configuration and will be ignored for the existing site
+    gadm: {
+      type: 'PARAMS',
+      value: { gadmGid: 'DEU' }
+    }
+  },
   apiKeys: {
     // see https://hp-theme.gbif-staging.org/data-exploration-config#map-options and https://github.com/gbif/hosted-portals/issues/229
     "maptiler": "HILUubWr4O5xTtKJsy1y",
