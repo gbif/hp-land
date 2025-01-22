@@ -69,13 +69,13 @@ var siteConfig = {
                   type: 'in', key: 'publishingOrg', 
                   values: [
                     '57254bd0-8256-11d8-b7ed-b8a03c50a862', // BGBM
+                    '0674aea0-a7e1-11d8-9534-b8a03c50a862', // SNSB
                   ]
                 },
                 {
                   type: 'in', key: 'networkKey', 
                   values: [
                     'd1627240-04ab-4162-aee9-b16df6bc8308', // Freshwater Network
-                    '0674aea0-a7e1-11d8-9534-b8a03c50a862', // SNSB
                   ]
                 }
             ]
