@@ -61,7 +61,6 @@ var siteConfig = {
                     '64dabd3c-4f34-4520-b9dd-d227a0bf1582', // Flora von Bayern
                     '8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4', //Bayerisches Landesamt für Umwelt (LfU) Pflanzen
                     '11c5c7f0-08cf-4a8b-a0e2-dfbc9ad768e3', // Forstamtsdaten
-                    'd446193a-7bbd-4c76-b90a-2546fcafa85c', // Herbarium Dresden (Jacq)
                     '3580c8a0-33eb-40ac-b172-995854622428', // Baggersee-Daten
                   ]
                 },
@@ -76,6 +75,7 @@ var siteConfig = {
                   type: 'in', key: 'networkKey', 
                   values: [
                     'd1627240-04ab-4162-aee9-b16df6bc8308', // Freshwater Network
+                    '3aee7756-565e-4dc5-b22c-f997fbd7105c', // Virtual Herbarium Germany
                   ]
                 }
             ]
