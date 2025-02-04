@@ -101,7 +101,7 @@ var siteConfig = {
     },
     occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'], // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
-    excludedFilters: ['continent', 'country', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'dwcaExtension', 'collectionKey', 'networkKey'],
+    excludedFilters: ['continent', 'country', 'depth', 'establishmentMeans', 'eventId', 'hostingOrganizationKey', 'identifiedById', 'occurrenceStatus', 'organismId', 'organismQuantity', 'protocol', 'publishingCountryCode', 'recordedById', 'relativeOrganismQuantity', 'sampleSizeUnit', 'sampleSizeValue', 'dwcaExtension', 'collectionKey', 'networkKey', 'verbatimScientificName', 'projectID'],
     highlightedFilters: ['taxonKey', 'q', 'year', 'month', 'gadmGid', 'locality', 'datasetKey', 'occurrenceIssue'],
     availableTableColumns: ['coordinates', 'year', 'dataset', 'publisher', 'features'],
     filters: {
