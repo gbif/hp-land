@@ -37,7 +37,9 @@ cards_datenschaetze:
     href: /datenschaetze/fischmonitoring/
 
 cards_on_home:
-  title: Aus der Community
+  title: LAND Community Workshop
+  description: |      # required
+     Bei unseren jährlichen Workshops trifft sich die Community zum Austausch. 
   features:
     - title: Cross-community workshop 2024 # required
       preTitle: Event  # optional
