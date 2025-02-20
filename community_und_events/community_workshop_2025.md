@@ -9,7 +9,7 @@ height: 200vh
 ---
 ### Beschreibung
 
-Bereits das dritte Jahr in folge haben wir unseren LAND Community Workshop in Leipzig am iDiv abgehalten. Rund 70 Teilnehmende aus Forschung, Behörden, Fachgesellschaften, Ehrenamt und Naturschutz waren mit dabei und haben sich zum Thema "Offene Vorkommensdaten" ausgetauscht. Unten gibt es das Progamm und einzelne Vortragsfolien zum Download. Wir bedanken uns bei allen Teilnehmenden und freuen uns schon auf ein Wiedersehen im nächsten Jahr.
+Bereits das dritte Jahr in Folge haben wir unseren LAND Community Workshop in Leipzig am iDiv abgehalten. Rund 70 Teilnehmende aus Forschung, Behörden, Fachgesellschaften, Ehrenamt und Naturschutz waren mit dabei und haben sich zum Thema "Offene Vorkommensdaten" ausgetauscht. Unten gibt es das Programm und Vortragsfolien zum Download. Wir bedanken uns bei allen Teilnehmenden und freuen uns schon auf ein Wiedersehen im nächsten Jahr.
  
 
 ### Datum
@@ -22,8 +22,6 @@ Bereits das dritte Jahr in folge haben wir unseren LAND Community Workshop in Le
 iDiv, Puschstraße 4, 04103 Leipzig
 
 
-
-
 ### Ressourcen zum Download
 - [Workshopprogramm][1]
 - [Einführungsvortrag zu NFDI4Biodiversity und LAND][2]
@@ -34,6 +32,7 @@ iDiv, Puschstraße 4, 04103 Leipzig
 - [FLOW und #UnsereFlüsse - Gewässermonitoring durch Freiwillige (Julia von Gönner)][7]
 - [10 Millionen Insekten- eine Herausforderung für die Artbestimmung und die Datenverwaltung (Gerlind Lehmann)][8]
 
+![image](/assets/files/workshop_2025/Gruppenfoto.jpg)
 
 [1]:{{ site.url }}/assets/files/workshop_2025/LAND_community_Workshop_2025.pdf
 [2]:{{ site.url }}/assets/files/workshop_2025/LAND Community Workshop 2025-1.pdf
