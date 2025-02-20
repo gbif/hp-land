@@ -24,9 +24,12 @@ function getSuggests({ client }) {
 }
 
 var siteConfig = {
-  version: 2,
   routes: {
-    enabledRoutes: ['occurrenceSearch', 'institutionKey', 'institutionSearch', 'publisherSearch', 'publisherKey', 'collectionKey', 'collectionSearch', 'datasetKey', 'datasetSearch', 'literatureSearch'],
+    occurrenceSearch: {
+      // The route you are currently using for occurrence search. The language prefix will be added automatically
+      // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
+      // route: '/data'
+    }
   },
   occurrence: {
     mapSettings: { lat: 50, lng: 10, zoom: 4.9115440763665068, userLocationEnabled: true },
@@ -127,16 +130,10 @@ var siteConfig = {
       value: { gadmGid: 'DEU' }
     }
   },
-  institution: {
-    rootFilter: { // filters on the grscicoll institution v1 API https://www.gbif.org/developer/summary
-      displayOnNHCPortal: true,
-      active: true
-    },
   apiKeys: {
     // see https://hp-theme.gbif-staging.org/data-exploration-config#map-options and https://github.com/gbif/hosted-portals/issues/229
     "maptiler": "HILUubWr4O5xTtKJsy1y",
   },
-  availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
   maps: {
     locale: 'en', // what language should be used for GBIF base maps? See https://tile.gbif.org/ui/ for available languages in basemaps
     defaultProjection: 'MERCATOR', // what is the default projection
