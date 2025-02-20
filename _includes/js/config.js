@@ -24,12 +24,9 @@ function getSuggests({ client }) {
 }
 
 var siteConfig = {
+  version: 2,
   routes: {
-    occurrenceSearch: {
-      // The route you are currently using for occurrence search. The language prefix will be added automatically
-      // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
-      // route: '/data'
-    }
+    enabledRoutes: ['occurrenceSearch', 'institutionKey', 'institutionSearch', 'publisherSearch', 'publisherKey', 'collectionKey', 'collectionSearch', 'datasetKey', 'datasetSearch', 'literatureSearch'],
   },
   occurrence: {
     mapSettings: { lat: 50, lng: 10, zoom: 4.9115440763665068, userLocationEnabled: true },
