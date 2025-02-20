@@ -9,8 +9,8 @@ height: 200vh
 ---
 ### Beschreibung
 
-Wir laden wieder herzlich ein zu unserem alljährlichen LAND Community Workshop. Freut euch auf ein Wiedersehen in unserer lebendigen Community mit spannenden Praxisvorträgen und Workshop-Sessions rund um das Thema "offene Vorkommensdaten".
-
+Bereits das dritte Jahr in folge haben wir unseren LAND Community Workshop in Leipzig am iDiv abgehalten. Rund 70 Teilnehmende aus Forschung, Behörden, Fachgesellschaften, Ehrenamt und Naturschutz waren mit dabei und haben sich zum Thema "Offene Vorkommensdaten" ausgetauscht. Unten gibt es das Progamm und einzelne Vortragsfolien zum Download. Wir bedanken uns bei allen Teilnehmenden und freuen uns schon auf ein Wiedersehen im nächsten Jahr.
+ 
 
 ### Datum
 
@@ -21,17 +21,25 @@ Wir laden wieder herzlich ein zu unserem alljährlichen LAND Community Workshop.
 
 iDiv, Puschstraße 4, 04103 Leipzig
 
-### Weitere Informationen und Anmeldung
-
-Wir beginnen am Montag, den 20.01.2025, um 12 Uhr mit einem gemeinsamen Mittagessen und enden am Dienstag, den 21.01.2025 um ca. 16 Uhr (siehe Programm unten). Darüber hinaus besteht die Möglichkeit, Mittwoch, den 22.01.25, für selbstorganisierte Arbeitstreffen im NFDI4Biodiversity-Kontext zu nutzen. Ausreichend Konferenzräume stehend dafür zur Verfügung. Sprecht uns also gerne an, wenn ihr einen Tag länger bleiben möchtet.
-
-Für die Teilnahme an der Veranstaltung ist eine vorherige Anmeldung erforderlich. Dazu zirkulieren wir eine Einladung mit Registrierungslink in unserem Netzwerk per Email. Solltet ihr Interesse an der Veranstaltung haben, aber keine Einladung bekommen haben, wendet euch bitte an [Thore Engel](mailto:thore.engel@idiv.de). Personen aus dem NFDI4Biodiversity-Konsortium mit Confluence-Zugang, finden den Registrierungslink auch [hier im Event hub](https://kb.gfbio.org/plugins/easyevents/event-hub.action#/eventhub/0ba69835-5bd8-4540-929b-82575a16907c/1) (Confluence-Anmeldung erforderlich).
 
 
-### Programm ([Download hier][1])
 
-<object data="/assets/files/workshop_2025/LAND_community_Workshop_2025" width="1000" height="1000" type='application/pdf'/>
-
+### Ressourcen zum Download
+- [Workshopprogramm][1]
+- [Einführungsvortrag zu NFDI4Biodiversity und LAND][2]
+- [Daten veröffentlichen und archivieren mit dem gfbio Submission service (Judith Engel)][3]
+- [GBIF Data Papers in Peer Reviewed Journals (Tanja Weibulat)][4]
+- [1+1>2 - Darwin Core und ABCD rücken zusammen (Anton Güntsch)][5]
+- [Edaphobase – Kuratierte und strukturierte Datensätze zu Bodenorganismen (Stephan Lesch)][6]
+- [FLOW und #UnsereFlüsse - Gewässermonitoring durch Freiwillige (Julia von Gönner)][7]
+- [10 Millionen Insekten- eine Herausforderung für die Artbestimmung und die Datenverwaltung (Gerlind Lehmann)][8]
 
 
 [1]:{{ site.url }}/assets/files/workshop_2025/LAND_community_Workshop_2025.pdf
+[2]:{{ site.url }}/assets/files/workshop_2025/LAND Community Workshop 2025-1.pdf
+[3]:{{ site.url }}/assets/files/workshop_2025/Montag_Engel-J_GFBio-Data-Submission-Service.pdf
+[4]:{{ site.url }}/assets/files/workshop_2025/Weibulat_GBIF data paper.pdf
+[5]:{{ site.url }}/assets/files/workshop_2025/LAND2025_ABCD_DWC_Guentsch.pdf
+[6]:{{ site.url }}/assets/files/workshop_2025/Dienstag_Lesch_Edaphobase.pdf
+[7]:{{ site.url }}/assets/files/workshop_2025/FLOW_LANDWorkshop_Gönner.pdf
+[8]:{{ site.url }}/assets/files/workshop_2025/iDiV 2025 Gerlind Lehmann.pdf
