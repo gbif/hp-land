@@ -127,6 +127,11 @@ var siteConfig = {
       value: { gadmGid: 'DEU' }
     }
   },
+  institution: {
+    rootFilter: { // filters on the grscicoll institution v1 API https://www.gbif.org/developer/summary
+      displayOnNHCPortal: true,
+      active: true
+    },
   apiKeys: {
     // see https://hp-theme.gbif-staging.org/data-exploration-config#map-options and https://github.com/gbif/hosted-portals/issues/229
     "maptiler": "HILUubWr4O5xTtKJsy1y",
