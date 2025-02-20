@@ -39,8 +39,16 @@ cards_datenschaetze:
 cards_on_home:
   title: LAND Community Workshop
   description: |      # required
-     Bei unseren jährlichen Workshops trifft sich die Community zum Austausch. 
+     Bei unseren jährlichen Workshops trifft sich unsere lebendige Community zum Austausch.
   features:
+    - title: LAND Community Workshop 2025 # required
+      preTitle: Event  # optional
+      description: |      # required
+       Ca. 70 Teilnehmende waren beim diesjährigen Workshop dabei. Es gab einen lebendigen Austausch zum Thema offene Vorkommensdaten.
+      background: /assets/files/workshop_2025/Gruppenfoto.jpg # img required
+      imageLicense: Photo by iDiv.
+      href: /community_und_events/cross_community_workshop_2025
+      # categories: [drawings] # optional
     - title: Cross-community workshop 2024 # required
       preTitle: Event  # optional
       description: |      # required
@@ -57,14 +65,7 @@ cards_on_home:
       imageLicense: Photo by NDFDI4Biodiversity.
       href: /community_und_events/community_workshop
       # categories: [drawings] # optional
-    - title: Häufig gestellte Fragen
-      preTitle: FAQ
-      href: /FAQ
-      description: |
-       Hier gibt es Antworten auf einige häufig gestellte Fragen.
-      background: /assets/images/IMG_20230417_100235427.jpg
-      imageLicense: Photo by Thore Engel.
-      
+ 
       
 stats:
   features:
