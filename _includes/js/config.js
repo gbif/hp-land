@@ -131,6 +131,7 @@ var siteConfig = {
     // see https://hp-theme.gbif-staging.org/data-exploration-config#map-options and https://github.com/gbif/hosted-portals/issues/229
     "maptiler": "HILUubWr4O5xTtKJsy1y",
   },
+  availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION', 'LITERATURE'],
   maps: {
     locale: 'en', // what language should be used for GBIF base maps? See https://tile.gbif.org/ui/ for available languages in basemaps
     defaultProjection: 'MERCATOR', // what is the default projection
