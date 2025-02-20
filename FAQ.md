@@ -11,7 +11,6 @@ height: 70vh
 
 [Hier]({{ site.url}}occurrence/search/?view=DATASETS ) gibt es eine komplette Liste der im Moment im Portal verfügbaren Datensätze.
 
-In Zukunft sollen noch weitere Datensätze hinzugefügt werden. Zum einen Datensätze, die bereits in GBIF verfügbar sind, zum anderen neue Datensätze, die von NFDI4Biodiversity für GBIF mobilisiert werden.
 
 #### Was hat es mit der Rubrik "Ausgewählte Datens(ch)ätze" auf sich?
 
@@ -20,11 +19,11 @@ Unter "Ausgewählte Datens(ch)ätze" stellen wir einzelne Datensätze detaillier
 
 #### Kann ich mir sicher sein, dass Arten richtig bestimmt sind?
 
-Nein. Bestimmungen werden im Portal so angezeigt, wie sie in der ursprünglichen Datenquelle gespeichert sind und können somit Fehler enthalten. Die Datenpublikation im Portal trägt aber dazu bei, dass Fehler gefunden und behoben werden können. Wir arbeiten an einer Filtermöglichkeit um nur "validierte" Datensätze anzeigen zu lassen.
+Nein. Bestimmungen werden im Portal so angezeigt, wie sie in der ursprünglichen Datenquelle gespeichert sind und können somit Fehler enthalten. Die Datenpublikation im Portal trägt aber dazu bei, dass Fehler gefunden und behoben werden können. 
 
-#### Spiegeln die angezeigten Beobachtungen das Verbreitungsgebiet der jeweiligen Arten wider?
+#### Spiegeln die angezeigten Beobachtungen das tatsächliche Verbreitungsgebiet der jeweiligen Arten wider?
 
-Nein. Oder zumindest nur sehr begrenzt. Denn die Verbreitung der angezeigten Beobachtungen ist vor allem abhängig von der Verbreitung der Beobachter! Wir arbeiten darauf hin, in Zukunft neben Beobachtungsdaten, auch von Fachleuten erstellte Verbreitungskarten einbinden zu können. Mit der derzeitigen Implementierung ist das leider nicht möglich.
+Nein. Oder zumindest nur sehr begrenzt. Denn die Verbreitung der angezeigten Beobachtungen ist vor allem abhängig von der Verbreitung der Beobachter! So gibt es in urbanen Räumen zum Beispiel oftmals mehr Meldungen als in ländlichen Regionen. 
 
 #### Kann ich die Daten auch herunterladen?
 
@@ -42,7 +41,5 @@ Bitte überprüfen Sie, welche Lizenzen bei den heruntergeladenen Daten Anwendun
 
 #### Ich möchte einen Datensatz beitragen. Wie gehe ich vor?
 
-Super. Wir arbeiten noch an der Pipeline zum Beitragen von Daten. Bis dahin melden Sie sich bei uns oder bei einem der deutschen [GBIF-Knoten](http://www.gbif.de/).
-
-
+Wir können alle Daten einbinden, die auf öffentlich GBIF publiziert werden. Gerne unterstützen wir auch bei der GBIF-Publikation. In Deutschland ist der einfachste Weg für eine Datenpublikation auf GBIF der [gfbio submission service](https://submissions.gfbio.org/). Alle statischen Datensätze, die über gfbio-Datenzentren publiziert und archiviert werden, landen automatisch auch im LAND-Portal. Um sicher zu gehen sollten bei der Einreichung allerdings kurz auch die Anbindung ans LAND-Portal angefragt werden. Für die Anbindung dynamischer Datensätze an GBIF und das LAND-Portal kontaktieren Sie bitte den NFDI4Biodiversity Helpdesk per [Email](mailto:helpdesk@nfdi4biodiversity.org) oder über das [Kontaktformular](https://www.nfdi4biodiversity.org/de/kontakt/). Dann finden wir gemeinsam eine Lösung, die zu Ihrem Anliegen passt.
 
