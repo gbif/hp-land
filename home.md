@@ -20,8 +20,6 @@ composition:
 - type: heroImage
 - type: stats
   data: home.stats
-- type: split
-  data: home.announcement
 - type: features
   data: home.cards_datenschaetze
 - type: features
