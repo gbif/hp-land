@@ -79,5 +79,17 @@ stats:
       description: Nachweise mit Fotos
       background: /assets/icons/photos.png
       href: /occurrence/search/?view=GALLERY
-
+      
+announcement:
+  reverse: true
+  preTitle: Event 
+  title: "SAVE THE DATE: 20.-21.01.25 LAND Community Workshop 2025"
+  description: |      # required
+    Wir laden wieder herzlich ein zu unserem jährlichen Community Workshop in Leipzig.
+  background: /assets/images/PXL_20240123_093111173_crop.jpg
+  href: /community_und_events/community_workshop_2025
+  cta:
+  - text: Weitere Informationen
+    href: /community_und_events/community_workshop_2025
+    isPrimary: true
       
