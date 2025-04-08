@@ -42,7 +42,3 @@ Bitte überprüfen Sie, welche Lizenzen bei den heruntergeladenen Daten Anwendun
 #### Ich möchte einen Datensatz beitragen. Wie gehe ich vor?
 
 Wir können alle Daten einbinden, die auf öffentlich GBIF publiziert werden. Gerne unterstützen wir auch bei der GBIF-Publikation. In Deutschland ist der einfachste Weg für eine Datenpublikation auf GBIF der [gfbio submission service](https://submissions.gfbio.org/). Alle statischen Datensätze, die über gfbio-Datenzentren publiziert und archiviert werden, landen automatisch auch im LAND-Portal. Um sicher zu gehen sollte bei der Einreichung allerdings kurz auch die Anbindung ans LAND-Portal angefragt werden. Für die Anbindung dynamischer Datensätze an GBIF und das LAND-Portal kontaktieren Sie bitte den NFDI4Biodiversity Helpdesk per [Email](mailto:helpdesk@nfdi4biodiversity.org) oder über das [Kontaktformular](https://www.nfdi4biodiversity.org/de/kontakt/). Dann finden wir gemeinsam eine Lösung, die zu Ihrem Anliegen passt.
-
-#### Ich habe eine andere Frage. An wen wende ich mich?
-
-Der NFDI4Bio-Helpdesk kann per [Email](mailto:helpdesk@nfdi4biodiversity.org) erreicht werden.
