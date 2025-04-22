@@ -7,6 +7,7 @@ imageLicense: |
   *Holopyga fervida*. Photo by Karsten Mody via [iNaturalist](https://www.inaturalist.org/observations/144467642)
 height: 70vh
 ---
+## NFDI4Biodiversity
 
 Diese Webseite wird gemeinsam entwickelt und betrieben als Service von [NFDI4Biodiversity](https://www.nfdi4biodiversity.org/). Die Partner des Konsortiums NFDI4Biodiversity werden von der Deutschen Forschungsgemeinschaft (DFG) im Rahmen der Bund-Länder-Vereinbarung zu Aufbau und Förderung der Nationalen Forschungsdateninfrastruktur (NFDI) vom 26. November 2018 gefördert (Projektnummer [442032008](https://gepris.dfg.de/gepris/projekt/442032008?context=projekt&task=showDetail&id=442032008&)).
 
@@ -35,7 +36,7 @@ Email: thore.engel@idiv.de
 #### Jörg Holetschek  
 Email: J.Holetschek@bo.berlin
 
-### Technik und hosting
+## Technik und hosting
 Das Portal und die Website werden gehostet von [GBIF](https://www.gbif.org/).
 
 
