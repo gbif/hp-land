@@ -61,6 +61,7 @@ var siteConfig = {
                     '8ea4250e-0ff0-44f8-812e-bffc3b9ba2a4', //Bayerisches Landesamt für Umwelt (LfU) Pflanzen
                     '11c5c7f0-08cf-4a8b-a0e2-dfbc9ad768e3', // Forstamtsdaten
                     '3580c8a0-33eb-40ac-b172-995854622428', // Baggersee-Daten
+                    '94596968-b143-4622-9b66-01a733bccc33' // Tierfundkataster
                   ]
                 },
                 {
