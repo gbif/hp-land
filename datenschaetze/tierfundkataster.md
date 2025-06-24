@@ -1,11 +1,10 @@
 ---
 layout: post 
-title: "Der Tierfund-Kataster des Deutschen Jagdverbands DJV"
+title: "Das Tierfund-Kataster des Deutschen Jagdverbands DJV"
 
-background: /assets/images/tierfundkataster/tierfund-kataster-logo.svg
+background: /assets/images/tierfundkataster/tierfund-kataster-logo.png
 imageLicense: |
   
-height: 70vh
 ---
 Im Datensatz des Tierfund-Katasters, das seit 2025 in GBIF und im Lebendigen Atlas der Natur Deutschlands (LAND)
 gelistet ist, werden Totfunde von Schalenwildarten (Reh, Damwild, Rotwild, etc.), Dachsen, Marderhunden, Waschbären, Igeln, Eichhörnchen und Fasanen in Deutschland in Folge von Verkehrsunfällen, Krankheit, und Barrieren (z.B. Zäunung, Windkraftanlagen, o.ä.) aufgenommen.
@@ -50,8 +49,8 @@ Weiterführende Links und Informationen finden Sie hier:
 
 ![Quelle: Ponick/DJV](/assets/images/tierfundkataster/ferkel_am_strassenrand.svg)
 
-[^1]: [[https://www.wildtier-kataster.uni-kiel.de/]{.underline}](https://www.wildtier-kataster.uni-kiel.de/)
+[^1]: [https://www.wildtier-kataster.uni-kiel.de}(https://www.wildtier-kataster.uni-kiel.de/)
     Abgerufen: 2025-06-11
 
-[^2]: [[https://www.wildtier-kataster.uni-kiel.de/pages/downloads/totfundkataster.php]{.underline}](https://www.wildtier-kataster.uni-kiel.de/pages/downloads/totfundkataster.php)
+[^2]: [https://www.wildtier-kataster.uni-kiel.de/pages/downloads/totfundkataster.php]https://www.wildtier-kataster.uni-kiel.de/pages/downloads/totfundkataster.php)
     Abgerufen: 2025-06-11
