@@ -47,10 +47,10 @@ Weiterführende Links und Informationen finden Sie hier:
 
 - [https://www.jagdverband.de/sites/default/files/2020-01_DJV-Broschuere_Tierfundkataster_2019.pdf](https://www.jagdverband.de/sites/default/files/2020-01_DJV-Broschuere_Tierfundkataster_2019.pdf)
 
-![Quelle: Ponick/DJV](/assets/images/tierfundkataster/ferkel_am_strassenrand.svg)
+![Quelle: Ponick/DJV](/assets/images/tierfundkataster/ferkel_am_strassenrand.svg "Quelle: Ponick/DJV") 
 
-[^1]: [https://www.wildtier-kataster.uni-kiel.de}(https://www.wildtier-kataster.uni-kiel.de/)
+[^1]: [https://www.wildtier-kataster.uni-kiel.de](https://www.wildtier-kataster.uni-kiel.de/)
     Abgerufen: 2025-06-11
 
-[^2]: [https://www.wildtier-kataster.uni-kiel.de/pages/downloads/totfundkataster.php]https://www.wildtier-kataster.uni-kiel.de/pages/downloads/totfundkataster.php)
+[^2]: [https://www.wildtier-kataster.uni-kiel.de/pages/downloads/totfundkataster.php](https://www.wildtier-kataster.uni-kiel.de/pages/downloads/totfundkataster.php)
     Abgerufen: 2025-06-11
