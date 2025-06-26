@@ -6,7 +6,7 @@ cards_datenschaetze:
   - title: "Das Tierfund-Kataster"
     preTitle: Datens(ch)atz
     description: |      # required
-     Das Tierfund-Kataster ist ein Citizen-Science-Projekt des Deutschen Jagdverbands, in dem Totfunde von Wildtieren gesammelt werden. Diese Daten, die unter anderem für die Wildtierfoschung und die Verkehrsplanung relevant sind, stehen nun im LAND-Portal zur Verfügung.
+     Das Tierfund-Kataster ist ein Citizen-Science-Projekt des Deutschen Jagdverbands, in dem Totfunde von Wildtieren gesammelt werden. Diese Daten, die unter anderem für Wildtierforschung und Verkehrsplanung relevant sind, stehen nun im LAND-Portal zur Verfügung.
     background: /assets/images/tierfundkataster/ferkel_am_strassenrand.svg
     imageLicense: |
      Photo by  Ponick/DJV
