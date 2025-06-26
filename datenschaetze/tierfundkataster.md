@@ -6,9 +6,7 @@ background: /assets/images/tierfundkataster/tierfund-kataster-logo.png
 imageLicense: |
   
 ---
-Im Datensatz des Tierfund-Katasters, das seit 2025 in GBIF und im Lebendigen Atlas der Natur Deutschlands (LAND)
-gelistet ist, werden Totfunde von Schalenwildarten (Reh, Damwild, Rotwild, etc.), Dachsen, Marderhunden, Waschbären, Igeln, Eichhörnchen und Fasanen in Deutschland in Folge von Verkehrsunfällen, Krankheit, und Barrieren (z.B. Zäunung, Windkraftanlagen, o.ä.) aufgenommen.
-Im LAND sind aktuell (Juni 2025) deutschlandweit über 110.000 Meldungen, punkt- und größtenteils artgenau gemeldet, neue kommen regelmäßig dazu.
+Im Datensatz des Tierfund-Katasters werden Totfunde von Schalenwildarten (Reh, Damwild, Rotwild, etc.), Dachsen, Marderhunden, Waschbären, Igeln, Eichhörnchen und Fasanen in Deutschland in Folge von Verkehrsunfällen, Krankheit, und Barrieren (z.B. Zäunung, Windkraftanlagen, o.ä.) aufgenommen. Seit 2025 sind diese Daten in GBIF und im Lebendigen Atlas der Natur Deutschlands (LAND) gelistet. Der Datensatz umfasst  aktuell (Juni 2025) deutschlandweit über 110.000 Meldungen, punkt- und größtenteils artgenau gemeldet - neue kommen regelmäßig dazu.
 
 [Hier](https://land.gbif.de/occurrence/search/?datasetKey=94596968-b143-4622-9b66-01a733bccc33) geht es zum Datensatz im LAND-Portal.
 
@@ -43,7 +41,7 @@ Damit unterstützen Sie die bundesweit erste, einheitliche und standortgenaue Er
 
 Weiterführende Links und Informationen finden Sie hier:
 
-- www.tierfund-kataster.de
+- [www.tierfund-kataster.de](www.tierfund-kataster.de)
 
 - [https://www.jagdverband.de/sites/default/files/2020-01_DJV-Broschuere_Tierfundkataster_2019.pdf](https://www.jagdverband.de/sites/default/files/2020-01_DJV-Broschuere_Tierfundkataster_2019.pdf)
 
