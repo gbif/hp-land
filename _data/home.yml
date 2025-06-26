@@ -10,7 +10,7 @@ cards_datenschaetze:
     background: /assets/images/tierfundkataster/ferkel_am_strassenrand.svg
     imageLicense: |
      Photo by  Ponick/DJV
-    href: /datenschaetze/artenfinder
+    href: /datenschaetze/tierfundkataster
   - title: "ArtenFinder"
     preTitle: Datens(ch)atz
     description: |      # required
