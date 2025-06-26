@@ -3,6 +3,14 @@ cards_datenschaetze:
   description: |
     Hier stellen wir einige der Datens(ch)ätze vor, die im LAND-Portal zu finden sind.
   features:
+  - title: "Das Tierfund-Kataster"
+    preTitle: Datens(ch)atz
+    description: |      # required
+     Das Tierfund-kataster ist ein Citizen-Science-Projekt des Deutschen Jagdverbands, in dem Totfunde von Wildtieren gemeldet werden. Diese Daten wurden jetzt auch an GBIF und den das LAND-Portal angebunden. 
+    background: /assets/images/tierfundkataster/ferkel_am_strassenrand.svg
+    imageLicense: |
+     Photo by  Ponick/DJV
+    href: /datenschaetze/artenfinder
   - title: "ArtenFinder"
     preTitle: Datens(ch)atz
     description: |      # required
