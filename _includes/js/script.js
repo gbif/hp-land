@@ -13,10 +13,12 @@ function updateElementText(selector, value) {
   $el.classList.add('ajax-is-loaded');
 }
 
+
 document.addEventListener('DOMContentLoaded', () => {
   // Fallbacks for config
   var graphqlEndpoint = window.siteConfig?.graphqlEndpoint || 'https://graphql.gbif.org/graphql';
-  var predicate = window.siteConfig?.occurrence?.rootPredicate || {};
+  // Use the correct subset predicate from config.js
+  var predicate = window.siteConfig?.occurrenceSearch?.scope || {};
 
   const query = `query ($predicate: Predicate) {
     occurrenceSearch(predicate: $predicate, size: 0) {
