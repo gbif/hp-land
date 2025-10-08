@@ -1,65 +1,56 @@
+
 function updateElementText(selector, value) {
   const $el = document.querySelector(selector);
   if (!$el) return;
-
-  if (typeof value !== 'undefined') {
-    var text = value;
-    if (typeof value === 'number') {
-      text = value.toLocaleString(currentLocale);
-    }
-    $el.textContent = text;
-    $el.classList.remove('ajax-is-loading');
-    $el.classList.add('ajax-is-loaded');
+  var text = value;
+  if (typeof value === 'number') {
+    // Use browser locale or fallback
+    var locale = (window.currentLocale || navigator.language || 'en');
+    text = value.toLocaleString(locale);
   }
+  $el.textContent = (typeof text !== 'undefined') ? text : '—';
+  $el.classList.remove('ajax-is-loading');
+  $el.classList.add('ajax-is-loaded');
 }
 
-{% assign graphqlEndpoint = site.graphqlEndpoint | default: "https://graphql.gbif.org/graphql" %}
-
 document.addEventListener('DOMContentLoaded', () => {
-  const predicate = siteConfig.occurrence.rootPredicate;
+  // Fallbacks for config
+  var graphqlEndpoint = window.siteConfig?.graphqlEndpoint || 'https://graphql.gbif.org/graphql';
+  var predicate = window.siteConfig?.occurrence?.rootPredicate || {};
+
   const query = `query ($predicate: Predicate) {
-    occurrenceSearch(predicate: $predicate, size: 10) {
-      documents {
-        total
-      }
+    occurrenceSearch(predicate: $predicate, size: 0) {
+      documents { total }
       facet {
-        mediaType {
-          key
-          count
-        }
-        hasCoordinate {
-          key
-          count
-        }
+        mediaType { key count }
+        hasCoordinate { key count }
       }
-      cardinality {
-        datasetKey
-      }
+      cardinality { datasetKey }
     }
   }`;
-  const url = `{{ graphqlEndpoint }}?query=${encodeURIComponent(query)}&variables=${encodeURIComponent(JSON.stringify({ predicate }))}`;
+
+  const url = `${graphqlEndpoint}?query=${encodeURIComponent(query)}&variables=${encodeURIComponent(JSON.stringify({ predicate }))}`;
 
   fetch(url)
     .then(function (response) {
       return response.json();
     })
     .then(function (jsonResponse) {
-      var occurrenceCount = jsonResponse.data.occurrenceSearch.documents.total;
-      updateElementText('#occurrenceCount', occurrenceCount);
+      var data = jsonResponse?.data?.occurrenceSearch || {};
+      updateElementText('#occurrenceCount', data.documents?.total);
 
-      var imageCount = jsonResponse.data.occurrenceSearch.facet.mediaType.filter(facet => facet.key === 'StillImage')[0].count;
-      updateElementText('#imageCount', imageCount);
+      // Find StillImage facet safely
+      var imageFacet = (data.facet?.mediaType || []).find(f => f.key === 'StillImage');
+      updateElementText('#imageCount', imageFacet?.count);
 
-      var occurrenceMapCount = jsonResponse.data.occurrenceSearch.facet.hasCoordinate.filter(facet => facet.key === true)[0].count;
-      updateElementText('#mapCount', occurrenceMapCount);
+      // Find hasCoordinate true facet safely
+      var mapFacet = (data.facet?.hasCoordinate || []).find(f => f.key === true);
+      updateElementText('#mapCount', mapFacet?.count);
 
-      var datasetCount = jsonResponse.data.occurrenceSearch.cardinality.datasetKey;
-      updateElementText('#datasetCount', datasetCount);
-
-      var publisherCount = jsonResponse.data.occurrenceSearch.cardinality.publishingOrg;
-      updateElementText('#publisherCount', publisherCount);
+      updateElementText('#datasetCount', data.cardinality?.datasetKey);
+      // publisherCount removed (not in query)
     })
     .catch(function (err) {
-      console.error('Error fetching occurrence count:', err);
+      console.error('Error fetching occurrence stats:', err);
     });
 });
