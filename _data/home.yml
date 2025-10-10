@@ -55,7 +55,7 @@ cards_on_home:
         Unser nächster Community Workshop zur Datenmobilisierung, Kapazitätsaufbau und Vernetzung findet vom 19.–21. Januar 2026 am iDiv in Leipzig statt. Wir organisieren wieder einen gemeinsamen Workshop mit sMon.
       background: /assets/images/workshop_photo.jpg # img required
       imageLicense: Photo by iDiv.
-      href: /community_und_events/community_workshop_2026
+      href: /community_workshop_2026
     - title: LAND Community Workshop 2025 # required
       preTitle: Event  # optional
       description: |      # required
