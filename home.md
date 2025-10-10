@@ -28,6 +28,8 @@ composition:
 # - type: pageMarkdown   # Only needed once, at the desired position
 ---
 
-::: {style="margin:0; padding:0; text-align:center; font-size:1em; font-weight:normal"}
-<a href="./community_und_events/community_workshop_2026" style="text-decoration:none; color:inherit;"> 🌟 **Save the Date: 19.–21. Januar 2026 – LAND/sMon Community Workshop** 🌟 </a>
-:::
+<div style="margin:0; padding:0; text-align:center; font-size:1em; white-space:nowrap;">
+  <a href="./community_und_events/community_workshop_2026" style="text-decoration:none; color:inherit;">
+    🌟 <strong>Save the Date: 19.–21. Januar 2026 – LAND/sMon Community Workshop 2026</strong> 🌟
+  </a>
+</div>
