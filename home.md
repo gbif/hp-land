@@ -28,4 +28,4 @@ composition:
 # - type: pageMarkdown   # Only needed once, at the desired position
 ---
 
-[**🌟Save-the-Date: 19.–21. Januar 2026 \| LAND/ sMon Community Workshop 2026** **🌟**](./community_und_events/community_workshop_2026)\
+### [**🌟**](./community_und_events/community_workshop_2026)[Save the Date: 19.–21. Januar 2026 – LAND/sMon Community Workshop 2026](./community_und_events/community_workshop_2026)[**🌟**](./community_und_events/community_workshop_2026)
