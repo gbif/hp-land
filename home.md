@@ -28,8 +28,8 @@ composition:
 # - type: pageMarkdown   # Only needed once, at the desired position
 ---
 
-<div class="event-banner">
-  <a href="./community_und_events/community_workshop_2026" style="text-decoration:none; color:inherit;">
+<div class="notification is-warning has-text-centered is-size-5 py-2 my-2">
+  <a href="./community_und_events/community_workshop_2026" style="color:inherit; text-decoration:none;">
     🌟 <strong>Save the Date: 19.–21. Januar 2026 – LAND/sMon Community Workshop 2026</strong> 🌟
   </a>
 </div>
