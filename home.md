@@ -26,3 +26,7 @@ composition:
   data: home.cards_on_home
 - type: pageMarkdown # This block will render the markdown in this file so no data property needed
 ---
+
+> ** LAND/ sMon Community Workshop 2026 – Jetzt vormerken! **  
+> Unser nächster Community Workshop zur Datenmobilisierung und Vernetzung findet vom 19.–21. Januar 2026 am iDiv in Leipzig statt.  
+> [Mehr erfahren & vormerken](./community_und_events/community_workshop_2026)

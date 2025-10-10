@@ -6,7 +6,7 @@ cards_datenschaetze:
   - title: "Das Tierfund-Kataster"
     preTitle: Datens(ch)atz
     description: |      # required
-     Das Tierfund-Kataster ist ein Citizen-Science-Projekt des Deutschen Jagdverbands, in dem Totfunde von Wildtieren gesammelt werden. Diese Daten, die unter anderem für Wildtierforschung und Verkehrsplanung relevant sind, stehen nun im LAND-Portal zur Verfügung.
+     Das Tierfund-Kataster ist ein Citizen-Science-Projekt des Deutschen Jagdverbands, in dem Totfunde von Wildtieren gesammelt werden. Diese Daten, die unter anderem für Wildtierforschung und Verkehrssicherheit genutzt werden, stehen frei zur Verfügung.
     background: /assets/images/tierfundkataster/ferkel_am_strassenrand.svg
     imageLicense: |
      Photo by  Ponick/DJV
@@ -25,12 +25,12 @@ cards_datenschaetze:
      Das Rote-Liste-Zentrum liefert uns die übers Datenportal "Neuropteren Deutschlands" gemeldeten Netzflüglernachweise.
     background: /assets/images/insects-4438099_1920-cropped.jpg
     imageLicense: |
-     Photo by [Francisco Corado Rivera](https://pixabay.com/de/users/franciscojaviercorador-1727916/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4438099) via [Pixabay](https://pixabay.com/de/photos/insekten-crisopa-crisopa-gr%C3%BCn-4438099/) 
+     Photo by [Francisco Corado Rivera](https://pixabay.com/de/users/franciscojaviercorador-1727916/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4438099) via [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4438099)
     href: /datenschaetze/neuropteren
   - title: "Insekten Sachsen"
     preTitle: Datens(ch)atz
     description: |      # required
-     Das Citizen Science Projekt "Insektsen Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und darüber hinaus. Mehr über die erfolgreiche Zusammenarbeit zwischen professionellen und freiwilligen Insektenforschern gibt es in unserem Artikel zum Datens(ch)atz.
+     Das Citizen Science Projekt "Insekten Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und darüber hinaus. Mehr über die erfolgreiche Zusammenarbeit zwischen professionellen und ehrenamtlichen Forschenden gibt es im Portal.
     background: /assets/images/insekten_sachsen/photo3.jpg
     imageLicense: |
      Erfassung der biologischen Vielfalt mit den Neuen Medien. Insekten¬Sachsen¬Sommertreffen 2018. Foto: Tilmann Adler. 
@@ -38,7 +38,7 @@ cards_datenschaetze:
   - title: "Harmonisierte Fischmonitoringdaten von 12 Bundesländern "
     preTitle: Datens(ch)atz
     description: |
-     Dieser Datens(ch)atz über Fischvorkommen und -Abundanzen in Deutschland wurde für die Erstellung der Roten Liste der Süßwasserfische gehoben. Zwölf Bundesländer haben dazu beigetragen und ihre Daten mit Hilfe von NFDI4Biodiversity auf GBIF publiziert.
+     Dieser Datens(ch)atz über Fischvorkommen und -Abundanzen in Deutschland wurde für die Erstellung der Roten Liste der Süßwasserfische gehoben. Zwölf Bundesländer haben dazu beigetragen und ihre Daten harmonisiert.
     background: /assets/images/elbe-g06d81b88e_1920.jpg
     imageLicense: |
      Photo by Sven Lachmann via [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2105096)
@@ -47,8 +47,15 @@ cards_datenschaetze:
 cards_on_home:
   title: LAND Community Workshop
   description: |      # required
-     Bei unseren jährlichen Workshops zu Jahresbeginn trifft sich unsere lebendige Community zum regelmäßigen Austausch. Neue Gesichter und Datensätze sind immer gerne gesehen. Sprechen Sie uns an!
+     Bei unseren jährlichen Workshops zu Jahresbeginn trifft sich unsere lebendige Community zum regelmäßigen Austausch. Neue Gesichter und Datensätze sind immer gerne gesehen. Sprechen Sie uns an, wenn Sie teilnehmen möchten!
   features:
+    - title: LAND/ sMon Community Workshop 2026 # required
+      preTitle: Event  # optional
+      description: |      # required
+        Ankündigung: Unser nächster Community Workshop zur Datenmobilisierung, Kapazitätsaufbau und Vernetzung findet vom 19.–21. Januar 2026 am iDiv in Leipzig statt. Weitere Infos zum Programm und zur Anmeldung folgen demnächst!
+      background: /assets/images/iDivBuilding-Flowers.jpg # img required
+      imageLicense: Photo by iDiv.
+      href: /community_und_events/community_workshop_2026
     - title: LAND Community Workshop 2025 # required
       preTitle: Event  # optional
       description: |      # required
@@ -56,7 +63,6 @@ cards_on_home:
       background: /assets/files/workshop_2025/Gruppenfoto.jpg # img required
       imageLicense: Photo by iDiv.
       href: /community_und_events/community_workshop_2025
-      # categories: [drawings] # optional
     - title: Cross-community workshop 2024 # required
       preTitle: Event  # optional
       description: |      # required
@@ -64,7 +70,6 @@ cards_on_home:
       background: /assets/images/iDivBuilding-Flowers.jpg # img required
       imageLicense: Photo by iDiv.
       href: /community_und_events/cross_community_workshop_2024
-      # categories: [drawings] # optional
     - title: LAND community workshop 2023 # required
       preTitle: Event  # optional
       description: |      # required
@@ -90,6 +95,3 @@ stats:
       description: Nachweise mit Fotos
       background: /assets/icons/photos.png
       href: /occurrence/search/?view=GALLERY
-
-
-      
