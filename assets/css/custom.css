@@ -1,0 +1,12 @@
+.event-banner {
+  margin: 0 !important;
+  padding: 0.25em 0 !important;
+  background: none !important;
+  font-size: 1em !important;
+  text-align: center !important;
+}
+.event-banner a {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-weight: bold !important;
+}

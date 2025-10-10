@@ -63,7 +63,8 @@ algae:
     colors:
       primary: "#33691B"          # Primary color of your brand. Use HEX code. Used for buttons and links
       links: "#33691B"          # What color should links have. Use a HEX code. DEfault is primary color. 
-    coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
+    coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true.
+    custom: /assets/css/custom.css
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar
     # color: "tomato"             # What color should the navbar be?
