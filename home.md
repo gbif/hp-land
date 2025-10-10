@@ -17,8 +17,8 @@ cta:
 permalink: /
 
 composition:
-- type: heroImage
 - type: pageMarkdown
+- type: heroImage
 - type: stats
   data: home.stats
 - type: features
@@ -28,6 +28,4 @@ composition:
 # - type: pageMarkdown   # Only needed once, at the desired position
 ---
 
-> **🌟 LAND/ sMon Community Workshop 2026 – Jetzt vormerken! 🌟**\
-> Unser nächster Community Workshop zur Datenmobilisierung und Vernetzung findet vom 19.–21. Januar 2026 am iDiv in Leipzig statt.\
-> [Mehr erfahren & vormerken](./community_und_events/community_workshop_2026)
+[**🌟Save-the-Date: 19.–21. Januar 2026 \| LAND/ sMon Community Workshop 2026** **🌟**](./community_und_events/community_workshop_2026)\
