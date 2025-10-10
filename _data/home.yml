@@ -53,7 +53,7 @@ cards_on_home:
       preTitle: Event  # optional
       description: |      # required
         Ankündigung: Unser nächster Community Workshop zur Datenmobilisierung, Kapazitätsaufbau und Vernetzung findet vom 19.–21. Januar 2026 am iDiv in Leipzig statt. Weitere Infos zum Programm und zur Anmeldung folgen demnächst!
-      background: /assets/images/iDivBuilding-Flowers.jpg # img required
+      background: /assets/images/workshop_photo.jpg # img required
       imageLicense: Photo by iDiv.
       href: /community_und_events/community_workshop_2026
     - title: LAND Community Workshop 2025 # required
