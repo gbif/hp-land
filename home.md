@@ -17,8 +17,8 @@ cta:
 permalink: /
 
 composition:
-- type: pageMarkdown
 - type: heroImage
+- type: pageMarkdown
 - type: stats
   data: home.stats
 - type: features
