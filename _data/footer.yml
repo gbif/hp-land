@@ -7,10 +7,12 @@ columns:
     links:
     - text: NFDI4Biodiversity
       href: https://www.nfdi4biodiversity.org
+    - text: Universität Jena
+      href: https://www.uni-jena.de/
+    - text: iDiv Halle-Jena-Leipzig
+      href: https://www.idiv.de/
     - text: BGBM Berlin
       href: https://www.bgbm.org/de
-    - text:  iDiv Halle-Jena-Leipzig
-      href: https://www.idiv.de/
 
   - name: Entwicklung
     description: | # Can be Markdown
