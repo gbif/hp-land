@@ -19,9 +19,7 @@ Wir freuen uns insbesondere über die Teilnahme von Personen, die neue Datensät
 
 #### Datum
 
--   19.01. - 20.01. 2026 (offen für alle)
-
--   21.01.24 (internes Arbeitstreffen)
+19.01. - 20.01. 2026 (offen für alle) & 21.01.24 (internes Arbeitstreffen)
 
 #### Ort
 
