@@ -4,7 +4,7 @@ title: LAND/ sMon Community Workshop 2026
 
 background: /assets/images/iDivBuilding-Flowers.jpg
 imageLicense: |
-Photo by iDiv
+ Photo by iDiv
 height: 200vh
 permalink: /community_workshop_2026
 ---
