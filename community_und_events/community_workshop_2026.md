@@ -26,3 +26,11 @@ Weitere Infos zum Programm und zur Anmeldung folgen demnächst hier.
 #### Ort
 
 iDiv, Puschstraße 4, 04103 Leipzig
+
+### Programm ([Download hier][1])
+
+<object data="/assets/files/workshop_2026/LAND_sMon_Workshop_2026" width="1000" height="1000" type='application/pdf'/>
+
+
+
+[1]:{{ site.url }}/assets/files/workshop_2026/LAND_sMon_Workshop_2026
