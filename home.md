@@ -18,7 +18,6 @@ permalink: /
 
 composition:
 - type: heroImage
-- type: pageMarkdown
 - type: stats
   data: home.stats
 - type: features
