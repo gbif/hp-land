@@ -12,7 +12,35 @@ Wer wir sind wer ist das Team:
 
 |     |     |     |
 |:---:|:---:|:---:|
-|<BR><figure class="image is-128x128"><img class="is-rounded" src="/assets/images/Team_photos/aletta_bonn_1.jpg"></figure><BR> **Aletta Bonn** <BR> _PI_ | <BR><figure class="image is-128x128"><img class="is-rounded" src="/assets/images/Team_photos/anton_guntsch_1.jpg"></figure><BR> **Anton Güntsch** <BR> _PI_ | <BR><figure class="image is-128x128"><img class="is-rounded" src="/assets/images/Team_photos/Koenig_Ries_1.jpg"></figure><BR> **Birgitta König-Ries** <BR> _PI_ |
-|<BR><figure class="image is-128x128"><img class="is-rounded" src="/assets/images/Team_photos/jh_portrait_1.jpg"></figure><BR> **Jörg Holetschek** <BR> _Projektmitarbeiter_ | <BR><figure class="image is-128x128"><img class="is-rounded" src="/assets/images/Team_photos/Thore_Engel_1.jpg"></figure><BR> **Thore Engel** <BR> _Projektmitarbeiter_ | <BR><figure class="image is-128x128"><img class="is-rounded" src="/assets/images/Team_photos/koepke_robert_privat__1.jpg"></figure><BR> **Robert Köpke** <BR> _Projektmitarbeiter_ |
+| <div align="center">
+  <img src="/assets/images/Team_photos/aletta_bonn_1.jpg" width="128" height="128" style="border-radius:50%;"><br>
+  **Aletta Bonn**<br>
+  _PI_
+  </div> |
+  <div align="center">
+  <img src="/assets/images/Team_photos/anton_guntsch_1.jpg" width="128" height="128" style="border-radius:50%;"><br>
+  **Anton Güntsch**<br>
+  _PI_
+  </div> |
+  <div align="center">
+  <img src="/assets/images/Team_photos/Koenig_Ries_1.jpg" width="128" height="128" style="border-radius:50%;"><br>
+  **Birgitta König-Ries**<br>
+  _PI_
+  </div> |
 
+| <div align="center">
+  <img src="/assets/images/Team_photos/jh_portrait_1.jpg" width="128" height="128" style="border-radius:50%;"><br>
+  **Jörg Holetschek**<br>
+  _Projektmitarbeiter_
+  </div> |
+  <div align="center">
+  <img src="/assets/images/Team_photos/Thore_Engel_1.jpg" width="128" height="128" style="border-radius:50%;"><br>
+  **Thore Engel**<br>
+  _Projektmitarbeiter_
+  </div> |
+  <div align="center">
+  <img src="/assets/images/Team_photos/koepke_robert_privat__1.jpg" width="128" height="128" style="border-radius:50%;"><br>
+  **Robert Köpke**<br>
+  _Projektmitarbeiter_
+  </div> |
 
