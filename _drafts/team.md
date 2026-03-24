@@ -8,10 +8,10 @@ imageLicense: |
 height: 41vh
 ---
 
-Es un grupo de profesionales que velan por la coherencia y viabilidad de los procesos de montaje, puesta en marcha y mantenimiento de las condiciones de infraestructura, contenidos, gobernanza y comunicación del SiB Colombia. La conformación del EC-SiB será liderada por la entidad coordinadora.
+Wer wir sind wer ist das Team: 
 
 |     |     |     |
 |:---:|:---:|:---:|
-|<BR><figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_MariaLondono.png"></figure><BR> **María Cecilia Londoño** <BR> _Coordinación_ | <BR><figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_SebastianLozano.png"></figure><BR> **Juan Sebastian Lozano** <BR> _Gestión y Cooperación_ | <BR><figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_DavidGonzalez.png"></figure><BR> **David Gonzalez** <BR> _Productos y Servicios_ |
+|<BR><figure class="image is-128x128"><img class="is-rounded" src="/assets/images/Team_photos/aletta_bonn-privat.jpg"></figure><BR> **Aletta Bonn** <BR> _PI_ | <BR><figure class="image is-128x128"><img class="is-rounded" src="/assets/images/Team_photos/anton_guntsch_0.jpg"></figure><BR> **Anton Güntsch** <BR> _PI_ | <BR><figure class="image is-128x128"><img class="is-rounded" src="/assets/images/Team_photos/Koenig_Ries.jpg"></figure><BR> **Birgitta König-Ries** <BR> _PI_ |
 
 
