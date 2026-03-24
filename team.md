@@ -1,5 +1,4 @@
 ---
-layout: heroImage
 title: Team
 background: /assets/images/inat_observation_144467642.jpeg
 imageLicense: |
@@ -7,7 +6,7 @@ imageLicense: |
 height: 70vh
 ---
 
-Hinter dem Lebendigen Atlas der Natur Deutschland verbirgt sich ein interdisziplinäres Team von NFDI4Biodiversity.
+## Hinter dem Lebendigen Atlas der Natur Deutschland verbirgt sich ein interdisziplinäres Team von NFDI4Biodiversity.
 
 |     |     |     |
 |:---:|:---:|:---:|
