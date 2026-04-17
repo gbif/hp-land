@@ -50,9 +50,10 @@ cards_on_home:
      Bei unseren jährlichen Workshops zu Jahresbeginn trifft sich unsere lebendige Community zum regelmäßigen Austausch. Neue Gesichter und Datensätze sind immer gerne gesehen. Sprechen Sie uns an, wenn Sie teilnehmen möchten!
   features:
     - title: LAND/ sMon Community Workshop 2026 # required
-      preTitle: Event-Ankündigung  # optional
+      preTitle: Event  # optional
       description: |      # required
-        Unser nächster Community Workshop zur Datenmobilisierung, Kapazitätsaufbau und Vernetzung findet vom 19.–21. Januar 2026 am iDiv in Leipzig statt. Wir organisieren wieder einen gemeinsamen Workshop mit sMon.
+       Im Januar 2026 haben wir unseren Community Workshop wieder zusammen mit dem sMon Projekt am iDiv in Leipzig veranstaltet. Es gab einen
+       regen Austausch rund um den gesamten Lebenszyklus von Biodiversitätsdaten.
       background: /assets/images/workshop_photo.jpg # img required
       imageLicense: Photo by iDiv.
       href: /community_workshop_2026

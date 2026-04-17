@@ -4,11 +4,10 @@ _site
 .jekyll-metadata
 vendor
 _config_local.yml
-
 # Mac OS X
 .DS_Store
 .Rproj.user
-
 hp-land.Rproj
 LAND code.Rproj
 .Rhistory
+hp_land.Rproj
