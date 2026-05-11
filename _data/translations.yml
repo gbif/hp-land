@@ -1,6 +1,21 @@
 relatedPosts:
   en: "Related Posts"
   de: "Verwandte Artikel"
+
 differentLanguage:
   en: "This page is available in following languages"
   de: "Verfügbar in folgenden Sprachen"
+ 
+terms:
+  en: |
+    We use cookies on our website. Some are technically necessary, others help us improve your user experience. You can decline non-essential cookies by selecting "Reject". Please see our [Privacy Policy](https://www.bo.berlin/de/datenschutzerklaerung) for further information about our privacy practices and use of cookies.
+  de: |
+    Wir setzen Cookies auf dieser Webseite ein. Einige sind technisch notwendig, andere dienen dazu, unsere Website nutzerfreundlicher zu gestalten. Sie können die Nutzung der nicht notwendigen Cookies durch Anklicken der Schaltfläche "Ablehnen" deaktivieren. Mehr dazu finden Sie in der [Datenschutzerklärung](https://www.bo.berlin/de/datenschutzerklaerung) .
+
+acceptTerms:
+  en: 'Accept'
+  de: 'Akzeptieren'
+  
+rejectTerms:
+  en: 'Reject'
+  de: 'Ablehnen'
