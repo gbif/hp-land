@@ -33,9 +33,9 @@ cards_datenschaetze:
      Das Citizen Science Projekt "Insekten Sachsen" liefert qualitätsgeprüfte Vorkommensdaten von Insekten in Sachsen und darüber hinaus. Mehr über die erfolgreiche Zusammenarbeit zwischen professionellen und ehrenamtlichen Forschenden gibt es im Portal.
     background: /assets/images/insekten_sachsen/photo3.jpg
     imageLicense: |
-     Erfassung der biologischen Vielfalt mit den Neuen Medien. Insekten¬Sachsen¬Sommertreffen 2018. Foto: Tilmann Adler. 
+     Erfassung der biologischen Vielfalt mit den Neuen Medien. Insekten-Sachsen-Sommertreffen 2018. Foto: Tilmann Adler.
     href: /datenschaetze/insekten_sachsen
-  - title: "Harmonisierte Fischmonitoringdaten von 12 Bundesländern "
+  - title: "Harmonisierte Fischmonitoringdaten von 12 Bundesländern"
     preTitle: Datens(ch)atz
     description: |
      Dieser Datens(ch)atz über Fischvorkommen und -Abundanzen in Deutschland wurde für die Erstellung der Roten Liste der Süßwasserfische gehoben. Zwölf Bundesländer haben dazu beigetragen und ihre Daten harmonisiert.
@@ -60,7 +60,7 @@ cards_on_home:
     - title: LAND Community Workshop 2025 # required
       preTitle: Event  # optional
       description: |      # required
-       Ca. 70 Teilnehmende waren beim diesjährigen Workshop dabei. Es gab einen lebendigen Austausch zum Thema offene Vorkommensdaten.
+       Ca. 70 Teilnehmende waren beim Workshop 2025 dabei. Es gab einen lebendigen Austausch zum Thema offene Vorkommensdaten.
       background: /assets/files/workshop_2025/Gruppenfoto.jpg # img required
       imageLicense: Photo by iDiv.
       href: /community_und_events/community_workshop_2025
@@ -74,9 +74,9 @@ cards_on_home:
     - title: LAND community workshop 2023 # required
       preTitle: Event  # optional
       description: |      # required
-       Bei einem zweitägen Workshop mit rund 50 Personen haben wir das LAND-Portal erstmalig vorgestellt und gemeinsam weiterentwickelt.
+       Bei einem zweitägigen Workshop mit rund 50 Personen haben wir das LAND-Portal erstmalig vorgestellt und gemeinsam weiterentwickelt.
       background: /assets/images/FskWScGWYBc0V1S.jpg # img required
-      imageLicense: Photo by NDFDI4Biodiversity.
+      imageLicense: Photo by NFDI4Biodiversity.
       href: /community_und_events/community_workshop
       # categories: [drawings] # optional
  
