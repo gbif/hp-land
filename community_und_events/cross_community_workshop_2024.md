@@ -9,7 +9,7 @@ height: 200vh
 ---
 ### Beschreibung
 
-Im Januar 2024 haben wir einen gemeinsamen Cross-community workshop zwischen NFDI4Bidiversity/LAND und [sMon](https://www.idiv.de/de/smon.html) veranstaltet. Mit vielfältigen Vorträgen und interaktiven Workshops haben wir die Vernetzung unserer Communities gestärkt. Inhaltlich ging es um die Weiterentwicklung des Lebendigen Atlas (LAND) und die bessere Vernetzung von Menschen und Daten, um naturschutzrelevante Analysen von Biodiversitätstrends zu ermöglichen. Unten finden Sie das detaillierte Programm und Vortragsfolien als Download.
+Im Januar 2024 haben wir einen gemeinsamen Cross-community workshop zwischen NFDI4Biodiversity/LAND und [sMon](https://www.idiv.de/research/projects/smon/) veranstaltet. Mit vielfältigen Vorträgen und interaktiven Workshops haben wir die Vernetzung unserer Communities gestärkt. Inhaltlich ging es um die Weiterentwicklung des Lebendigen Atlas (LAND) und die bessere Vernetzung von Menschen und Daten, um naturschutzrelevante Analysen von Biodiversitätstrends zu ermöglichen. Unten finden Sie das detaillierte Programm und Vortragsfolien als Download.
 
 
 ### Zeit
@@ -19,7 +19,7 @@ Im Januar 2024 haben wir einen gemeinsamen Cross-community workshop zwischen NFD
 
 ### Ort
 
-iDiv, Puschstrase 4, 04103 Leipzig
+iDiv, Puschstraße 4, 04103 Leipzig
 
 ### Programm ([Download hier][1])
 

@@ -13,7 +13,7 @@ Im Datensatz des Tierfund-Katasters werden Totfunde von Schalenwildarten (Reh, D
 Das Projekt wurde, aufbauend auf dem Wildtier-Kataster, das bereits Ende des 20. Jahrhunderts in Schleswig-Holstein initiiert wurde[^1], 2011 vom Landesjagdverband Schleswig-Holstein und der Christian-Albrechts-Universität zu Kiel um Totfunde erweitert[^2].
 2016 wurde es dann durch den Deutschen Jagdverband (DJV) auf ganz Deutschland ausgeweitet.
 Als Citizen-Science-Projekt sollte eine Plattform geschaffen werden, die es Bürgerinnen und Bürgern ermöglicht, gezielt Wildunfälle und andere Totfunde im Straßenverkehr oder der freien Natur zu dokumentieren.
-Ziel ist es, u.a. Wildunfallschwerpunkte im Schienen- und Straßenverkehr zu identifizieren und langfristige Lösungen zu schaffen, um diese zu entschärfen (z.B. die erfolgreich initiierten Maßnahmen an der B199 nördlich von Kappen (Schleswig-Holstein), wo mit Hilfe der TFK-Daten eine Höchstgeschwindigkeits von 70 km/h festgesetzt wurde).
+Ziel ist es, u.a. Wildunfallschwerpunkte im Schienen- und Straßenverkehr zu identifizieren und langfristige Lösungen zu schaffen, um diese zu entschärfen (z.B. die erfolgreich initiierten Maßnahmen an der B199 nördlich von Kappen (Schleswig-Holstein), wo mit Hilfe der TFK-Daten eine Höchstgeschwindigkeit von 70 km/h festgesetzt wurde).
 Die gesammelten Daten sollen auch als Grundlage für ein datengesteuertes Entscheidungskonzept zur Vermeidung von Unfallschwerpunkten, z.B. in einem Biotopverbund, dienen.
 Außerdem können die Tierfund-Kataster Daten zur frühzeitigen Erkennung und Eindämmung von Tierseuchen wie der Afrikanischen Schweinepest genutzt werden.
 
@@ -41,7 +41,7 @@ Damit unterstützen Sie die bundesweit erste, einheitliche und standortgenaue Er
 
 Weiterführende Links und Informationen finden Sie hier:
 
-- [www.tierfund-kataster.de](www.tierfund-kataster.de)
+- [www.tierfund-kataster.de](https://www.tierfund-kataster.de)
 
 - [https://www.jagdverband.de/sites/default/files/2020-01_DJV-Broschuere_Tierfundkataster_2019.pdf](https://www.jagdverband.de/sites/default/files/2020-01_DJV-Broschuere_Tierfundkataster_2019.pdf)
 

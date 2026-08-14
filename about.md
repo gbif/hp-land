@@ -14,7 +14,7 @@ Der “Lebendige Atlas der Natur Deutschlands” bündelt Artbeobachtungen in De
 
 Das Portal wird im Rahmen eines Use Case der [Nationalen Forschungsdateninfrastruktur für Biodiversität (NFDI4Biodiversity)](https://www.nfdi4biodiversity.org) entwickelt.
 
-Langfristig verfolgt der Lebendige Atlas 5 zentrale Visionen, die mit Vertreter:innen von Verbänden, Fachgesellschaften, Fachbehörden und Wissenschaft, im Rahmen einerMachbarkeitsstudie des UFZ unter leitung von Prof. Aletta Bonn, erarbeitet wurden:
+Langfristig verfolgt der Lebendige Atlas 5 zentrale Visionen, die mit Vertreter:innen von Verbänden, Fachgesellschaften, Fachbehörden und Wissenschaft, im Rahmen einer Machbarkeitsstudie des UFZ unter Leitung von Prof. Aletta Bonn, erarbeitet wurden:
 
 * Projekte für Natur und Umwelt in Deutschland vernetzen und unterstützen
 * Daten zu Natur und Umwelt zusammenführen, harmonisieren und visualisieren
@@ -24,7 +24,7 @@ Langfristig verfolgt der Lebendige Atlas 5 zentrale Visionen, die mit Vertreter:
 
 ### Vorstellung des Lebendigen Atlas beim "BiodiversiTea" (NFDI4Biodiversity-Vortragsreihe)
 
-In diesem Video stellen Martin-Friedrichs-Manthey und Jörg Holetschek das LAND Portal und seine Funktionen vor.
+In diesem Video stellen Martin Friedrichs-Manthey und Jörg Holetschek das LAND Portal und seine Funktionen vor.
 
 <div class="video-container"><iframe width="696" height = "391" src="https://www.youtube.com/embed/nIAbQ1b1h9A?si=EvEEwN51fRodKhzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 

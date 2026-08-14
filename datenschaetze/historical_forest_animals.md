@@ -23,7 +23,7 @@ Die Dokumente wurden zunächst in der Zoologischen Staatssammlung in München au
 
 ### Das Ergebnis: ein Datensatz mit mehr als 5000 georeferenzierten Tierbeobachtungen – ein bemerkenswerter Schatz historischer Biodiversitätsdaten
 
-Erstmals wurden diese historischen Aufzeichnungen nun digitalisiert und die von den Forstbeamten erfassten Arten systematisch für Forschungszwecke aufbereitet. Das Ergebnis: ein Datensatz mit 5.467 georeferenzierten Tierbeobachtungen. Diese Daten sind über das Biodiversitätsportal Global Biodiversity Information Facility (GBIF) in den Lebendigen Atlas der Natur Deutschland integriert und stehen Forschenden weltweit zur Verfügung. So ermöglichen sie Trendanalysen über die Entwicklung von Artenvorkommen über fast zwei Jahrhunderte hinweg.
+Erstmals wurden diese historischen Aufzeichnungen nun digitalisiert und die von den Forstbeamten erfassten Arten systematisch für Forschungszwecke aufbereitet. Das Ergebnis: ein Datensatz mit 5.467 georeferenzierten Tierbeobachtungen. Diese Daten sind über das Biodiversitätsportal Global Biodiversity Information Facility (GBIF) in den Lebendigen Atlas der Natur Deutschlands integriert und stehen Forschenden weltweit zur Verfügung. So ermöglichen sie Trendanalysen über die Entwicklung von Artenvorkommen über fast zwei Jahrhunderte hinweg.
 
 Die Digitalisierung und Aufbereitung der Daten war das Ergebnis einer engen Kooperation zwischen dem Lehrstuhl für Computational Humanities der Universität Passau, der Generaldirektion der Staatlichen Archive Bayerns, dem Deutschen Zentrum für integrative Biodiversitätsforschung (iDiv) sowie dem NFDI4Biodiversity-Konsortium.
 

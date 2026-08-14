@@ -36,7 +36,7 @@ Email: thore.engel@idiv.de
 #### Jörg Holetschek  
 Email: J.Holetschek@bo.berlin
 
-## Technik und hosting
+## Technik und Hosting
 Das Portal und die Website werden gehostet von [GBIF](https://www.gbif.org/).
 
 
