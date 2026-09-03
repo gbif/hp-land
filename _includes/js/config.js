@@ -137,6 +137,7 @@ var siteConfig = {
                 'c76cf030-2a95-11da-9cc1-b8a03c50a862', // Senckenberg
                 '48490260-8fc0-11dd-be72-b8a03c50a862', // Senckenberg CeDAMar
                 '98dbab03-09e5-4ceb-988e-04f3e803decb', // Edaphobase
+                '541c2668-9391-4479-b90f-fe90b365f33b'  // Biodiversity Exploratories
 
 
               ]
