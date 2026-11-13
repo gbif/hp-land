@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: LAND Community Workshop 2027
+title: LAND/sMon Community Workshop 2027
 
 background: /assets/images/iDivBuilding-Flowers.jpg
 imageLicense: |
@@ -11,7 +11,7 @@ permalink: /community_workshop_2027
 
 ### Ankündigung
 
-Auch 2027 veranstalten wir wieder unseren beliebten LAND Community Workshop zur Datenmobilisierung, zum Kapazitätsaufbau und zur Vernetzung unserer interdisziplinären Biodiversitätsdatengemeinschaft veranstalten. Wie im letzten Jahr organisieren wir die Veranstaltung gemeinsam mit unseren Kollegen von sMon
+Auch 2027 veranstalten wir wieder unseren beliebten Community Workshop zur Datenmobilisierung, zum Kapazitätsaufbau und zur Vernetzung unserer interdisziplinären Biodiversitätsdatengemeinschaft. Wie im letzten Jahr organisieren wir die Veranstaltung gemeinsam mit unseren Kollegen von sMon.
 
 Der Workshop wird  am 15.-16.02.2027 am iDiv in Leipzig stattfinden. 
 
