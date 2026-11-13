@@ -17,7 +17,7 @@ Der Workshop wird  am 15.-16.02.2027 am iDiv in Leipzig stattfinden.
 
 #### Datum
 
-15.02.(ab Mittags) - 16.02.2027 (ganztags)
+15.02. (Beginn mittags) - 16.02.2027 (ganztags)
 
 
 #### Ort
